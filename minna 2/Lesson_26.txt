@@ -1,0 +1,194 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 26 (N4)
+   Topic: ~んです (~n desu) - Explaining & Seeking Explanation
+================================================================
+
+[LESSON KA FOCUS]
+Jab hum kisi cheez ki WAJAH explain karte hain, ya kisi situation
+ke baare mein aur jaankari maangte hain - tab ~n desu use hota hai.
+Yeh N4 ka bahut important aur commonly used pattern hai!
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~んです (~n desu)
+   -> Explanation / Reason / Context dene ke liye
+----------------------------------------------------------------
+
+SIMPLE RULE:
+  Plain Form + んです
+
+  VERB     : nomu n desu    / nonda n desu
+  i-ADJ    : atsui n desu   / atsukatta n desu
+  na-ADJ   : hima na n desu / himadatta n desu
+  NOUN     : gakusei na n desu
+
+FORMATION TABLE:
+  -------------------------------------------------------
+  Type        | Present (aff)  | Past (aff)
+  ------------|----------------|------------------------
+  Verb        | 食べるんです    | 食べたんです
+  i-Adj       | 寒いんです      | 寒かったんです
+  na-Adj      | 元気なんです    | 元気だったんです
+  Noun        | 学生なんです    | 学生だったんです
+  -------------------------------------------------------
+
+WHY USE んです?
+  1. REASON explain karna: "Kyunki..." wali feeling deta hai
+  2. OBSERVATION se question karna: "Kya hua?" / "Kyun?"
+  3. Aapki baat mein INTEREST/CONCERN dikhana
+
+EXAMPLES:
+  A: Doshite okuretan desu ka?
+     (Doshite okureta n desu ka?) -> Aap late kyun aaye?
+
+  B: Basu ga konakattan desu.
+     (Basu ga konakatta n desu.) -> Bus nahi aayi (isliye).
+
+  ---
+
+  A: Kao ga akai desu ne. Doshita n desu ka?
+     -> Chehra laal hai. Kya hua?
+
+  B: Sukoshi netsu ga aru n desu.
+     -> Thodi bukhaar hai (mujhe).
+
+  ---
+
+  A: Nihongo ga jouzu desu ne!
+     -> Aapki Japanese bahut achhi hai!
+
+  B: Nihon ni sunde ita n desu.
+     -> (Kyunki) Main Japan mein rehta/rehti tha/thi.
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~んですが、~ (~n desu ga, ~)
+   -> Politely kuch request/help maangne se PEHLE use karo
+   -> "Actually... [situation]" wali feeling
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Situation] n desu ga, [Request/Question]...
+
+EXAMPLES:
+  * Kono michi ga wakaranai n desu ga, oshiete itadakemasen ka?
+    -> Yeh raasta samajh nahi aa raha... bata sakte hain?
+
+  * Saifu wo nakushita n desu ga, dou shitara ii desu ka?
+    -> Wallet kho gayi... kya karun?
+
+  * Kono kanji ga yomenai n desu ga...
+    -> Yeh kanji padh nahi pa raha...
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~たらいいですか (~tara ii desu ka)
+   -> Salah/Guidance maangna: "Kya karun? / Kahan jaun?"
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Situation] n desu ga, dou/dare/doko/itsu + shitara ii desu ka?
+
+EXAMPLES:
+  * Atama ga itai n desu ga, dou shitara ii desu ka?
+    -> Sir dard ho raha hai... kya karun?
+    
+  * Kono hon wo karitai n desu ga, dou shitara ii desu ka?
+    -> Yeh kitaab udhaarna chahta/chahti hoon... kya karun?
+
+  * Doko de kattara ii desu ka?
+    -> Kahan se kharidunga/kharidunga?
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~ていただけませんか (~te itadakemasen ka)
+   -> Bahut POLITE request: "Kya aap ... kar sakte hain?"
+   -> ~te kudasai se zyada formal/respectful hota hai
+----------------------------------------------------------------
+
+EXAMPLES:
+  * Motto yukkuri hanashite itadakemasen ka?
+    -> Kya thoda dhire bol sakte hain? (please)
+
+  * Koko ni namae wo kaite itadakemasen ka?
+    -> Kya yahan naam likh sakte hain?
+
+  * Mou ichido itte itadakemasen ka?
+    -> Kya ek baar aur bol sakte hain?
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 26]
+----------------------------------------------------------------
+
+  Japanese         | Romaji             | Hindi Meaning
+  -----------------|-------------------|----------------------
+  見ます [診る]     | mimasu [miru]      | Dekh-bhal karna / Dekhna
+  探します          | sagashimasu        | Dhundhna / Talash karna
+  遅れます          | okuremasu          | Late hona
+  間に合います      | ma ni aimasu       | Waqt par pahunchna
+  やります          | yarimasu           | Karna
+  拾います          | hiroimasu          | Uthana (zameen se)
+  連絡します        | renraku shimasu    | Sampark karna
+  気分がいい        | kibun ga ii        | Theek mehsoos karna
+  気分が悪い        | kibun ga warui     | Bura mehsoos karna
+  運動会            | undoukai           | Sports Day / Khel ka din
+  場所              | basho              | Jagah
+  ボランティア      | borantia           | Volunteer
+  財布              | saifu              | Bataewa / Wallet
+  ごみ              | gomi               | Kachra
+  平日              | heijitsu           | Weekday (kaam ka din)
+  今度              | kondo              | Agli baar
+  ずいぶん          | zuibun             | Kaafi / Bahut
+  直接              | chokusetsu         | Seedha / Direct
+  いつでも          | itsu demo          | Kabhi bhi
+  どこでも          | doko demo          | Kahin bhi
+  だれでも          | dare demo          | Koi bhi
+  なんでも          | nan demo           | Kuch bhi
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES - KHUD BANAO]
+----------------------------------------------------------------
+
+Translate karo:
+
+1. Kya hua? (Tumhara chehra pareshaan lag raha hai)
+   -> _______________________________________________
+
+2. Aaj main office nahi aa sakta - tabiyat theek nahi hai.
+   -> _______________________________________________
+
+3. Kya aap thoda dhire bol sakte hain?
+   -> _______________________________________________
+
+4. Wallet kho gayi... kya karun?
+   -> _______________________________________________
+
+ANSWERS:
+1. Dou shita n desu ka? / Doushitan desu ka?
+2. Kyou kaisha ni ikenai n desu. Kibun ga warui n desu.
+3. Motto yukkuri hanashite itadakemasen ka?
+4. Saifu wo nakushita n desu ga, dou shitara ii desu ka?
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 26]
+----------------------------------------------------------------
+
+* ~n desu vs ~desu:
+  "Samui desu" = Thanda hai (just info)
+  "Samui n desu" = Thanda hai NE (isliye kuch hua / explain kar raha hoon)
+
+* na-adj/Noun ke saath: "na" lagao before n desu
+  X: hima n desu -> GALAT
+  OK: hima NA n desu -> SAHI
+
+* ~tara ii desu ka -> advice/guidance maangne ke liye (N4 mein aata hai)
+
+* itsu demo / doko demo / dare demo / nan demo -> "bhi" wali cheezein
+  itsudemo = kabhi bhi
+  doko demo = kahin bhi
+
+* JLPT mein ~n desu ke fill in the blank aate hain - form yaad rakho!
+
+================================================================
+                    LESSON 26 - COMPLETE
+         Next: Lesson 27 -> Potential Form (can do ~)
+================================================================
+
+
+

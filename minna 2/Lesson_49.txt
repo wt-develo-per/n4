@@ -1,0 +1,185 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 49 (N4)
+   Topic: Sonkeigo - Respectful Language (尊敬語)
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge Keigo ka pehla hissa - Sonkeigo:
+-> Superior/Respected person ke ACTIONS ke liye use karte hain
+-> Boss, teacher, senior, customer ke kaam batane ke liye
+-> N4 mein introduction level hai - advanced N3/N2 mein aur detail hoga
+
+----------------------------------------------------------------
+[GRAMMAR 1] SONKEIGO - SPECIAL HONORIFIC VERBS
+   -> Kuch verbs ke liye bilkul alag respectful words hain
+   -> SABSE IMPORTANT - yaad karna zaroori!
+----------------------------------------------------------------
+
+  PLAIN FORM          | SONKEIGO (Respectful)    | MEANING
+  --------------------|--------------------------|------------------
+  imasu               | irasshaimasu             | Hain (to be/exist)
+  ikimasu             | irasshaimasu             | Jaate hain
+  kimasu              | irasshaimasu             | Aate hain
+  tabemasu            | meshiagarimasu           | Khaate hain
+  nomimasu            | meshiagarimasu           | Peete hain
+  iimasu              | osshaimasu               | Kehte hain
+  shimasu             | nasaimasu                | Karte hain
+  mimasu              | goran ni narimasu        | Dekhte hain
+  shitte imasu        | gozonji desu             | Jaante hain
+  nemasu              | oyasumi ni narimasu      | Sote hain
+  moraimasu           | ouke ni narimasu         | Lete hain
+
+EXAMPLES:
+  * Sensei wa ima doko NI IRASSHAIMASU KA?
+    -> Teacher abhi kahan hain?
+
+  * Shachou wa mou MESHIAGARI MASHITA KA?
+    -> Kya President ji ne khaana kha liya?
+
+  * Yamada-san wa sou OSSHAIMASHITA.
+    -> Yamada-san ne aisa kaha.
+
+  * Kono kanji wo GORAN NI NARIMASU KA?
+    -> Kya aap is kanji ko dekhenge?
+
+  * Suzuki-san no denwa bango wo GOZONJI DESU KA?
+    -> Kya aap Suzuki-san ka phone number jaante hain?
+
+  * Shachou wa nani wo NASAIMASU KA?
+    -> President ji kya kar rahe hain?
+
+----------------------------------------------------------------
+[GRAMMAR 2] O + Verb Stem + NI NARIMASU
+   -> Regular verbs ko respectful banana ka formula
+   -> Special verbs ke alaawa baki verbs ke liye
+   -> NOTE: 1-syllable verbs aur Group 3 verbs mein NA use karo
+----------------------------------------------------------------
+
+STRUCTURE:
+  O + [masu-stem] + ni narimasu
+
+EXAMPLES:
+  * O-YOMI NI NARIMASU KA?
+    -> Kya aap padhenge?
+
+  * O-MACHI NI NATTE IMASU.
+    -> Intezaar kar rahe hain. (respectful)
+
+  * O-KAERI NI NARIMASHITA.
+    -> Waapis gaye. (respectful)
+
+  * O-DENWA NI NARIMASU.
+    -> Phone karenge. (respectful)
+
+  * Shachou wa mou o-KAERI NI NARIMASHITA.
+    -> President ji wapis ja chuke hain.
+
+CANNOT USE with:
+  1-mora verbs: "miru" (mi) -> x o-mi ni naru (use goran ni naru)
+  Group 3: shimasu -> use nasaimasu (NOT o-shi ni naru)
+
+----------------------------------------------------------------
+[GRAMMAR 3] CONVERSATION PATTERNS - Sonkeigo
+----------------------------------------------------------------
+
+ASKING for teacher/boss:
+  * Sensei wa irasshaimasu ka?
+    -> Kya teacher ji hain?
+
+  * Shachou wa irasshaimasu ka?
+    -> Kya President ji hain?
+
+CUSTOMER service:
+  * Nani wo meshiagarimasu ka?
+    -> Aap kya khaaenge/peenge? (restaurant)
+
+  * Kochira ni o-suwari kudasai.
+    -> Yahan baith jaiye.
+
+RESPECTFUL requests:
+  * O-namae wo o-kaki kudasai.
+    -> Apna naam likhiye.
+
+  * Kochira de o-machi kudasai.
+    -> Yahan intezaar kariye.
+
+----------------------------------------------------------------
+[KEY HONORIFIC VOCAB - LESSON 49]
+----------------------------------------------------------------
+
+  PLAIN             | HONORIFIC (SONKEIGO)    | MEANING
+  ------------------|------------------------|------------------
+  uchi / ie         | o-taku                 | Aapka ghar
+  hito              | kata                   | Insaan (respectful)
+  dare              | donata                 | Kaun (respectful)
+  doko              | dochira                | Kahan (respectful)
+  dore / kore/sore  | dochira                | Kaun sa (respectful)
+  ikura             | o-ikura                | Kitna (price)
+  itsu              | itsu (same)            | Kab
+
+POLITE EXPRESSIONS:
+  * Shoushou o-machi kudasai.
+    -> Thodi der rukiye please. (formal)
+
+  * Irasshaimase!
+    -> Aaiye! / Swaagat hai! (shop mein)
+
+  * O-matase shimashita.
+    -> Intezaar karwane ke liye maafi. (formal)
+
+  * Yoroshiku onegai itashimasu.
+    -> Aapki kripa chahiye. (formal)
+
+  * O-tsukare sama deshita.
+    -> Mehnat ki (formal - leaving office)
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Teacher ji kahan hain? (irasshaimasu)
+   -> _______________________________________________
+
+2. Kya aapne khaana kha liya? (meshiagarimashita)
+   -> _______________________________________________
+
+3. Kya aap is kanji ko padhenge? (o-yomi ni narimasu)
+   -> _______________________________________________
+
+4. Kya aap Yamada-san ko jaante hain? (gozonji desu)
+   -> _______________________________________________
+
+5. Aap kya khaaenge? (restaurant mein)
+   -> _______________________________________________
+
+ANSWERS:
+1. Sensei wa doko ni irasshaimasu ka?
+2. Mou meshiagarimashita ka?
+3. Kono kanji wo o-yomi ni narimasu ka?
+4. Yamada-san wo gozonji desu ka?
+5. Nani wo meshiagarimasu ka?
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 49]
+----------------------------------------------------------------
+
+* IRASSHAIMASU = imasu + ikimasu + kimasu (teen ka replacement!)
+  Yeh JLPT mein trap question hai - teen meanings hain!
+
+* MESHIAGARIMASU = tabemasu + nomimasu
+  Customer/senior ke liye HAMESHA meshiagarimasu use karo
+
+* GOZONJI = "Jaante hain" - shitte imasu ka respectful
+  "Gozonji desu ka?" = Do you know? (very polite)
+
+* O + stem + ni narimasu = General respectful formula
+  Lekin special verbs ke liye special forms ZAROORI hain!
+
+* Sonkeigo = DOOSRE ke actions ke liye (superior)
+  Kenjougo (L50) = APNE actions ke liye (humble)
+  Ye basic distinction yaad rakhna!
+
+================================================================
+                    LESSON 49 - COMPLETE
+      Next: Lesson 50 -> Kenjougo/Teineigo - Humble & Polite Language
+================================================================

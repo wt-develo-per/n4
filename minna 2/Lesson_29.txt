@@ -1,0 +1,237 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 29 (N4)
+   Topic: Transitive/Intransitive Verbs + ~てしまいます
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. Transitive (tadoushi) vs Intransitive (jidoushi) verbs
+2. ~te imasu se current STATE describe karna
+3. ~te shimaimasu - kaam complete hua ya regret
+
+----------------------------------------------------------------
+[GRAMMAR 1] TRANSITIVE vs INTRANSITIVE VERBS
+   -> Tadoushi (他動詞) vs Jidoushi (自動詞)
+----------------------------------------------------------------
+
+EASY SAMAJHNE KA TARIKA:
+
+  TRANSITIVE (Tadoushi) = KOI karta hai kuch
+    -> Particle: WO (wo) use hota hai
+    -> Focus: Karne wale INSAAN par
+    -> Example: Watashi ga mado WO akemashita.
+                -> Maine khidki kholI.
+
+  INTRANSITIVE (Jidoushi) = CHEEZ ki state/condition
+    -> Particle: GA use hota hai
+    -> Focus: CHEEZ ki condition par
+    -> Example: Mado GA aite imasu.
+                -> Khidki khuli hui hai. (state)
+
+PAIRS TABLE (SABSE ZAROORI!):
+  -------------------------------------------------------
+  TRANSITIVE (wo)  | INTRANSITIVE (ga) | MEANING
+  -----------------|-------------------|----------------
+  開ける (akeru)   | 開く (aku)         | Kholna / Khulna
+  閉める (shimeru) | 閉まる (shimaru)   | Band karna / Band hona
+  入れる (ireru)   | 入る (hairu)       | Daalna / Andar jaana
+  出す (dasu)      | 出る (deru)        | Nikalana / Nikalna
+  つける (tsukeru) | つく (tsuku)       | On karna / On hona
+  消す (kesu)      | 消える (kieru)     | Off karna / Off hona
+  壊す (kowasu)    | 壊れる (kowareru)  | Todna / Toot jaana
+  汚す (yogosu)    | 汚れる (yogoreru)  | Ganda karna / Ganda hona
+  落とす (otosu)   | 落ちる (ochiru)    | Girana / Girna
+  止める (tomeru)  | 止まる (tomaru)    | Rokna / Rukna
+  始める (hajimeru)| 始まる (hajimaru)  | Shuru karna / Shuru hona
+  変える (kaeru)   | 変わる (kawaru)    | Badalna / Badal jaana
+  -------------------------------------------------------
+
+TRICK TO REMEMBER:
+  "-eru" ending = TRANSITIVE (insaan karta hai)
+  "-u / -aru / -eru" = ho sakta hai Intransitive
+
+  Transitive = koi action kare (TO DO something TO something)
+  Intransitive = cheez apne aap ki state mein ho
+
+----------------------------------------------------------------
+[GRAMMAR 2] Intransitive Verb + ~ています = CURRENT STATE
+   -> "Abhi cheez is condition mein hai"
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Object] + GA + [Intransitive Verb te-form] + imasu
+
+EXAMPLES:
+  * Mado ga aite imasu.
+    -> Khidki khuli hai. (state)
+
+  * Denki ga tsuite imasu.
+    -> Light jal rahi hai. (state)
+
+  * Mado ga shimatte imasu.
+    -> Khidki band hai. (state)
+
+  * Isu ga kowarete imasu.
+    -> Kursi toot gayi hai. (state)
+
+  * Fuku ga yogorete imasu.
+    -> Kapde gande ho gaye hain. (state)
+
+  * Erebeeta ga tomatte imasu.
+    -> Elevator ruka hua hai. (state)
+
+TRANSITIVE vs INTRANSITIVE COMPARISON:
+  TRANSITIVE  : Dare ka ga mado wo akemashita.
+                -> Kisi ne khidki kholi.
+
+  INTRANSITIVE: Mado ga aite imasu.
+                -> Khidki khuli hui hai. (ab bhi)
+
+  TRANSITIVE  : Denki wo keshite kudasai.
+                -> Light band karo please.
+
+  INTRANSITIVE: Denki ga kiete imasu.
+                -> Light band hai (state).
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~てしまいます (~te shimaimasu)
+   -> 2 uses: (1) Completion (2) Regret/Accident
+----------------------------------------------------------------
+
+USE 1 - COMPLETION (Kaam poora ho gaya / ho jayega)
+  -> Positive nuance: Sab kuch khatam kar diya!
+
+  * Shukudai wo yatte shimaimashita.
+    -> Homework puri kar li! (khatam)
+
+  * Mou tabete shimaimashita.
+    -> Sab kha chuka/chuki hoon.
+
+  * Zenbu yonde shimaimashita.
+    -> Sab padh chuka/chuki hoon.
+
+USE 2 - REGRET / ACCIDENT (Galti se hua / Afsos)
+  -> Negative nuance: Oh no! Ye ho gaya...
+
+  * Pasupoto wo nakushite shimaimashita.
+    -> Passport kho gaya! (afsos)
+
+  * Saifu wo otoshite shimaimashita.
+    -> Wallet gir gayi! (galti se)
+
+  * Tabete wa ikenai no ni, tabete shimaimashita.
+    -> Khana nahi chahiye tha, phir bhi kha liya. (pachtawa)
+
+  * Mado wo warete shimaimashita.
+    -> Khidki toot gayi! (accident)
+
+SPOKEN SHORT FORM:
+  ~te shimau -> ~chau / ~jau (informal)
+  tabete shimaimashita -> tabechaimashita
+  itte shimaimashita -> icchaimashita
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~が ありました = Found something
+   -> Cheez mili / Dhoondh li
+----------------------------------------------------------------
+
+EXAMPLES:
+  * Kagi ga arimashita!
+    -> Chabi mil gayi!
+
+  * Ii shigoto ga arimashita.
+    -> Achhi naukri mil gayi.
+
+  * Ii resutoran ga arimashita.
+    -> Achha restaurant mila.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 29]
+----------------------------------------------------------------
+
+  Japanese        | Romaji          | Hindi Meaning
+  ----------------|----------------|----------------------
+  [VERBS - PAIRS]
+  開けます         | akemasu         | Kholna (transitive)
+  開きます         | akimasu         | Khulna (intransitive)
+  閉めます         | shimemasu       | Band karna (transitive)
+  閉まります        | shimarimasu     | Band hona (intransitive)
+  つけます         | tsukemasu       | On karna (transitive)
+  つきます         | tsukimasu       | On hona (intransitive)
+  消します         | keshimasu       | Off karna (transitive)
+  消えます         | kiemasu         | Off hona (intransitive)
+  壊します         | kowashimasu     | Todna (transitive)
+  壊れます         | kowaremasu      | Tootna (intransitive)
+  汚します         | yogoshimasu     | Ganda karna (transitive)
+  汚れます         | yogoremasu      | Ganda hona (intransitive)
+  落とします        | otoshimasu      | Girana (transitive)
+  落ちます         | ochimasu        | Girna (intransitive)
+  止めます         | tomemasu        | Rokna (transitive)
+  止まります        | tomarimasu      | Rukna (intransitive)
+  始めます         | hajimemasu      | Shuru karna (transitive)
+  始まります        | hajimarimasu    | Shuru hona (intransitive)
+
+  [NOUNS]
+  お皿            | osara           | Plet / Dish
+  お茶碗          | ochawan         | Chawal ka bowl
+  袋              | fukuro          | Thaila / Bag
+  財布            | saifu           | Bataewa / Wallet
+  忘れ物          | wasuremono      | Bhooli hui cheez
+  地震            | jishin          | Bhookamp
+  駅員            | ekiin           | Station ka staff
+  エレベーター     | erebeeta        | Lift / Elevator
+  電気            | denki           | Bijli / Light
+  鍵              | kagi            | Chabi / Taala
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES - KHUD BANAO]
+----------------------------------------------------------------
+
+1. Khidki khuli hui hai.
+   -> _______________________________________________
+
+2. Maine sab homework khatam kar li! (completion)
+   -> _______________________________________________
+
+3. Mera phone toot gaya! (accident/regret)
+   -> _______________________________________________
+
+4. Light band hai.
+   -> _______________________________________________
+
+5. Elevator ruka hua hai.
+   -> _______________________________________________
+
+ANSWERS:
+1. Mado ga aite imasu.
+2. Shukudai wo yatte shimaimashita.
+3. Sumatofon ga kowarete shimaimashita.
+4. Denki ga kiete imasu.
+5. Erebeeta ga tomatte imasu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 29]
+----------------------------------------------------------------
+
+* TRANSITIVE = WO particle / INTRANSITIVE = GA particle
+  Ye rule bahut important hai JLPT mein!
+
+* ~te imasu + intransitive = current STATE
+  Mado ga aite imasu = Khidki KHULI HAI (state)
+  (NOT "koi khol raha hai")
+
+* ~te shimaimashita ke 2 meanings:
+  1. Mou zenbu tabete shimaimashita = Sab kha liya! (done!)
+  2. Okane wo nakushite shimaimashita = Paisa kho gaya! (oh no!)
+  Context se samajhna padega kaun sa meaning hai.
+
+* Spoken mein ~chaimashita use hota hai:
+  nakushite shimaimashita = nakushichaimashita
+
+* Pairs yaad rakho: akeru/aku, shimeru/shimaru, tsukeru/tsuku,
+  kesu/kieru, kowasu/kowareru - ye sabse zyada aate hain!
+
+================================================================
+                    LESSON 29 - COMPLETE
+     Next: Lesson 30 -> ~てしまいます / ~ておきます / ~ていきます/きます
+================================================================

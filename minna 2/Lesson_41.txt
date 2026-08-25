@@ -1,0 +1,242 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 41 (N4)
+   Topic: ~てあげます / ~てもらいます / ~てくれます (Actions as Favors)
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ki sirf cheezein hi nahi,
+ACTIONS bhi give/receive karte hain Japanese mein!
+Plus: Honorific versions bhi seekhenge.
+
+----------------------------------------------------------------
+[REVIEW: Basic Give/Receive (Lesson 7 yaad karo)]
+----------------------------------------------------------------
+
+  AGERU  = Main/koi doosre ko DETA hai (object)
+  KURERU = Koi MUJHE deta hai (object)
+  MORAU  = Main LETA hoon (object receive)
+
+  Is lesson mein yehi verbs ACTIONS (te-form) ke saath use honge!
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~てあげます (~te agemasu)
+   -> "Main... (doosre ke liye) karta hoon" - FAVOR KARNA
+   -> I do something FOR someone (lower/equal status)
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + agemasu
+
+  Subject: MAIN / WO (hum)
+  Receiver: [Person] NI
+
+EXAMPLES:
+  * Tomodachi ni Nihongo wo OSHIETE AGEMASHITA.
+    -> Dost ko Japanese sikhaya (uske liye).
+
+  * Kodomo ni hon wo YONDE AGEMASHITA.
+    -> Bachche ko kitaab padh ke sunaayi.
+
+  * Ojiisan no nimotsu wo MOTTE AGEMASHITA.
+    -> Budhey ki baggage uthaayi (uske liye).
+
+  * Imoto ni kaimono wo SHITE AGEMASHITA.
+    -> Choti behen ke liye shopping ki.
+
+CAUTION:
+  "Agemasu" apne aap ke liye ya upar ke logon ke liye
+  sunaai deta hai arrogant. Careful rahon!
+  X: Sensei ni oshiete agemashita -> Rude lagta hai!
+  OK: Tomodachi ni oshiete agemashita -> SAHI
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~てくれます (~te kuremasu)
+   -> "Kisi ne MERE LIYE kiya" - DUSRE KA EHSAAN
+   -> Someone does something FOR ME (their initiative)
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + kuremasu
+
+  Subject: [Person] GA/WA
+  Receiver: (Watashi ni - often implied)
+
+EXAMPLES:
+
+  * Tomodachi ga Nihongo wo OSHIETE KUREMASHITA.
+    -> Dost ne mujhe Japanese sikhaya (apni marzi se).
+
+  * Haha ga bentou wo TSUKUTTE KUREMASHITA.
+    -> Maa ne mere liye lunch banaya.
+
+  * Sensei ga setsumei shite KUREMASHITA.
+    -> Teacher ne explain kiya (mere/hamre liye).
+
+  * Yamada-san ga tetsudatte KUREMASHITA.
+    -> Yamada-san ne madad ki (mere liye).
+
+THANKS dene ke pattern:
+  * Tetsudatte kurete, arigatou!
+    -> Madad ke liye shukriya!
+
+  * Oshiete kurete yokatta!
+    -> Sikhaaya achha kiya!
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~てもらいます (~te moraimasu)
+   -> "Maine (kisi se) karwaya / kisi ne meri madad ki"
+   -> I RECEIVE the benefit of someone's action
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + moraimasu
+
+  Beneficiary: WATASHI WA (implied)
+  Helper: [Person] NI
+
+EXAMPLES:
+  * Tomodachi NI Nihongo wo OSHIETE MORAIMASHITA.
+    -> Dost se Japanese sikhwaaya / dost ne sikhaya.
+
+  * Sensei NI ronbun wo NAOSHITE MORAIMASHITA.
+    -> Teacher se thesis theek karwaai.
+
+  * Isha NI kusuri wo DASHITE MORAIMASHITA.
+    -> Doctor ne dawai di (maine receive ki).
+
+  * Imouto NI nimotsu wo MOTTE MORAIMASHITA.
+    -> Choti behen se saamaan uthwaya.
+
+REQUESTING with moraimasu:
+  * Mite MORAEMASU KA? (moraeru = potential form)
+    -> Dekh sakte ho? / Dekh doge?
+
+  * Setsumei shite MORAEMASU KA?
+    -> Explain kar sakte ho?
+
+----------------------------------------------------------------
+[COMPARISON TABLE: 3 Patterns]
+----------------------------------------------------------------
+
+  PATTERN         | MEANING             | SUBJECT
+  ----------------|---------------------|--------------------
+  te AGEMASU      | Main uske liye karta| Main/hum
+  te KUREMASU     | Woh mere liye karta | Doosra insaan
+  te MORAIMASU    | Main karwata/leta   | Main (benefit)
+
+SAME SITUATION - 3 WAYS:
+  Yamada-san ga nimotsu wo motte AGEMASHITA.
+  -> Yamada-san ne [us insaan] ki baggage uthayi.
+
+  Yamada-san ga nimotsu wo motte KUREMASHITA.
+  -> Yamada-san ne [meri] baggage uthayi.
+
+  [Watashi wa] Yamada-san ni nimotsu wo motte MORAIMASHITA.
+  -> [Maine] Yamada-san se baggage uthwayi.
+
+----------------------------------------------------------------
+[GRAMMAR 4] HONORIFIC/HUMBLE FORMS
+   -> Formal situations mein: Boss/Teacher/Elder ke saath
+----------------------------------------------------------------
+
+  PLAIN     | HONORIFIC/HUMBLE     | USE
+  ----------|---------------------|--------------------------------
+  agemasu   | sashiagemasu        | Superior ko favor karna (humble)
+  agemasu   | yarimasu            | Animal/plant ko dena (lower)
+  moraimasu | itadakimasu         | Superior se receive karna (humble)
+  kuremasu  | kudasaimasu         | Superior meri help karta hai
+
+EXAMPLES:
+  * Sensei ni hon wo SASHIAGEMASHITA.
+    -> Teacher ko kitaab di (respectful).
+
+  * Hana ni mizu wo YARIMASHITA.
+    -> Paudhon ko paani diya.
+
+  * Shachou ni SETSUMEI SHITE ITADAKIMASHITA.
+    -> President/boss ne explain kiya (humble receive).
+
+  * Sensei ga OSHIETE KUDASAIMASHITA.
+    -> Teacher ne sikhaya (respectful kuremasu).
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 41]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  預かります          | azukarimasu       | Rakhna / Hold karna
+  親切にします        | shinsetsu ni suru | Meherbaan hona
+  かわいい           | kawaii            | Pyaara / Cute
+  お祝い            | oiwai             | Khushi ka mauka / Gift
+  お年玉            | otoshidama        | Naye saal ka gift (bachon ko)
+  お見舞い           | omimai            | Bimaar ke liye gift
+  興味              | kyoumi            | Dilchaspi / Interest
+  情報              | jouhou            | Jaankari / Information
+  文法              | bunpou            | Vyaakaran / Grammar
+  発音              | hatsuon           | Uchhaaran / Pronunciation
+  えさ              | esa               | Janwar ka khaana / Feed
+  おもちゃ           | omocha            | Khilona / Toy
+  祖父              | sofu              | Mera dada/nana
+  祖母              | sobo              | Meri dadi/nani
+  孫               | mago              | Pota/nati / Grandchild
+  おじ              | oji               | Mera chacha/mama/tayya
+  おば              | oba               | Meri chachi/maami
+  お父さん           | otousan           | Aapke pita ji (respectful)
+  お母さん           | okaasan           | Aapki maa ji (respectful)
+  おじいさん          | ojiisan           | Bade budhey / Grandfather
+  おばあさん          | obaasan           | Badi budhiya / Grandmother
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Dost ne mere liye pizza order kiya. (kureru)
+   -> _______________________________________________
+
+2. Maine dost ke liye pizza order kiya. (ageru)
+   -> _______________________________________________
+
+3. Maine dost se pizza order karwaya. (morau)
+   -> _______________________________________________
+
+4. Teacher ne explain kiya. (kudasaimasu - respectful)
+   -> _______________________________________________
+
+5. Paudhon ko paani diya. (yarimasu)
+   -> _______________________________________________
+
+ANSWERS:
+1. Tomodachi ga piza wo chuumon shite kuremashita.
+2. Tomodachi ni piza wo chuumon shite agemashita.
+3. Tomodachi ni piza wo chuumon shite moraimashita.
+4. Sensei ga setsumei shite kudasaimashita.
+5. Hana ni mizu wo yarimashita.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 41]
+----------------------------------------------------------------
+
+* TEEN patterns ka FARK clear hona chahiye:
+  AGEMASU  = Main karta hoon (for others)
+  KUREMASU = Koi mere liye karta hai
+  MORAIMASU = Main receive karta hoon (benefit)
+
+* Kuremasu = ALWAYS speaker ya speaker ka group benefit lete hain
+  "Kare ga tetsudatte kuremashita" = Usne MERI madad ki
+
+* Honorific order:
+  Normal: agemasu -> Humble to superior: sashiagemasu
+  Normal: moraimasu -> Humble from superior: itadakimasu
+  Normal: kuremasu -> Respectful from superior: kudasaimasu
+
+* "yarimasu" = Only for plants, animals, children (very young)
+  Adult ko "yarimasu" dena RUDE hai!
+
+* Te morau = Often "kisi se karwaana" like requesting
+  "Kakite moraimashita" = Likha gaya (mujhe benefit hua)
+
+================================================================
+                    LESSON 41 - COMPLETE
+           Next: Lesson 42 -> ~ために / ~のに (Purpose/Cause)
+================================================================

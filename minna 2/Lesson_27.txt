@@ -1,0 +1,274 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 27 (N4)
+   Topic: Potential Form (Kuch kar SAKNA) + Miemasu/Kikoemasu
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein hum seekhenge ki koi kaam kar SAKTA hai ya nahi -
+iske liye Potential Form use hoti hai.
+Plus: dekhna/sunna naturally hona = miemasu / kikoemasu
+
+----------------------------------------------------------------
+[GRAMMAR 1] POTENTIAL FORM - Verb ki nai shakti dikhana
+   -> "...kar SAKTA/SAKTI hoon" wali expression
+----------------------------------------------------------------
+
+CONJUGATION RULES:
+
+GROUP 1 (u-verbs): Last -u ko -e + ru karo
+  kaku   (likhna)    -> kake-ru   -> kakemasu
+  nomu   (peena)     -> nome-ru   -> nomemasu
+  hanasu (bolna)     -> hanase-ru -> hanasemasu
+  yomu   (padhna)    -> yome-ru   -> yomemasu
+  kiku   (sunna)     -> kike-ru   -> kikemasu
+  iku    (jaana)     -> ike-ru    -> ikemasu
+  oyogu  (tairna)    -> oyoge-ru  -> oyogemasu
+  hashiru(daudna)    -> hashire-ru-> hashiremasu
+
+GROUP 2 (ru-verbs): -ru hatao + rareru lagao
+  taberu (khaana)    -> tabe-rareru -> taberaremasu
+  miru   (dekhna)    -> mi-rareru   -> miraremasu
+  okiru  (uthna)     -> oki-rareru  -> okiraremasu
+  neru   (sona)      -> ne-rareru   -> neraremasu
+
+  NOTE: Spoken Japanese mein "ra" often drop ho jaata hai:
+  taberareru -> tabereru (colloquial)
+  miraremasu -> miremasu (colloquial)
+
+GROUP 3 (Irregular):
+  suru  (karna)  -> DEKIMASU  (can do)
+  kuru  (aana)   -> koraremasu (can come)
+
+IMPORTANT PARTICLE CHANGE!
+  wo (object particle) -> ga (in potential sentences)
+
+  X: Nihongo wo hanashimasu  -> I speak Japanese (fact)
+  OK: Nihongo ga hanasemasu  -> I CAN speak Japanese (ability)
+
+  X: Sakana wo tabemasu      -> I eat fish
+  OK: Sakana ga taberaremasu -> I CAN eat fish
+
+EXAMPLES:
+  * Watashi wa Nihongo ga hanasemasu.
+    -> Main Japanese bol sakta/sakti hoon.
+
+  * Piano ga hikemasu ka?
+    -> Kya aap piano baja sakte hain?
+
+  * Kanji ga yomemasu ka?
+    -> Kya kanji padh sakte ho?
+
+  * Hayaku okiraremasu ka?
+    -> Kya jaldi uth sakte ho?
+
+  * Ashita koraremasu ka?
+    -> Kya kal aa sakte ho?
+
+NEGATIVE (can't do):
+  hanasemasu -> hanasemasen (bol nahi sakta)
+  taberaremasu -> taberaremasen (kha nahi sakta)
+
+CONVERSATION:
+  Q: Nihongo ga yomemasu ka?
+     -> Kya Japanese padh sakte ho?
+
+  A: Hiragana wa yomemasu ga, Kanji wa yomemasen.
+     -> Hiragana padh sakta/sakti hoon, lekin Kanji nahi.
+
+----------------------------------------------------------------
+[GRAMMAR 2] 見えます (Miemasu) & 聞こえます (Kikoemasu)
+   -> Natural sensing - apni marzi ke bina dikhna/sunna
+----------------------------------------------------------------
+
+IMPORTANT DIFFERENCE!
+
+  MIEMASU (見えます) = Kuch naturally "dikh raha hai"
+  MIRAREMASU        = Kuch "dekh sakta hoon" (deliberately)
+
+  KIKOEMASU (聞こえます) = Kuch naturally "sun raha hai"
+  KIKEMASU              = Kuch "sun sakta hoon" (deliberately)
+
+  Particle: HAMESHA "GA" use karo
+
+EXAMPLES:
+  * Mado kara yama ga miemasu.
+    -> Khidki se pahad dikh raha hai.
+
+  * Umi ga miemasu.
+    -> Samundar dikh raha hai.
+
+  * Tooi tokoro kara koe ga kikoemasu.
+    -> Door se awaaz aa rahi hai.
+
+  * Nami no oto ga kikoemasu.
+    -> Lehron ki awaaz sun rahi hai.
+
+  * Hanabi ga miemasu yo!
+    -> Aatyabaazi dikh rahi hai!
+
+COMPARISON TABLE:
+  SITUATION              | USE
+  -----------------------|---------------------------
+  TV dekhna chahta hoon  | terebi ga miraremasu
+  Khidki se pahad dikh raha | yama ga miemasu
+  Music suni ja sakti hai | ongaku ga kikemasu
+  Bahar se awaaz aa rahi  | oto ga kikoemasu
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~しか ~ません (Shika ... masen)
+   -> ONLY / Sirf - limitation express karna
+   -> ALWAYS negative verb ke saath aata hai!
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Noun/Number] + shika + NEGATIVE verb
+
+EXAMPLES:
+  * Nihongo shika wakarimasen.
+    -> Mujhe sirf Japanese samajh aati hai.
+
+  * 500en shika arimasen.
+    -> Mere paas sirf 500 yen hain.
+
+  * Koko kara umi shika miemasen.
+    -> Yahan se sirf samundar dikhta hai.
+
+  * Hiragana shika yomemasen.
+    -> Sirf Hiragana padh sakta/sakti hoon.
+
+DIFFERENCE: dake vs shika
+  * 500en dake arimasu. -> 500 yen hain (neutral)
+  * 500en shika arimasen. -> Sirf 500 yen hi hain (regret/limitation feel)
+
+  "Shika" mein ek DISAPPOINTMENT ki feeling hoti hai!
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~後で (go de) / ~後 (go)
+   -> "...ke BAAD" - time duration ke baad kuch hoga
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Time Duration] + go + ni/de
+
+EXAMPLES:
+  * 5-fun go ni kite kudasai.
+    -> 5 minute baad aana.
+
+  * 1-jikan go ni dekimasu.
+    -> 1 ghante baad ho jaayega.
+
+  * Shokuji no ato de, koohii wo nomimasu.
+    -> Khaana khane ke baad, coffee peeta/peeti hoon.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 27]
+----------------------------------------------------------------
+
+  Japanese        | Romaji          | Hindi Meaning
+  ----------------|----------------|----------------------
+  飼います         | kaimasu         | Paaltu banana (pet rakhna)
+  建てます         | tatemasu        | Banana (imarat banana)
+  走ります         | hashirimasu     | Daudna / Chalna (gaadi)
+  取ります [休みを] | torimasu        | Lena (chutti lena)
+  見えます         | miemasu         | Dikh raha hai (naturally)
+  聞こえます        | kikoemasu       | Sun raha hai (naturally)
+  できます         | dekimasu        | Ban gaya / Taiyar hua
+  開きます         | hirakimasu      | Kholna / Shuru karna (class)
+  心配（な）        | shinpai (na)    | Chintit / Pareshan
+  ペット           | petto           | Paaltu janwar (pet)
+  鳥              | tori            | Pakshi / Chidiya
+  声              | koe             | Awaaz (insaan ki)
+  波              | nami            | Lahar
+  花火            | hanabi          | Aatyabaazi / Patakhe
+  景色            | keshiki         | Drishya / Nazara
+  昼間            | hiruma          | Din ka waqt / Dopahar
+  昔              | mukashi         | Purane zamane mein
+  道具            | dougu           | Auzaar / Tool
+  自動販売機       | jidou hanbaiki  | Vending machine
+  台所            | daidokoro       | Rasoi / Kitchen
+  本棚            | hondana         | Kitabon ka rack
+  夢              | yume            | Sapna
+  いつか          | itsuka          | Kabhi na kabhi
+  すばらしい       | subarashii      | Shandar / Zabardast
+  ほとんど         | hotondo         | Lagbhag / Almost sab
+  はっきり         | hakkiri         | Saaf saaf / Clearly
+  ほかの          | hoka no         | Doosra / Other
+
+----------------------------------------------------------------
+[POTENTIAL FORM - QUICK REFERENCE TABLE]
+----------------------------------------------------------------
+
+  Dictionary | Potential (masu)  | Meaning
+  -----------|------------------|--------------------------
+  kaku       | kakemasu          | Likh sakna
+  nomu       | nomemasu          | Pi sakna
+  yomu       | yomemasu          | Padh sakna
+  hanasu     | hanasemasu        | Bol sakna
+  kiku       | kikemasu          | Sun sakna (deliberate)
+  oyogu      | oyogemasu         | Tair sakna
+  taberu     | taberaremasu      | Kha sakna
+  miru       | miraremasu        | Dekh sakna (deliberate)
+  neru       | neraremasu        | So sakna
+  okiru      | okiraremasu       | Uth sakna
+  suru       | dekimasu          | Kar sakna
+  kuru       | koraremasu        | Aa sakna
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES - KHUD BANAO]
+----------------------------------------------------------------
+
+Translate karo:
+
+1. Kya aap piano baja sakte ho?
+   -> _______________________________________________
+
+2. Yahan se Fuji-san dikh raha hai.
+   -> _______________________________________________
+
+3. Mere paas sirf 100 yen hain.
+   -> _______________________________________________
+
+4. Mujhe sirf hiragana padhna aata hai.
+   -> _______________________________________________
+
+5. Door se awaaz aa rahi hai.
+   -> _______________________________________________
+
+ANSWERS:
+1. Piano ga hikemasu ka?
+2. Koko kara Fuji-san ga miemasu.
+3. 100-en shika arimasen.
+4. Hiragana shika yomemasen.
+5. Tooi tokoro kara koe ga kikoemasu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 27]
+----------------------------------------------------------------
+
+* Particle change yaad rakho: WO -> GA (potential sentences mein)
+
+* miemasu/kikoemasu ke saath HAMESHA GA use karo
+  "Yama GA miemasu" (NOT "wo")
+
+* "shika" ke saath HAMESHA negative verb:
+  X: 500en shika arimasu  -> GALAT
+  OK: 500en shika arimasen -> SAHI
+
+* Group 2 verbs mein colloquial ra-drop:
+  taberareru = tabereru (dono correct hain, tabereru zyada common)
+
+* "できます" ke 2 uses:
+  1. Ability: Nihongo ga dekimasu = Japanese aa jaati hai
+  2. Completion: Ie ga dekimashita = Ghar ban gaya
+
+================================================================
+                    LESSON 27 - COMPLETE
+         Next: Lesson 28 -> ~nagara (Ek saath 2 kaam) + Habits
+================================================================
+
+
+
+
+
+
+

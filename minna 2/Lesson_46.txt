@@ -1,0 +1,198 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 46 (N4)
+   Topic: ~たところです / ~ているところです / ~るところです
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ~tokoro patterns:
+1. ~ta tokoro desu: "Abhi abhi kiya" (just completed)
+2. ~te iru tokoro desu: "Abhi kar raha hoon" (in the middle of)
+3. ~ru tokoro desu: "Abhi karne wala hoon" (about to do)
+Plus: ~ta bakari desu (kiya abhi abhi - L46 ka important comparison)
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~たところです (~ta tokoro desu)
+   -> "Abhi abhi kiya / Kal hi hua"
+   -> Action bilkul abhi complete hua hai
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (ta-form) + tokoro desu
+
+EXAMPLES:
+  * Tattaima kaetta TOKORO desu.
+    -> Abhi abhi ghar aaya/aayi hoon.
+
+  * Shukudai wo shita TOKORO desu.
+    -> Abhi abhi homework ki.
+
+  * Hachiji no basu wa tattaima deta TOKORO desu.
+    -> 8 baje ki bus abhi abhi chali gayi.
+
+  * Gohan wo tabeta TOKORO desu.
+    -> Abhi abhi khaana khaya.
+
+  * Kare ni denwa shita TOKORO desu.
+    -> Abhi abhi usse call kiya.
+
+CONVERSATION:
+  Q: Yamamoto-san wa imasu ka?
+     -> Kya Yamamoto-san hain?
+
+  A: Tattaima dekaketa TOKORO desu.
+     -> Abhi abhi bahar gaye hain.
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~ているところです (~te iru tokoro desu)
+   -> "Bilkul abhi kar raha/rahi hoon" (in the middle)
+   -> Kaam ke beech mein hai
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + iru tokoro desu
+
+EXAMPLES:
+  * Ima gohan wo tabete iru TOKORO desu.
+    -> Abhi khaana kha raha/rahi hoon. (beech mein)
+
+  * Ima shukudai wo shite iru TOKORO desu.
+    -> Abhi homework kar raha/rahi hoon.
+
+  * Ima hon wo yonde iru TOKORO desu.
+    -> Abhi kitaab padh raha/rahi hoon.
+
+  * Chouryou chuu desu. (= shite iru tokoro)
+    -> Abhi kaam mein hoon. (busy)
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~るところです (~ru tokoro desu)
+   -> "Abhi karne wala/wali hoon" (about to start)
+   -> Shuru karne se bilkul pehle
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (dictionary form) + tokoro desu
+
+EXAMPLES:
+  * Ima kara shokuji suru TOKORO desu.
+    -> Abhi khaana shuru karne wala/wali hoon.
+
+  * Ima kara dekakeru TOKORO desu.
+    -> Abhi bahar jaane wala/wali hoon.
+
+  * Ima kara benkyou suru TOKORO desu.
+    -> Abhi padhai shuru karne wala/wali hoon.
+
+  * Tattaima kaeru TOKORO deshita.
+    -> Bilkul waapis jaane wala/wali tha/thi (koi aaya tab).
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~たばかりです (~ta bakari desu)
+   -> "Haal hi mein kiya" (recently)
+   -> Feeling: Abhi zyada waqt nahi guzra
+   -> Tokoro se thoda zyada flexible (time-wise)
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (ta-form) + bakari desu
+
+EXAMPLES:
+  * Nihon ni kita BAKARI desu.
+    -> Japan abhi abhi (haal hi mein) aaya/aayi hoon.
+
+  * Kono kaisha ni haitta BAKARI desu.
+    -> Is company mein haal hi mein aaya/aayi hoon.
+
+  * Gohan wo tabeta BAKARI desu.
+    -> Haal hi mein khaana khaya.
+
+  * Kekkon shita BAKARI desu.
+    -> Abhi haal mein shaadi hui hai.
+
+TOKORO vs BAKARI comparison:
+  TA TOKORO = Ekdam abhi (just this second)
+  TA BAKARI = Haal hi mein (recently - few minutes/hours/days ago)
+
+  "Tabeta TOKORO desu" = Abhi abhi khaya (seconds ago)
+  "Tabeta BAKARI desu" = Haal hi mein khaya (can be hours ago)
+
+----------------------------------------------------------------
+[3 TOKORO PATTERNS - QUICK SUMMARY]
+----------------------------------------------------------------
+
+  PATTERN          | TIMING          | EXAMPLE
+  -----------------|-----------------|--------------------------------
+  Ru + tokoro      | Karne wala hoon | Taberu tokoro (about to eat)
+  Te iru + tokoro  | Kar raha hoon   | Tabete iru tokoro (eating now)
+  Ta + tokoro      | Abhi abhi kiya  | Tabeta tokoro (just ate)
+
+  [---shuru---] ru-tokoro [kaam shuru] te iru-tokoro [khatam] ta-tokoro [---baad---]
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 46]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  焼きます           | yakimasu          | Pakana / Bhunna / Grill
+  渡します           | watashimasu       | Dena / Hand over karna
+  帰って来ます        | kaette kimasu     | Waapis aana
+  出ます [バスが]     | demasu            | Nikalna (bus jaana)
+  向かいます          | mukaimasu         | Taraf badhna / Head for
+  留守              | rusu              | Ghar par na hona / Absent
+  パンフレット        | panfuretto        | Pamphlet / Brochure
+  宅配便            | takuhaibin        | Delivery service
+  こちら            | kochira           | Hamare taraf / My side
+  ちょうど           | choudo            | Bilkul / Exactly
+  たったいま          | tattaima          | Abhi abhi / Just now
+  お待たせしました     | omatase shimashita| Intezaar karwane ki maafi
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Abhi abhi ghar aaya hoon.
+   -> _______________________________________________
+
+2. Abhi khaana kha raha hoon. (middle)
+   -> _______________________________________________
+
+3. Abhi bahar jaane wala hoon. (about to)
+   -> _______________________________________________
+
+4. Japan mein haal hi mein aaya hoon. (bakari)
+   -> _______________________________________________
+
+5. Q: Yamada-san hain? A: Abhi abhi bahar gaye.
+   -> _______________________________________________
+
+ANSWERS:
+1. Tattaima kaetta tokoro desu.
+2. Ima gohan wo tabete iru tokoro desu.
+3. Ima kara dekakeru tokoro desu.
+4. Nihon ni kita bakari desu.
+5. Tattaima dekaketa tokoro desu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 46]
+----------------------------------------------------------------
+
+* Teen patterns yaad rakho timing ke hisaab se:
+  DICT + tokoro = About to (shuru hone wala)
+  TE IRU + tokoro = In progress (ho raha hai)
+  TA + tokoro = Just done (abhi abhi hua)
+
+* Tattaima = "Just now" - ta tokoro ke saath common hai
+
+* ~ta bakari vs ~ta tokoro:
+  BAKARI = Personal feeling (time flexible)
+  TOKORO = Very precise timing (just this moment)
+  JLPT mein ye distinction important hai!
+
+* "Tattaima deta tokoro desu" = Bus abhi abhi gayi
+  Ye real conversation mein bahut use hota hai!
+
+================================================================
+                    LESSON 46 - COMPLETE
+    Next: Lesson 47 -> ~そうです (Hearsay) / ~ようです / ~がします
+================================================================

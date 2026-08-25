@@ -1,0 +1,60 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 8: 機械の操作・管理 (Machine Operations & Management) - Part 2
+================================================================
+
+Is part mein hum Factory ka mahol (environment) theek rakhne ke liye 5S, Work Procedures (Kaam ke rules), aur Inspections ke baare mein padhenge. 
+
+----------------------------------------------------------------
+【８．２】 職場環境の維持と改善 (Workplace Environment Maintenance)
+----------------------------------------------------------------
+
+【８．２．１】 5S活動の徹底 (Thorough 5S Activities)
+5S は、「整理 (Seiri)」「整頓 (Seiton)」「清掃 (Seisou)」「清潔 (Seiketsu)」「躾 (Shitsuke)」の 5 つの日本語の頭文字を取ったもので、全員が守るべき共通のルールです。
+Meaning: Factory ko saaf aur safe rakhne ke 5S rules. (Inki details humne Chapter 2 mein padhi thi).
+* 躾 (Shitsuke - Discipline) ko chhod kar baaki 4 ko "4S" bhi kehte hain.
+5S活動は、一度やれば終わりではなく、毎日続けることで、安全で快適な職場になり、良い製品をつくることにもつながります。
+Meaning: 5S koi ek din ka kaam nahi hai, ise roz karna hota hai.
+
+【８．２．２】 作業手順の確立と運用 (Work Procedures / Standard Operating Procedures)
+（１）作業手順書とは (Sagyou tejunsho to wa - What is a SOP/Manual?)
+作業手順書には、誰が、いつ、何を、どのように行うかが詳しく書かれています。
+Meaning: Work Procedure Manual (SOP) mein detail mein likha hota hai ki kaun, kab, kya, aur kaise kaam karega.
+たとえ経験が長く、仕事に慣れている人でも、この手順書通りに作業をしなければなりません。
+Meaning: Chahe koi worker kitna bhi experienced (purana) kyun na ho, usko bhi iss rulebook ko follow karna padta hai.
+
+（２）手順の変更について (Changing the procedures)
+もし、もっと良いやり方を思いついても、勝手に変えてはいけません。必ず会社が定めた手続きに従って変更する必要があります。
+Meaning: Agar aapko kaam karne ka koi naya aur acha tarika bhi mil jaye, toh bhi apni marzi se (katte ni) procedure change karna MANA HAI. Boss/Company se permission lene ke baad hi change kar sakte hain.
+
+【８．２．３】 定期点検、日常点検 (Teiki Tenken & Nichijou Tenken - Inspections)
+（１）予防保全 (Yobou hozen - Preventive Maintenance)
+機械が壊れる前に、定期的にチェックする考え方を「予防保全」と言います。
+Meaning: Machine ke kharab hone se PEEHLE hi uski check-up karke usko theek rakhna.
+
+（２）日常点検とは (Nichijou tenken - Daily Inspection)
+毎日、仕事を始める前に、作業者自身が機械の状態を目で見て確認することです。これにより、小さな異常に早く気づき、大きなトラブルになるのを防ぎます。
+Meaning: Rozana (daily) kaam shuru karne se pehle, WORKER KHUD apni machine ko check karta hai. Taki koi choti problem badi na ban jaye.
+忙しいからといって点検を省略してしまうと、あとで大きな問題や事故につながることがあります。
+Meaning: "Main busy hu" bolkar daily inspection ko skip (shouryaku) karna sabse badi galti hai.
+
+
+----------------------------------------------------------------
+【８．３】 品質管理の原則と手法 (Quality Control Principles)
+----------------------------------------------------------------
+
+【８．３．１】 品質管理の概念と組織的アプローチ (Concept of QC)
+品質管理とは、ただ良い製品をつくるだけではありません。お客様が本当に求めている製品をつくるための、会社全体の取組みのことです。
+Meaning: QC ka matlab sirf acha product banana nahi hai, balki customer kya chahta hai us hisaab se product banana hai. (Isme poori company ek sath kaam karti hai).
+
+[Quality improve karne ke tarike:]
+① PDCA サイクル (PDCA Cycle):
+Plan (計画) -> Do (実行) -> Check (評価) -> Act (改善) ki cycle ko baar-baar ghumana. (Details in Chapter 3).
+
+② QC サークル活動 (QC Circle Activities):
+現場の作業者たちが集まり、小さなチームを作って、自分たちの仕事の品質や効率をどうすればもっと良くできるかを話し合い、改善を実行します。
+Meaning: Factory floor ke workers khud ek choti team (QC Circle) banate hain. Aur apne kaam ko aur acha/fast banane ke ideas par discuss karke unhe laagu karte hain.
+
+================================================================
+CHAPTER 8 COMPLETE!
+================================================================

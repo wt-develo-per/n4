@@ -1,0 +1,129 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 2: 安全衛生 (Anzen Eisei - Safety and Hygiene) - Part 3
+================================================================
+
+Is part mein hum Safety Education (KYT, OJT) aur Heinrich's Law ke baare mein padhenge. Exam mein in topics se practical situations par questions bante hain.
+
+----------------------------------------------------------------
+【２．２】 安全の教育 (Anzen no kyouiku - Safety Education)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE 1]
+労働災害や健康障害を防止するために作業者に必要な知識と能力を、教育で身に付けます。
+(Roudou saigai ya kenkou shougai wo boushi suru tame ni sagyousha ni hitsuyou na chishiki to nouryoku wo, kyouiku de mi ni tsukemasu.)
+
+[Word-by-Word]
+・健康障害 (kenkou shougai) = Health problems / Sehat ki takleef
+・防止する (boushi suru) = Rokna / Prevent karna
+・必要な (hitsuyou na) = Zaroori
+・知識と能力 (chishiki to nouryoku) = Knowledge aur Ability
+・身に付けます (mi ni tsukemasu) = Seekhna / Acquire karna
+
+[Overall Meaning]
+Workplace accidents aur health problems ko rokne ke liye, workers ko jo zaroori knowledge aur ability chahiye, woh unhe education (training) ke zariye sikhayi jati hai.
+
+---
+【２．２．１】 雇い入れ時、作業内容変更時の教育
+(Yatoi-ire ji, sagyou naiyou henkou ji no kyouiku)
+Meaning: Nayi job par hire hote waqt (yatoi-ire ji) ya kaam badalne ke waqt (henkou ji) ki training.
+
+新しい仕事を始める時は、必ずその仕事の安全教育を受けてください。
+(Atarashii shigoto wo hajimeru toki wa, kanarazu sono shigoto no anzen kyouiku wo ukete kudasai.)
+Meaning: Naya kaam shuru karte waqt, bina bhoole (kanarazu) us kaam ki safety training (anzen kyouiku) lein.
+
+---
+【２．２．２】 特別教育
+(Tokubetsu kyouiku - Special Education)
+
+特に危険な作業や特に有害な作業は、事前に特別教育を受けなければならないと、定められています。
+(Toku ni kiken na sagyou ya toku ni yuugai na sagyou wa, jizen ni tokubetsu kyouiku wo ukenakereba naranai to, sadamerarete imasu.)
+Meaning: Khaas taur par khatarnak (kiken) ya haanikarak (yuugai) kaam karne ke liye, pehle se (jizen ni) special training lena zaroori hai, aesa kanoon mein tay (sadamerarete) hai.
+(Example: Forklift chalana, Industrial Robots set karna, ya Slinging/Tama-gake ka kaam karna).
+
+* 玉掛け (Tamagake) = Crane aadi ka use karke bhaari saaman uthane aur move karne ka kaam (Slinging work).
+
+---
+【２．２．３】 オン・ザ・ジョブ・トレーニング（OJT）
+(On the Job Training - OJT)
+
+実際の仕事を通して、業務に必要な知識やスキルを習得させる教育方法です。
+(Jissai no shigoto wo tooshite, gyoumu ni hitsuyou na chishiki ya sukiru wo shuutoku saseru kyouiku houhou desu.)
+Meaning: Asli kaam karte hue, job ke liye zaroori knowledge aur skills sikhane ka tarika OJT kehlata hai.
+
+まず、上司が作業を説明して、実際にやって見せてくれます。
+(Mazu, joushi ga sagyou wo setsumei shite, jissai ni yatte misete kuremasu.)
+Meaning: Sabse pehle boss kaam explain karta hai aur karke dikhata hai.
+そのあと、新人がやってみます。その後、上司が新人にアドバイスして、間違いを正します。
+(Sono ato, shinjin ga yatte mimasu. Sonogo, joushi ga shinjin ni adobaisu shite, machigai wo tadashimasu.)
+Meaning: Uske baad naya worker (shinjin) try karta hai. Phir boss usko advice deta hai aur galti sudharta (tadashimasu) hai.
+
+---
+【２．２．４】 危険予知トレーニング（KYT）
+(Kiken Yochi Toreeningu - KYT - Hazard Prediction Training)
+
+職場で、イラストや写真を見て話し合い、仕事の危険をみつける訓練です。
+(Shokuba de, irasuto ya shashin wo mite hanashiai, shigoto no kiken wo mitsukeru kunren desu.)
+Meaning: Workplace mein illustration ya photo dekh kar aapas mein discuss (hanashiai) karna aur kaam ke khatre dhoondhne ki training.
+
+[KYT 4 ラウンド法 (KYT 4-Round Method)]
+第1ラウンド「どんな危険がひそんでいるか」
+(Dai-ichi raundo "Donna kiken ga hisonde iru ka")
+= 1st Round: "Kaun sa khatra chupa hua hai?" (Khatre identify karna)
+
+第2ラウンド「これが危険のポイントだ」
+(Dai-ni raundo "Kore ga kiken no pointo da")
+= 2nd Round: "Yeh khatre ka main point hai" (Sabse bada khatra chunna)
+
+第3ラウンド「あなたならどうする」
+(Dai-san raundo "Anata nara dou suru")
+= 3rd Round: "Aap hote toh kya karte?" (Solutions sochna)
+
+第4ラウンド「私たちはこうする」
+(Dai-yon raundo "Watashitachi wa kou suru")
+= 4th Round: "Hum aise karenge" (Team goal banana aur ek sath bolna/shouwa karna)
+
+
+----------------------------------------------------------------
+【２．３】 保護具 (Hogogu - Protective Equipment / PPE)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE]
+作業によって危険は異なるので、ある作業では保護具であっても、他の作業では危険要因になることがあります。
+(Sagyou ni yotte kiken wa kotonaru node, aru sagyou de wa hogogu de attemo, hoka no sagyou de wa kiken youin ni naru koto ga arimasu.)
+
+[Word-by-Word]
+・異なる (kotonaru) = Alag hona / Different
+・危険要因 (kiken youin) = Khatre ka kaaran / Hazard factor
+
+[Overall Meaning]
+Har kaam mein khatra alag hota hai, isliye ek kaam mein jo cheez protection (hogogu) hoti hai, woh doosre kaam mein khatre ka kaaran (kiken youin) ban sakti hai.
+(Example: Drilling machine (ボール盤 - Booruban) par gloves pehn-na khatarnak hai kyunki woh machine mein fass (makikomare) sakte hain!)
+
+・安全靴 (Anzengutsu) = Safety Shoes (Pairo ko girne wali cheezon se bachana)
+・安全手袋 (Anzen tebukuro) = Safety Gloves (Hathon ko chot se bachana)
+・保護メガネ (Hogo megane) = Safety Goggles (Aankhon ki hifazat)
+
+
+----------------------------------------------------------------
+【２．４】 安全衛生の知識 (Anzen eisei no chishiki - Safety Knowledge)
+----------------------------------------------------------------
+
+【２．４．１】 ハインリッヒの法則 (Hainrihhi no housoku - Heinrich's Law)
+(Is par exam mein pakka question aata hai!)
+
+たくさんの小さな事故の後に、大きな事故が起こるという考え方です。
+(Takusan no chiisana jiko no ato ni, ookina jiko ga okoru to iu kangaekata desu.)
+Meaning: Bahut saare chhote accidents ke baad ek bada accident hota hai, aesa Heinrich ka rule kehta hai.
+
+Rule ka Ratio (Yaad rakhein!):
+1 つの大きな事故 (1 Bada Accident - Major injury)
+29 の小さな事故 (29 Chhote Accidents - Minor injuries)
+300 のヒヤリ・ハット (300 Hiyari-Hatto incidents)
+
+* 「ヒヤリ・ハット」 (Hiyari-Hatto) kya hai?
+事故にならなくとも「危ない！」とヒヤリとしたり、ハッと驚いたりするできごとです。
+(Jiko ni naranakutomo "Abunai!" to hiyari to shitari, hatto odoroitari suru dekigoto desu.)
+Meaning: Aisi ghatna (dekigoto) jahan accident toh nahi hua, par aapko achanak dar lag gaya ya aap chonk gaye ki "Baal-baal bache!" (Near-miss incident). Inhein ignore nahi karna chahiye, warna bada accident ho sakta hai.
+
+================================================================

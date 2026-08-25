@@ -1,0 +1,232 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 40 (N4)
+   Topic: Embedded Questions + ~てみます + Adj~さ
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. Embedded Questions: ~ka / ~ka douka (sentence ke andar question)
+2. ~te mimasu: Try karke dekhna
+3. Adjective -> Noun: ~sa suffix
+
+----------------------------------------------------------------
+[GRAMMAR 1] Interrogative + Plain Form + か
+   -> Sentence ke andar question embed karna
+   -> "Kab hai, pata nahi" / "Kahan gaya, dekh raha hoon"
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Interrogative (itsu/nani/doko/dare/naze/dou)] + [Plain form] + ka + [main verb]
+
+MAIN VERBS commonly used:
+  wakarimasu = pata hai
+  shitte imasu = jaanta hoon
+  oshiete kudasai = bataiye
+  kiite kimasu = poochh ke aata hoon
+  kangaete imasu = soch raha hoon
+
+EXAMPLES:
+  * Kaigi wa ITSU OWARU KA, wakarimasen.
+    -> Meeting kab khatam hogi, pata nahi.
+
+  * Kare wa DOKO NI IRU KA, shitte imasu ka?
+    -> Woh kahan hai, kya aap jaante hain?
+
+  * NANI WO TABETARA II KA, oshiete kudasai.
+    -> Kya khaana chahiye, bataiye.
+
+  * DARE GA KURU KA, mada wakarimasen.
+    -> Kaun aayega, abhi pata nahi.
+
+  * DONO HITO GA YAMADA-SAN KA, wakarimasen.
+    -> Kaun Yamada-san hain, samajh nahi aa raha.
+
+  * DOU SUREBA II KA, kangaete imasu.
+    -> Kya karun, soch raha hoon.
+
+  * NAZE OKURETAN KA, oshiete kudasai.
+    -> Late kyun aaye, bataiye.
+
+----------------------------------------------------------------
+[GRAMMAR 2] Plain Form + かどうか (~ka douka)
+   -> YES/NO type embedded question
+   -> "...ki pata nahi" / "...hoga ya nahi, jaanta nahi"
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Plain form] + ka douka + [main verb]
+
+EXAMPLES:
+  * Kare ga KURU KA DOUKA, wakarimasen.
+    -> Woh aayega ki nahi, pata nahi.
+
+  * Sono hanashi wa HONTOU KA DOUKA, shiranai.
+    -> Woh baat sach hai ki nahi, nahi jaanta.
+
+  * Shiken ni GOOKAKU DEKIRU KA DOUKA, shinpai desu.
+    -> Exam pass hoga ki nahi, tension hai.
+
+  * Kare ga SUKI KA DOUKA, wakarimasen.
+    -> Woh pasand hai ki nahi, samajh nahi aata.
+
+  * Ashita iku KA DOUKA, mada kimete imasen.
+    -> Kal jaunga ki nahi, abhi decide nahi kiya.
+
+INTERROGATIVE ka vs ka douka:
+  INTERROGATIVE + ka: WH-questions (kab, kahan, kaun)
+  ka douka: YES/NO question (hoga ya nahi)
+
+  "Itsu kuru KA" = Kab aayega (wh-question)
+  "Kuru KA DOUKA" = Aayega ki nahi (yes/no)
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~てみます (~te mimasu)
+   -> "Try karke dekhna" / "Ek baar kar ke dekhte hain"
+   -> Kuch naya try karna ya experience lena
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + mimasu
+
+EXAMPLES:
+  * Kono ryouri wo TABETE MIMASU.
+    -> Yeh khana kha ke dekhta/dekhti hoon. (try)
+
+  * Nihon ni ITTE MIMASHITA.
+    -> Japan jaa ke dekha. (tried going)
+
+  * Motto KANGAETE MIMASU.
+    -> Thoda aur soochke dekhta hoon.
+
+  * Watashi ga YATTE MIMASU.
+    -> Main karke dekhta hoon. (let me try)
+
+  * Atarashii sofutsuea wo TSUKATTE MIMASHITA.
+    -> Nayi software use karke dekhi.
+
+  * Mou ichido YONDE MIMASU.
+    -> Ek baar aur padh ke dekhta hoon.
+
+CONVERSATION:
+  Q: Kono okashi, oishii desu yo!
+     -> Yeh mithai bahut tasty hai!
+
+  A: Ja, tabete mimasu.
+     -> Achha, kha ke dekhta hoon.
+
+----------------------------------------------------------------
+[GRAMMAR 4] i-Adjective + さ -> NOUN
+   -> Adjective ko measure karne wali noun banao
+   -> Unchai, lambai, bhaarpan etc.
+----------------------------------------------------------------
+
+RULE: i-adj ka last "i" hatao + "sa" lagao
+
+  takai (uncha/mahanga)  -> TAKASA   (unchai / mahangai)
+  nagai (lamba)          -> NAGASA   (lambai)
+  omoi (bhaari)          -> OMOSA    (wajan / bhaarpan)
+  hiroi (chauda)         -> HIROSA   (chaudaai)
+  fukai (gehra)          -> FUKASA   (gehraai)
+  atsui (garam)          -> ATSUSA   (garmi)
+  samui (thanda)         -> SAMUSA   (thandi)
+  hayai (tez)            -> HAYASA   (tezi/speed)
+  osoi (dheema)          -> OSOSA    (dheemapan)
+  muzukashii (mushkil)   -> MUZUKASHISA (mushkil ki matra)
+  yasashii (aasaan)      -> YASASHISA  (aasaani)
+  ureshii (khush)        -> URESHISA   (khushi)
+  kanashii (udaas)       -> KANASHISA  (udaasi)
+
+EXAMPLES:
+  * Kono yama no TAKASA wa ikura desu ka?
+    -> Is pahad ki unchai kitni hai?
+
+  * Kawa no NAGASA wo hakarimashita.
+    -> Nadi ki lambai naapi.
+
+  * Umi no FUKASA wa dono kurai desu ka?
+    -> Samundar ki gehraai kitni hai?
+
+  * Kono tsukue no OMOSA wa 20kg desu.
+    -> Is mez ka wajan 20 kg hai.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 40]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  数えます           | kazoemasu         | Ginna / Count karna
+  測ります           | hakarimasu        | Naapna / Measure karna
+  確かめます          | tashikamemasu     | Confirm karna / Make sure
+  合います           | aimasu            | Fit hona / Suit karna
+  出発します          | shuppatsu shimasu | Rawaana hona / Depart
+  到着します          | touchaku shimasu  | Pahunchna / Arrive
+  酔います           | yoimasu           | Nashe mein hona / Get drunk
+  危険（な）          | kiken (na)        | Khatarnak / Dangerous
+  必要（な）          | hitsuyou (na)     | Zaroori / Necessary
+  宇宙              | uchuu             | Antariksh / Universe
+  忘年会            | bounenkai         | Saal ke aakhir ki party
+  新年会            | shinnenkai        | Naye saal ki party
+  二次会            | nijikai           | Doosri party (after party)
+  大会              | taikai            | Tournament / Convention
+  間違い            | machigai          | Galti / Mistake
+  長さ              | nagasa            | Lambai / Length
+  重さ              | omosa             | Wajan / Weight
+  高さ              | takasa            | Unchai / Height
+  広さ              | hirosa            | Chaudaai / Width/Area
+  深さ              | fukasa            | Gehraai / Depth
+  大きさ            | ookisa            | Aakaar / Size
+  速さ              | hayasa            | Tezi / Speed
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Meeting kab khatam hogi, pata nahi.
+   -> _______________________________________________
+
+2. Woh aayega ki nahi, pata nahi.
+   -> _______________________________________________
+
+3. Yeh nayi dish try karke dekhta hoon.
+   -> _______________________________________________
+
+4. Is pahad ki unchai kitni hai?
+   -> _______________________________________________
+
+5. Kya aap jaante ho woh kahan rehte hain?
+   -> _______________________________________________
+
+ANSWERS:
+1. Kaigi wa itsu owaru ka, wakarimasen.
+2. Kare ga kuru ka douka, wakarimasen.
+3. Kono atarashii ryouri wo tabete mimasu.
+4. Kono yama no takasa wa ikura desu ka?
+5. Kare ga doko ni sunde iru ka, shitte imasu ka?
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 40]
+----------------------------------------------------------------
+
+* Interrogative + ka = WH-question embed
+  "Itsu kuru KA shitte imasu ka?" = Kab aayega jaante ho?
+  Plain form use karo (masu form NAHI!)
+
+* Ka douka = Yes/No embed
+  "Kuru KA DOUKA wakarimasen" = Aayega ki nahi pata nahi
+  Ka douka ke baad "ka" ki zaroorat nahi!
+
+* ~te mimasu = Try karna experience ke liye
+  N4 mein "let me try" wale responses mein common hai
+
+* Adj + sa patterns yaad rakho:
+  JLPT mein measurements wale sentences aate hain
+  takasa, nagasa, omosa, fukasa, hirosa - ye sab
+
+* Embedded question ke baad common verbs:
+  wakarimasen, shirimasen, oshiete kudasai, kangete imasu
+
+================================================================
+                    LESSON 40 - COMPLETE
+     Next: Lesson 41 -> Giving & Receiving (ageru/morau/kureru)
+================================================================

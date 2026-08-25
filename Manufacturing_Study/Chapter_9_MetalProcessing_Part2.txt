@@ -1,0 +1,71 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 9: 金属材料、金属加工 (Metal Materials & Processing) - Part 2
+================================================================
+
+Is part mein hum machines ke naam aur wo metals ko kaise kaat-te (cut), ghis-te (grind) ya jodte (weld) hain, uske baare mein padhenge. Yeh pura practical knowledge hai.
+
+----------------------------------------------------------------
+【９．２】 金属加工技術と工程 (Metal Processing Technology)
+----------------------------------------------------------------
+
+【９．２．１】 切削加工 (Sessaku Kakou - Cutting Process)
+切削加工とは、工具を使って金属の材料を少しずつ削り、目的の形に仕上げる加工方法です。
+Meaning: Tool (tool bit/cutter) ka use karke metal ko thoda-thoda cheelna (cut karna) aur shape banana "Sessaku Kakou" kehlata hai.
+
+[Sessaku (Cutting) Machines ke naam:]
+① 旋盤 (Senban - Lathe Machine)
+材料を回転させ、そこに工具を当てて削ります。丸い棒状の製品や円盤状の製品をつくるのに適しています。
+Meaning: Is machine mein Material (loha) GOOL ghumta hai aur Tool ek jagah ruka rehta hai. Gol (round) parts banane ke liye use hoti hai.
+* チャック (Chakku): Material ko pakadne wala hissa.
+* 生づめ (Namazume - Soft Jaws): Chuck ke aage lagne wala naram part jisse material par scratch na aaye.
+
+② フライス盤 (Furaisu-ban - Milling Machine)
+工具を回転させ、材料を動かしながら削ります。平面や溝、複雑な形をつくるのに適しています。
+Meaning: Is machine mein Tool (cutter) GOOL ghumta hai aur Material aage-peeche move karta hai. Flat surface ya naali (groove) banane ke liye use hoti hai.
+
+③ ボール盤 (Booruban - Drill Press)
+ドリルを回転させ、材料に穴を開けるのに使います。
+Meaning: Material mein hole (ana) karne wali machine.
+
+④ マシニングセンタ (Mashiningu Senta - Machining Center)
+切削工具を自動で交換する機能を持つ工作機械です。
+Meaning: Yeh ek advance computer-controlled machine hai jo apna cutter khud change kar leti hai (Auto Tool Changer - ATC).
+* 縦形 (Tategata - Vertical): Cutter upar se aata hai.
+* 横形 (Yokogata - Horizontal): Cutter side se aata hai. (Isme ek ghumne wala table hota hai jisse product ko 4 side se cut kiya ja sakta hai bina hataye).
+
+* 切削油 (Sessakuyu - Cutting Fluid / Coolant)
+Cutting karte waqt bahut garmi (heat) aur chips nikalte hain. Inhe thanda karne aur saaf karne ke liye "Coolant" (Sessakuyu) dala jata hai.
+
+---
+【９．２．２】 研削・研磨加工 (Kensaku / Kenma Kakou - Grinding & Polishing)
+切削加工では難しい、非常に高い精度や美しい表面が必要な場合にこの加工が行われます。
+Meaning: Jab cutting machine se kaam poora nahi ho pata aur surface ko aur zyada smooth ya exact size ka banana ho.
+
+① 研削加工 (Kensaku kakou - Grinding): 
+砥石 (Toishi - Grinding wheel) ko speed se ghumakar metal ki surface ko ghisna (rub karna). Engine ke parts is se bante hain.
+② 研磨加工 (Kenma kakou - Polishing): 
+研磨剤 (Kenmazai - Polishing paste) laga kar surface ko sheeshe (mirror) jaisa chamkana. (Friction kam karne ke liye bhi use hota hai).
+
+---
+【９．２．３】 溶接・鋳造・塑性加工 (Welding, Casting, Plastic Working)
+Yeh wo tarike hain jinme metal ko kaata (cut) nahi jata, balki uski shape badli jati hai.
+
+（１）溶接 (Yousetsu - Welding)
+溶接は、複数の金属部品を熱や圧力を使って、溶かして１つにつなぎ合わせる技術です。
+Meaning: Garmi se pighla kar 2 metals ko aapas mein jodne ko welding kehte hain.
+* アーク溶接 (Aaku Yousetsu - Arc Welding): Electric spark (Aaku) se pighlana. Isme bahut khatarnak light aur gas nikalti hai isliye 遮光面 (Shakoumen - Welding helmet) aur dust mask pehn-na zaroori hai.
+
+（２）鋳造 (Chuuzou - Casting)
+金属を高温で溶かして液体にし、それを砂などで作った型（鋳型）に流し込み、冷やし固めて目的の形をつくる加工方法です。
+Meaning: Loha itna garam karna ki paani (liquid) ban jaye, aur phir usko ek sanche (mold/Igata) mein daal kar thanda karna. Engine ke block ya heavy parts is se bante hain.
+
+（３）塑性加工 (Sosei Kakou - Plastic Working)
+金属を固体（溶けていない状態）のまま、力を加えて変形させて形をつくる加工方法です。
+Meaning: Loha bina pighlaye, sirf force lagakar (dabakar ya peet kar) uski shape badalna. Iske 3 types hain:
+
+① プレス加工 (Puresu Kakou - Press Working): Patli sheet ko upar se bahut zor se daba kar shape dena. (Car ki body).
+② 鍛造 (Tanzou - Forging): Garam lohe ko hammer (hathode) se peet-peet kar shape dena. Is-se lohe ke andar ke grains (鍛流線 - Tanryuusen) ghanne ho jate hain aur part bahut MAJBOOT banta hai. (Japan ki sword (Katana) aise banti hai).
+③ 圧延 (Atsuen - Rolling): Loha 2 bade rollers ke beech se nikal kar patla karna (jaise roti belna).
+
+================================================================

@@ -1,0 +1,50 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 9: 金属材料、金属加工 (Metal Materials & Processing) - Part 3 (FINAL)
+================================================================
+
+Is part mein hum padhenge ki metals ka kaam poora hone ke baad unki Inspection (Checking) kaise ki jati hai. Yeh Chapter 5 ka revision jaisa hi hai.
+
+----------------------------------------------------------------
+【９．３】 金属製品の検査と評価 (Inspection & Evaluation of Metal Products)
+----------------------------------------------------------------
+
+【９．３．１】 検査の種類 (Types of Inspection)
+Metal products banne ke baad check kiya jata hai ki wo theek bane hain ya nahi.
+- 適合 (Tekigou - Pass): Agar product sahi hai. (Ise 良品 - Ryouhin bhi kehte hain).
+- 不適合 (Futekigou - Fail): Agar product mein defect hai. (Ise 不良品 - Furyouhin bhi kehte hain).
+
+[Inspection ke do tarike:]
+① 全数検査 (Zensuu kensa - 100% Inspection): 
+Sare products ko ek-ek karke check karna. Yeh wahan kiya jata hai jahan galti hone se insaan ki jaan ko khatra ho sakta hai (jaise airplane ke parts). Isme time aur cost bahut lagta hai.
+② 抜取検査 (Nukitori kensa - Sampling Inspection): 
+Bahut sare products (Lot) mein se kuch products nikal kar check karna. Mass production (ek saath bahut saare parts banane) ke liye yeh sabse acha tarika hai.
+
+【９．３．２】 非破壊検査 (Hihakai Kensa - Non-Destructive Testing / NDT)
+Metal products ko bina tode (without destroying) unke andar ya bahar ki kharabi (defects/cracks) check karne ko Non-Destructive Testing kehte hain.
+
+[NDT ke Types (Short forms yaad rakhein!)]
+① 放射線透過試験 (RT - Radiographic Test): X-ray ya Gamma-ray se andar ke hole/cracks dekhna.
+② 超音波探傷試験 (UT - Ultrasonic Test): Ultrasound waves (echo) bhej kar andar ki crack check karna.
+③ 磁気探傷試験 (MT - Magnetic Particle Test): Metal ko magnet banakar magnetic powder dalna jisse surface ke cracks dikh jate hain.
+④ 液体浸透探傷試験 (PT - Penetrant Test): Colored liquid daal kar surface ke cracks check karna.
+⑤ 渦電流試験 (ET - Eddy Current Test): Coil aur electric current se check karna.
+⑥ 外観試験 (VT - Visual Test): Aankhon se dekh kar check karna.
+
+* 官能検査 (Kannou kensa - Sensory Inspection):
+Insaan apni 5 senses (Sight, Hearing, Touch, Smell, Taste) ka use karke check karta hai. Jaise awaz sun kar pata lagana ki machine theek chal rahi hai ya nahi.
+
+【９．３．３】 寸法・形状検査と表面粗さ測定 (Dimension, Shape & Surface Roughness Inspection)
+（１）寸法・形状検査 (Dimension & Shape Inspection)
+Product ka size drawing ke hisaab se theek hai ya nahi, isko check karna.
+Iske liye ノギス (Nogisu - Caliper) aur マイクロメータ (Maikuromeeta - Micrometer) ka use hota hai.
+- Rule: In tools ko use karne se pehle hamesha "ゼロ点 (Zero point)" set karna zaroori hai.
+- Fast checking ke liye 限界ゲージ (Genkai Gauge - Limit Gauge) ka use hota hai jisme "Toorigawa (Go)" aur "Tomarigawa (No-go)" side hoti hai.
+
+（２）表面粗さ測定 (Hyoumen arosa sokutei - Surface Roughness Measurement)
+Product ki surface kitni smooth hai ya rough hai, yeh check karna bahut zaroori hai kyunki is se parts ke ghisne (friction/wear) par asar padta hai.
+Iske liye 触針式表面粗さ計 (Stylus-type surface roughness tester) ka use karte hain. Isme ek needle surface par chalti hai aur roughness measure karti hai. (Ra, Rz values check hoti hain).
+
+================================================================
+CHAPTER 9 COMPLETE!
+================================================================

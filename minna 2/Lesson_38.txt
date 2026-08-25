@@ -1,0 +1,201 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 38 (N4)
+   Topic: Nominalization with ~の (no ga / no wa / no wo)
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ki verb ko NOUN ki tarah use karna:
+-> "Padhna achha hai" mein "Padhna" = noun
+-> Japanese mein ~no lagaake verb ko noun banate hain
+
+----------------------------------------------------------------
+[GRAMMAR 1] NOMINALIZATION with ~の (~no)
+   -> Verb/Clause ko noun banane ka tarika
+   -> "...karna / ...ka" wali noun phrases
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (Plain form) + no + [particle]
+
+3 MAIN USES:
+
+USE 1: ~のは (~no wa) - Topic banano
+  -> Kisi action ko topic ki tarah batana
+
+  * Ryouri wo SURU NO WA tanoshii desu.
+    -> Khaana banana mazedaar hai.
+
+  * Nihongo wo BENKYOU SURU NO WA muzukashii desu.
+    -> Japanese padhna mushkil hai.
+
+  * Watashi ga UMARETA NO WA Kyouto desu.
+    -> Jahan main paida hua woh Kyoto hai.
+
+  * Mainichi UCHI WO SOJI SURU NO WA taihen desu.
+    -> Roz ghar saaf karna mushkil hai.
+
+USE 2: ~のが (~no ga) - Subject as verb/adj ke object
+  -> Pasand/naapasand / achha/bura / jaldi/dheere describe karna
+
+  * Watashi wa hana wo SODATERU NO GA suki desu.
+    -> Mujhe phool ugaana pasand hai.
+
+  * Kanojo wa ARUKU NO GA hayai desu.
+    -> Woh tez chalti hai. (literally: uska chalna tez hai)
+
+  * Watashi wa OYOGU NO GA nigate desu.
+    -> Mujhe tairna achha nahi lagta. (weak point)
+
+  * Kare wa kanji wo KAKU NO GA jouzu desu.
+    -> Woh kanji likhne mein mahir hai.
+
+  COMMON PATTERNS with no ga:
+  [action] NO GA suki/kirai desu = pasand/naapasand
+  [action] NO GA jouzu/heta desu = mahir/kamzor
+  [action] NO GA hayai/osoi desu = tez/dheema
+  [action] NO GA wakaru/wakannai = samajhna/na samajhna
+
+USE 3: ~のを (~no wo) - Object of another verb
+  -> Forgetting, knowing, seeing, hearing an action
+
+  * Kagi wo KAKERU NO WO wasuremashita.
+    -> Taala lagaana bhool gaya.
+
+  * Suzuki-san ga KEKKON SURU NO WO shitte imasu ka?
+    -> Kya aap jaante hain ki Suzuki-san ki shaadi ho rahi hai?
+
+  * Okasan ga OSHIERU NO WO mimashita.
+    -> Maine dekha ki maa padha rahi thi.
+
+  * Densha ga DERU NO WO matte imasu.
+    -> Train ke jaane ka intezaar kar raha hoon.
+
+----------------------------------------------------------------
+[GRAMMAR 2] NO WO wasuremashita - Common Pattern
+   -> "...karna bhool gaya"
+----------------------------------------------------------------
+
+  * Shukudai wo SURU NO WO wasuremashita.
+    -> Homework karna bhool gaya.
+
+  * Mado wo SHIMERU NO WO wasuremashita.
+    -> Khidki band karna bhool gaya.
+
+  * Kusuri wo NOMU NO WO wasuremashita.
+    -> Dawai lena bhool gaya.
+
+----------------------------------------------------------------
+[GRAMMAR 3] Adjective -> Noun with ~さ (~sa)
+   -> i-adjective ko noun mein badlo
+   -> "...pan" / "...ki matra"
+----------------------------------------------------------------
+
+  takai (mahanga/uncha) -> TAKASA (unchai/mahangai)
+  nagai (lamba)         -> NAGASA (lambai)
+  omoi (bhaari)         -> OMOSA (bhaarpan/wajan)
+  hiroi (chauda)        -> HIROSA (chaudaai)
+  fukai (gehra)         -> FUKASA (gehraai)
+  atsui (garam)         -> ATSUSA (garmi)
+  samui (thanda)        -> SAMUSA (thandi)
+  hayai (tez)           -> HAYASA (tezi/speed)
+
+EXAMPLES:
+  * Kono yama no TAKASA wa 3776m desu.
+    -> Is pahad ki unchai 3776 meter hai.
+
+  * Kawa no FUKASA wo hakarimashita.
+    -> Nadi ki gehraai naapi.
+
+  * Kono heya no HIROSA wa dono kurai desu ka?
+    -> Is kamre ki chaudaai kitni hai?
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 38]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  育てます           | sodatemasu        | Paalana / Ugaana
+  運びます           | hakobimasu        | Uthana / Transport karna
+  亡くなります        | nakunarimasu      | Guzar jaana (death - polite)
+  入院します          | nyuuin shimasu    | Hospital mein dakhil hona
+  退院します          | taiin shimasu     | Hospital se jaana
+  入れます [電源]     | iremasu           | On karna (power)
+  切ります [電源]     | kirimasu          | Off karna (power)
+  かけます [鍵]       | kakemasu          | Taala lagana / Lock karna
+  気持ちがいい        | kimochi ga ii     | Achha lagta hai
+  気持ちが悪い        | kimochi ga warui  | Bura lagta hai
+  大きな            | ookina            | Bada (na-adj ke jaisa use)
+  小さな            | chiisana          | Chota (na-adj ke jaisa)
+  赤ちゃん           | akachan           | Shishu / Baby
+  小学校            | shougakkou        | Prathamik school
+  中学校            | chuugakkou        | Middle school
+  嘘               | uso               | Jhooth / Lie
+  書類              | shorui            | Kagzaat / Documents
+  電源              | dengen            | Bijli / Power switch
+  ~製              | ~sei              | ~mein bana hua (Made in ~)
+  あ、いけない        | a, ikenai         | Arey! Galat ho gaya!
+  お先に            | o-saki ni         | Main pehle jaata/jaati hoon
+
+----------------------------------------------------------------
+[NOMINALIZATION - QUICK SUMMARY TABLE]
+----------------------------------------------------------------
+
+  Pattern   | Use                    | Example
+  ----------|------------------------|--------------------------------
+  ~no wa    | Topic define karna     | Ryouri suru no wa tanoshii
+  ~no ga    | Verb/adj ka subject    | Oyogu no ga suki desu
+  ~no wo    | Verb ka object         | Kagi kakeru no wo wasureta
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Mujhe khana banana pasand hai.
+   -> _______________________________________________
+
+2. Woh tez chalti hai.
+   -> _______________________________________________
+
+3. Taala lagaana bhool gaya.
+   -> _______________________________________________
+
+4. Kya jaante hain Yamada-san hospital mein hain?
+   -> _______________________________________________
+
+5. Is nadi ki gehraai kitni hai?
+   -> _______________________________________________
+
+ANSWERS:
+1. Ryouri wo suru no ga suki desu.
+2. Kanojo wa aruku no ga hayai desu.
+3. Kagi wo kakeru no wo wasuremashita.
+4. Yamada-san ga nyuuin shita no wo shitte imasu ka?
+5. Kono kawa no fukasa wa dono kurai desu ka?
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 38]
+----------------------------------------------------------------
+
+* ~no ga suki/kirai = Most common JLPT pattern
+  "Oyogu no ga suki desu" = Tairna pasand hai
+
+* NO WA vs NO GA vs NO WO confusion:
+  WA = topic (kya hai topic?)
+  GA = subject of adj (kya ho raha hai us action ke saath?)
+  WO = object of verb (kya bhool gaya / kya jaanta hai?)
+
+* Adjective + sa = Noun:
+  JLPT mein measurement questions mein aata hai
+  "Kono kawa no fukasa" = Nadi ki gehraai
+
+* "Nakunarimasu" = Guzar jaana (death ke liye polite word)
+  "Shinimashita" se zyada sophisticated hai
+
+* Ookina / chiisana = ookii / chiisai ka alternative (na-adj form)
+  Both correct hain but ookina/chiisana sirf noun se pehle aata hai
+
+================================================================
+                    LESSON 38 - COMPLETE
+     Next: Lesson 39 -> ~ので / ~のに (Reasons & Contrast)
+================================================================

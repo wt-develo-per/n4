@@ -1,0 +1,114 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 4: 一般知識 (Ippan Chishiki - General Knowledge)
+================================================================
+
+Is chapter mein hum Basic Science (Chemistry aur Electricity) aur Environment se jude topics padhenge. Yeh short aur easy chapter hai.
+
+----------------------------------------------------------------
+【４．１】 化学 (Kagaku - Chemistry)
+----------------------------------------------------------------
+
+【４．１．１】 ｐH (Pi-Eichi / Pee-Ech)
+pH とは、水溶液の酸性・アルカリ性の度合いを示す単位で、水素イオン指数とも呼ばれます。
+(pH to wa, suiyoueki no sansei - arukari-sei no doai wo shimesu tan'i de, suiso ion shisuu tomo yobaremasu.)
+Meaning: pH ek unit hai jo batati hai ki koi liquid kitna Acidic (Sansei - Khatta/Tezab wala) ya Alkaline (Arukari-sei - Kadwa/Base wala) hai. Ise Hydrogen Ion Index bhi kehte hain.
+
+pH値は 0 から 14 までの数値で表され、pH7 が中性です。
+(pH chi wa 0 kara 14 made no suuchi de arawasare, pH7 ga chuusei desu.)
+Meaning: pH ki value 0 se 14 tak hoti hai. pH 7 ka matlab "Neutral" (Chuusei - na acid, na base) hota hai.
+
+pH7 より小さい場合は酸性で、値が小さいほど酸性が強くなります。
+(pH7 yori chiisai baai wa sansei de, atai ga chiisai hodo sansei ga tsuyoku narimasu.)
+Meaning: Agar pH 7 se kam (< 7) hai toh woh Acid (Sansei) hai. Number jitna chhota hoga (jaise 1 ya 2), Acid utna hi strong hoga.
+
+pH7 より大きい場合はアルカリ性で、値が大きいほどアルカリ性が強くなります。
+(pH7 yori ookii baai wa arukari-sei de, atai ga ookii hodo arukari-sei ga tsuyoku narimasu.)
+Meaning: Agar pH 7 se zyada (> 7) hai toh woh Base/Alkaline (Arukari-sei) hai. Number jitna bada hoga (jaise 13 ya 14), Base utna hi strong hoga.
+
+---
+【４．１．２】 酸化と還元 (Sanka to Kangen - Oxidation and Reduction)
+
+酸化は、物質が酸素と結びつくことを指す化学反応です。
+(Sanka wa, busshitsu ga sanso to musubitsuku koto wo sasu kagaku hannou desu.)
+Meaning: Oxidation (Sanka) ka matlab hai kisi cheez (material) ka Oxygen (sanso) ke sath jud jana.
+Iska dusra matlab hai: Kisi cheez se Electron ya Hydrogen ka nikal jana.
+
+[酸化の例 (Oxidation ke Examples)]
+・鉄がさびる (Tetsu ga sabiru) = Lohe (Iron) par zang lagna. Loha hawa ki oxygen ke sath jud kar lal rang ka "Iron Oxide" ban jata hai.
+・物が燃える (Mono ga moeru) = Kisi cheez ka jalna (Burning). Jalne par cheez oxygen ke sath tezi se judti hai aur heat (netsu) aur light (hikari) nikalti hai.
+
+還元とは、酸化した物質が酸素を失うこと（もしくは、電子や水素を受け取ること）です。
+(Kangen to wa, sanka shita busshitsu ga sanso wo ushinau koto (moshikuha, denshi ya suiso wo uketoru koto) desu.)
+Meaning: Reduction (Kangen) iska ulta hota hai. Oxide ban chuki cheez se Oxygen ka alag ho jana Reduction kehlata hai. (Ya Electron/Hydrogen ka jud jana).
+
+---
+【４．１．３】 比重 (Hijou - Specific Gravity / Density)
+
+比重とは、ある物質が基準となる物質と比べてどれだけ重いかを示す値です。
+(Hijou to wa, aru busshitsu ga kijun to naru busshitsu to kurabete doredake omoi ka wo shimesu atai desu.)
+Meaning: Specific Gravity (Hijou) batata hai ki koi material pani ke mukable kitna bhari (omoi) hai. Solid ya liquid materials ke liye 4℃ ke pani ko standard (Hijou = 1) mana jata hai.
+
+[Metal ki Specific Gravity (Example)]
+・アルミ (Aluminum) = 2.68
+・鉄 (Iron / Loha) = 7.87
+・銅 (Copper / Tamba) = 8.82
+・金 (Gold / Sona) = 19.32  (Dekhiye, Sona pani se almost 19 guna zyada bhari hota hai!)
+
+
+----------------------------------------------------------------
+【４．２】 資源の活用 (Shigen no Katsuyou - Resource Utilization)
+----------------------------------------------------------------
+
+【４．２．１】 リデュース、リユース、リサイクル (Reduce, Reuse, Recycle - The 3Rs)
+
+① リデュース (Reduce / Kamo karna): 
+ごみの発生を減らすことです。
+(Gomi no hassei wo herasu koto desu.)
+Meaning: Kachra (gomi) kam paida karna. 
+Example: Shopping bag (My Bag) ya water bottle (My Bottle) sath le jana, extra packing mana karna.
+
+② リユース (Reuse / Phir se use karna):
+一度使ったものをくり返し使うことです。
+(Ichido tsukatta mono wo kurikaeshi tsukau koto desu.)
+Meaning: Ek baar use ki hui cheez ko dubara (kurikaeshi) use karna.
+Example: Purani cheezein recycle shop par bechna, refill wali cheezein kharidna, apne kapde kisi aur ko dena.
+
+③ リサイクル (Recycle / Recycle karke naya material banana):
+ごみを資源として再利用することです。
+(Gomi wo shigen to shite sairiyou suru koto desu.)
+Meaning: Kachre ko resource samajh kar process karke naya material banana.
+Example: Plastic bottles (PET bottle), milk cartons, aur purane paper (koshi) ko alag karke fenkna. Tute hue electronics ko sahi jagah dena.
+
+---
+【４．２．２】 サーキュラーエコノミー (Circular Economy)
+「循環経済」と訳され、これまでの大量生産・大量消費・大量廃棄という一方通行の経済システムから脱却し、資源を循環させながら持続可能な社会を目指す新しい経済システムのことです。
+(Junkan keizai to yakusare, kore made no tairyouseisan - tairyoushouhi - tairyouhaiki to iu ippoutsuukou no keizai shisutemu kara dakkyakushi, shigen wo junkan sasenagara jizokukanou na shakai wo mezasu atarashii keizai shisutemu no koto desu.)
+
+Meaning: Isko "Junkan Keizai" (Circular Economy) bhi kehte hain. Abhi tak hum cheezein bahut zyada banate the, use karte the, aur fenk dete the (One-way system). Par is naye system mein, kachre (pollution) ko khatam karke resources ko ghumakar (junkan) dubara use kiya jata hai, taki future tak duniya chalti rahe (Sustainable / Jizoku kanou).
+
+
+----------------------------------------------------------------
+【４．３】 電気 (Denki - Electricity)
+----------------------------------------------------------------
+
+（１）直流と交流 (Chokuryuu to Kouryuu - DC and AC)
+・直流 (DC - Direct Current): 電気が常に一定の方向に流れる (Current hamesha ek hi direction mein behti hai. Jaise Battery).
+・交流 (AC - Alternating Current): 周期的に流れる向きを変える (Current apna direction baar-baar badalti rehti hai. Jaise ghar aane wali light).
+
+（２）電圧 (Den'atsu - Voltage)
+電気を流そうとする「電気の圧力」のことです。
+(Denki wo nagasou to suru "denki no atsuryoku" no koto desu.)
+Meaning: Current ko aage dhakka marne wala "Electric Pressure" (voltage) hota hai. Iski unit V (Volt) hoti hai. Japan ke gharo mein normal voltage 100V hoti hai, par factory mein 200V ka use hota hai.
+
+（３）導電性 (Douensei - Conductivity)
+電気の通しやすさのことです。
+(Denki no tooshi-yasusa no koto desu.)
+Meaning: Kisi cheez mein se current kitni aasani se paas hota hai.
+・絶縁体 (Zetsuentai - Insulator): Jis mein se current paas nahi hota (電気を通しにくい - Denki wo tooshi nikui). Example: Rubber (Gomu), Plastic.
+・導電体 (Doudentai - Conductor): Jis mein se current aasani se paas hota hai (電気を通しやすい - Denki wo tooshi yasui). Example: Metal (Kinzoku).
+
+
+================================================================
+CHAPTER 4 COMPLETE!
+================================================================

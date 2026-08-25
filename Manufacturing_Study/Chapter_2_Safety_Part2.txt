@@ -1,0 +1,117 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 2: 安全衛生 (Anzen Eisei - Safety and Hygiene) - Part 2
+================================================================
+
+Is part mein hum Japanese manufacturing ke sabse important rules 5S aur 3-Tei (Santei) padhenge. Exam mein inmein se pakka questions aate hain!
+
+----------------------------------------------------------------
+【２．１．５】 整理・整頓・清掃・清潔・躾（５Ｓ）
+(Seiri - Seiton - Seisou - Seiketsu - Shitsuke) = 5S
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE]
+これら 5 つの言葉は、アルファベットの S で始まるので「５S」と言われています。
+(Korera itsutsu no kotoba wa, arufabetto no S de hajimaru node "Go-Esu" to iwarete imasu.)
+Meaning: Yeh 5 words alphabet 'S' se shuru hote hain, isliye inhein "5S" kaha jata hai.
+
+仕事を、安全に、確実に、効率良く、行うための基本的なルールです。
+(Shigoto wo, anzen ni, kakujitsu ni, kouritsuyoku, okonau tame no kihonteki na ruuru desu.)
+
+[Word-by-Word]
+・安全に (anzen ni) = Safely / Surakshit tarike se
+・確実に (kakujitsu ni) = Accurately / Bina galti ke
+・効率良く (kouritsuyoku) = Efficiently / Tezi aur achhe se
+・基本的な (kihonteki na) = Basic / Buniyadi
+
+[Overall Meaning]
+Kaam ko safely, accurately, aur efficiently karne ke liye yeh basic rules hain.
+
+---
+5S KI DETAILS (Bahut dhyan se yaad karein!):
+
+（１）整理 (Seiri - Sort)
+要らないものを捨てることです。
+(Iranai mono wo suteru koto desu.)
+Meaning: Jo cheezein nahi chahiye (iranai mono), unhe fenk dena (suteru).
+「要るもの」と「要らないもの」を分けて、要らないものをなくします。
+Meaning: "Zaroori cheezon" aur "Gair-zaroori cheezon" ko alag (wakete) karke, bekaar cheezon ko hata dena.
+
+（２）整頓 (Seiton - Set in Order)
+要るものを使いやすく置くことです。
+(Iru mono wo tsukaiyasuku oku koto desu.)
+Meaning: Zaroori cheezon ko is tarah rakhna (oku) ki unhe easily use kiya ja sake (tsukaiyasuku).
+誰でも、すぐにものが探せるように、場所を定めます。
+Meaning: Taki koi bhi (dare demo), turant (sugu ni) cheezein dhoondh sake (sagaseru), isliye unki jagah fix (sadamemasu) kar di jati hai.
+
+（３）清掃 (Seisou - Shine / Sweep)
+きれいに掃除することです。
+(Kirei ni souji suru koto desu.)
+Meaning: Achhe se saaf-safai (souji) karna.
+汚れやゴミをなくして、いつもピカピカにします。
+Meaning: Gandagi (yogore) aur kachra (gomi) hatakar hamesha chamkata hua (pikapika) rakhna.
+
+（４）清潔 (Seiketsu - Standardize / Cleanliness)
+きれいな状態を保つことです。
+(Kirei na joutai wo tamotsu koto desu.)
+Meaning: Saaf-suthri halat (joutai) ko maintain rakhna (tamotsu).
+整理、整頓、清掃をいつも続けて、きれいな職場を保ちます。
+Meaning: Seiri, Seiton, aur Seisou ko hamesha continue karke saaf workplace maintain karna.
+
+（５）躾 (Shitsuke - Sustain / Discipline)
+ルールを守る習慣を身につけることです。
+(Ruuru wo mamoru shuukan wo mi ni tsukeru koto desu.)
+Meaning: Rules ko follow karne ki aadat (shuukan) dalna (mi ni tsukeru).
+
+
+----------------------------------------------------------------
+【２．１．６】 三定 (Santei - The 3 Fixeds / 3 定)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE]
+ものの置き場所や数を定めることで、作業をスムーズにするためのルールです。
+(Mono no okibasho ya kazu wo sadameru koto de, sagyou wo sumuuzu ni suru tame no ruuru desu.)
+
+[Word-by-Word]
+・置き場所 (okibasho) = Rakhne ki jagah
+・数 (kazu) = Ginti / Quantity
+・定める (sadameru) = Fix karna / Decide karna
+・作業 (sagyou) = Kaam
+・スムーズに (sumuuzu ni) = Smoothly
+
+[Overall Meaning]
+Cheezon ko rakhne ki jagah aur unki quantity ko fix karke, kaam ko smoothly karne ka rule hai. 
+
+定位、定品、定量の三つを合わせて、「三定」といいます。
+(Teii, Teihin, Teiryou no mittsu wo awasete, "Santei" to iimasu.)
+Meaning: Tei-i (Fixed Position), Tei-hin (Fixed Item), aur Tei-ryou (Fixed Quantity) in teeno ko milakar "Santei" kehte hain.
+
+三定によって、「誰でも、いつでも、迷わずに」必要なものを見つけられるようになります。
+(Santei ni yotte, "dare demo, itsu demo, mayowazu ni" hitsuyou na mono wo mitsukerareru you ni narimasu.)
+Meaning: Santei ki wajah se "koi bhi, kabhi bhi, bina confuse hue (mayowazu ni)" zaroori cheezein dhoondh sakta hai.
+
+---
+3-TEI KI DETAILS:
+
+（１）定位 (Tei-i) ：置き場所を定める (Okibasho wo sadameru - Fix the Location)
+すべてのものの置き場所をはっきりと定めることです。
+(Subete no mono no okibasho wo hakkiri to sadameru koto desu.)
+Meaning: Sabhi cheezon ko rakhne ki jagah clearly fix karna.
+床に線を引いたり、棚に名前を貼ったりして、「ものの住所」を定めます。こうすることで、「探す時間」をなくします。
+Meaning: Farsh (yuka) par line (sen) khinch kar, ya rack (tana) par naam laga kar, "cheezon ka address" fix karte hain. Is-se "dhoondhne ka time" (sagasu jikan) bachta hai.
+
+（２）定品 (Tei-hin) ：置くものを定める (Oku mono wo sadameru - Fix the Item)
+定めた場所に、定めたものだけを置くことです。
+(Sadameta basho ni, sadameta mono dake wo oku koto desu.)
+Meaning: Fix ki gayi jagah par, sirf fix ki gayi cheez hi rakhna.
+例えば、「工具A の場所」には「工具A」だけを置きます。違うものが混ざるのを防ぎ、間違いをなくします。
+Meaning: Example ke liye, "Tool A ki jagah" par sirf "Tool A" hi rakhenge. Is-se alag cheezein mix (mazaru) hone se bachti hain aur galti (machigai) nahi hoti.
+
+（３）定量 (Tei-ryou) ：置く量を定める (Oku ryou wo sadameru - Fix the Quantity)
+定めた場所に置くものの数を定め、その数を守ることです。
+(Sadameta basho ni oku mono no kazu wo sadame, sono kazu wo mamoru koto desu.)
+Meaning: Fix jagah par rakhe jane wale items ki ginti fix karna aur us ginti ko maintain karna.
+「この棚にはネジを 10個から 20個まで」のように、適切な量を定めて管理します。
+Meaning: "Is rack par screw (neji) 10 se 20 tak" is tarah, sahi quantity (tekisetsu na ryou) fix karke manage karte hain.
+
+================================================================

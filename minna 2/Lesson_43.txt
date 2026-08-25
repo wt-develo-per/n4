@@ -1,0 +1,232 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 43 (N4)
+   Topic: ~そうです (Appearance) + ~やすい / ~にくい
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. ~sou desu: Dekh ke andaaza lagana "lagta hai..."
+2. ~yasui: Karna aasaan hai
+3. ~nikui: Karna mushkil hai
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~そうです (~sou desu) - APPEARANCE
+   -> Dekh ke ya feel karke andaaza lagana
+   -> "...lagta hai" / "...dikh raha hai"
+   -> NOTE: Yeh HEARSAY wala "sou desu" se ALAG hai!
+----------------------------------------------------------------
+
+FORMATION:
+
+VERBS: masu-stem + sou desu
+  furimasu  -> FURI + sou desu  -> Furi-sou desu
+             -> Baarish hone wali lagti hai.
+  taremasu  -> TARE + sou desu  -> Ochisou desu
+             -> Girne wala lag raha hai.
+
+i-ADJECTIVES: last "i" hatao + sou desu
+  oishii    -> oishi + sou -> OISHISOU desu (tasty-looking)
+  yasui     -> yasu + sou  -> YASUSOU desu (cheap-looking)
+  takai     -> taka + sou  -> TAKASOU desu (expensive-looking)
+  omoi      -> omo + sou   -> OMOSOU desu (heavy-looking)
+  muzukashii -> muzukashi + sou -> MUZUKASHISOU desu
+
+IRREGULAR i-adj:
+  ii (good) -> YOSA + sou -> YOSASOU desu  [NOT iisou!]
+  nai (not) -> NASA + sou -> NASASOU desu  [NOT naisou!]
+
+na-ADJECTIVES: "na" hatao + sou desu
+  genki (na)    -> GENKISOU desu  (energetic-looking)
+  shizuka (na)  -> SHIZUKASOU desu (quiet-looking)
+  kantan (na)   -> KANTANSOU desu (easy-looking)
+  shiawase (na) -> SHIAWASESOU desu (happy-looking)
+
+EXAMPLES:
+  * Kono ryouri wa OISHISOU desu ne!
+    -> Yeh khana bahut tasty lag raha hai!
+
+  * Sora ga KUMORI-SOU desu. Kasa wo motte ikimasu.
+    -> Asmaan mein baadal lage hain. Chhatri lekar jaunga.
+
+  * Kono nimotsu wa OMOSOU desu ne.
+    -> Yeh saamaan bahut bhaari lagta hai.
+
+  * Kare wa GENKISOU desu ne.
+    -> Woh bahut energetic lag raha hai.
+
+  * Kono mondai wa KANTANSOU desu ga, muzukashii desu.
+    -> Yeh sawaal aasaan lagta hai lekin mushkil hai.
+
+CONNECTED USE (sou na + noun):
+  * OISHISOU NA keeki desu ne!
+    -> Kya tasty lagne wali cake hai!
+
+  * TAIHEN-SOU NA shigoto desu ne.
+    -> Bahut mushkil lagne wala kaam hai.
+
+NEGATIVE SOUSOU:
+  * Amari YOKU NASASOU desu.
+    -> Zyada achha nahi lagta.
+
+  * GENKI JA NASASOU desu.
+    -> Theek nahi lagte.
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~やすい (~yasui) - EASY TO DO
+   -> "...karna aasaan hai" / "...karne mein aasaani hai"
+   -> Masu-stem + yasui (new i-adj ban jaata hai!)
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (masu-stem) + yasui + desu
+
+EXAMPLES:
+  * Kono pen wa kaki-YASUI desu.
+    -> Yeh pen se likhna aasaan hai.
+
+  * Kono kusuri wa nomi-YASUI desu.
+    -> Yeh dawai peena aasaan hai.
+
+  * Kono hon wa yomi-YASUI desu.
+    -> Yeh kitaab padhna aasaan hai.
+
+  * Yamada-san wa hanashi-YASUI hito desu.
+    -> Yamada-san se baat karna aasaan hai. (friendly person)
+
+  * Kono heya wa sumi-YASUI desu.
+    -> Yeh kamra rehne ke liye acha hai.
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~にくい (~nikui) - HARD/DIFFICULT TO DO
+   -> "...karna mushkil hai" / "...karne mein takleef hoti hai"
+   -> Masu-stem + nikui
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (masu-stem) + nikui + desu
+
+EXAMPLES:
+  * Kono kanji wa kaki-NIKUI desu.
+    -> Yeh kanji likhna mushkil hai.
+
+  * Kono kusuri wa nomi-NIKUI desu.
+    -> Yeh dawai peena mushkil hai.
+
+  * Kono kotoba wa hatsushon shi-NIKUI desu.
+    -> Yeh shabd uchhaarna mushkil hai.
+
+  * Kono heya wa sumi-NIKUI desu.
+    -> Yeh kamra rehne ke liye theek nahi.
+
+  * Kare wa hanashi-NIKUI hito desu.
+    -> Usse baat karna mushkil hai. (unfriendly/intimidating)
+
+YASUI vs NIKUI COMPARISON:
+  kaki-YASUI = Likhna aasaan
+  kaki-NIKUI = Likhna mushkil
+
+  Yome-YASUI = Padhna aasaan
+  Yomi-NIKUI = Padhna mushkil
+
+  Sumi-YASUI = Rehna achha
+  Sumi-NIKUI = Rehna mushkil
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 43]
+----------------------------------------------------------------
+
+  Japanese        | Romaji          | Hindi Meaning
+  ----------------|----------------|----------------------
+  増えます         | fuemasu         | Badhna / Increase
+  減ります         | herimasu        | Ghatna / Decrease
+  上がります        | agarimasu       | Upar jaana (daam)
+  下がります        | sagarimasu      | Neeche aana (daam)
+  切れます         | kiremasu        | Toot jaana / Snap
+  取れます         | toremasu        | Nikal jaana / Come off
+  落ちます         | ochimasu        | Girna / Fall
+  なくなります       | nakunarimasu    | Khatam hona / Run out
+  丈夫（な）        | joubu (na)      | Mazboot / Durable
+  変（な）         | hen (na)        | Ajeeb / Strange
+  幸せ（な）        | shiawase (na)   | Khush / Happy
+  うまい           | umai            | Swadisht / Skillful
+  まずい           | mazui           | Beswad / Bad taste
+  つまらない        | tsumaranai      | Boring
+  ガソリン         | gasorin         | Petrol / Gasoline
+  火              | hi              | Aag / Fire
+  暖房            | danbou          | Heating system
+  冷房            | reibou          | AC / Cooling
+  センス           | sensu           | Sense / Taste
+  今にも           | ima ni mo       | Abhi abhi / About to...
+  会員            | kaiin           | Member / Membership
+  適当（な）        | tekitou (na)    | Theek-thaak / Appropriate
+  年齢            | nenrei          | Umar / Age
+  収入            | shuunyuu        | Aay / Income
+  ぴったり         | pittari         | Bilkul fit / Perfect
+  その上           | sono ue         | Aur bhi / Moreover
+
+----------------------------------------------------------------
+[SOUDESU - QUICK REFERENCE]
+----------------------------------------------------------------
+
+  Type      | Rule              | Example
+  ----------|------------------|---------------------------
+  Verb      | masu-stem + sou  | furisou (rain-likely)
+  i-adj     | drop i + sou     | oishisou (tasty-looking)
+  na-adj    | drop na + sou    | genkisou (energetic-looking)
+  ii (good) | yosa + sou       | yosasou (good-looking)
+  nai       | nasa + sou       | nasasou (not seeming to have)
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Yeh khana bahut tasty lag raha hai!
+   -> _______________________________________________
+
+2. Yeh pen se likhna aasaan hai.
+   -> _______________________________________________
+
+3. Yeh kanji likhna mushkil hai.
+   -> _______________________________________________
+
+4. Woh bahut khush lagte hain.
+   -> _______________________________________________
+
+5. Baarish hone wali lagti hai.
+   -> _______________________________________________
+
+ANSWERS:
+1. Kono ryouri wa oishisou desu ne!
+2. Kono pen wa kakiyasui desu.
+3. Kono kanji wa kakinikui desu.
+4. Kare/kanojo wa shiawasesou desu ne.
+5. Ame ga furisou desu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 43]
+----------------------------------------------------------------
+
+* SOU DESU (appearance) FORMATION:
+  ii -> yosasou (NEVER iisou - ye galat hai!)
+  nai -> nasasou (NEVER naisou - ye galat hai!)
+  Yeh dono exceptions JLPT mein aate hain!
+
+* ~sou desu (appearance) vs ~sou desu (hearsay - L47):
+  APPEARANCE: adj/verb stem + sou = "lagta hai" (khud dekha)
+  HEARSAY: plain form + sou = "suna hai" (kisi ne kaha)
+
+  "Ame ga furisou desu" = Baarish hone wali lagti hai (clouds dekhe)
+  "Ame ga furu sou desu" = Suna hai baarish hogi (news se)
+
+* Yasui/nikui = I-adjective ki tarah conjugate hota hai:
+  kakiyasui -> kakiyasuku nai (negative)
+  kakiyasui -> kakiyasukatta (past)
+
+* "Hanashiyasui hito" = Friendly person
+  "Hanashinikui hito" = Unapproachable person
+  Ye daily conversation mein kaam aate hain!
+
+================================================================
+                    LESSON 43 - COMPLETE
+    Next: Lesson 44 -> ~すぎます / ~やすい~にくい / Adj+shimasu
+================================================================

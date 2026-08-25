@@ -1,0 +1,218 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 34 (N4)
+   Topic: ~とおりに / ~あとで / ~て / ~ないで
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ki actions ko sequence mein kaise batate hain:
+1. ~toori ni: Jaise kaha/dekha waisa karna
+2. ~ato de: Karne ke BAAD
+3. ~te / ~naide: Karte hue / Bina kiye
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~とおりに (~toori ni)
+   -> "Jaise ... kiya/kaha/dekha, waisa karo"
+   -> "Exactly as..." / "Following..."
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (ta-form) + toori ni + V2
+  Verb (dict form) + toori ni + V2
+  Noun + no toori ni + V2
+
+EXAMPLES:
+
+TA-FORM + toori ni (already happened/saw):
+  * Watashi ga itta toori ni, kaite kudasai.
+    -> Jaise maine kaha tha, waisa likho.
+
+  * Mita toori ni, yarimashita.
+    -> Jo dekha tha, waisa kiya.
+
+  * Sensei ga oshieta toori ni, kakimashita.
+    -> Teacher ne jo sikhaya tha waisa likha.
+
+DICT FORM + toori ni (general rule):
+  * Watashi ga iu toori ni, shite kudasai.
+    -> Main jo keh raha hoon waisa karo.
+
+  * Setsumeisho ni kaite aru toori ni, kumitatemashita.
+    -> Manual mein jo likha tha waisa assemble kiya.
+
+NOUN + no toori ni:
+  * Chizu no toori ni, ikimashita.
+    -> Map ke hisaab se gaya.
+
+  * Setsumeisho no toori ni, kumitatemashita.
+    -> Manual ke hisaab se joura.
+
+  * Yotei no toori ni, susumimashita.
+    -> Plan ke hisaab se aage badha.
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~あとで (~ato de)
+   -> "...karne ke BAAD" - Sequence of actions
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (ta-form) + ato de + V2
+  Noun + no ato de + V2
+
+EXAMPLES:
+  * Shokuji no ato de, koohii wo nomimasu.
+    -> Khaana khane ke baad, coffee peeta/peeti hoon.
+
+  * Shigoto no ato de, nomi ni ikimasen ka?
+    -> Kaam ke baad, peene chalen?
+
+  * Tegami wo kaita ato de, okuri masu.
+    -> Chitthi likhne ke baad, bheejunga.
+
+  * Soji shita ato de, dekakemashita.
+    -> Safai karne ke baad, bahar gaya.
+
+  * Nihon ni kita ato de, Nihongo ga jouzu ni narimashita.
+    -> Japan aane ke baad, Japanese achhi ho gayi.
+
+DIFFERENCE: ato de vs te kara
+  * ~te kara = Verb te form (zyada tight sequence)
+  * ~ato de = ta form (sequence, thodi looseness)
+
+  Te kara wo khane ke baad immediately:
+  "Tabete kara, dekakemashita" = Kha ke turant nikal gaya
+
+  Ato de (kuch der baad bhi ho sakta hai):
+  "Tabeta ato de, dekakemashita" = Khane ke baad nikla
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~て + V2 (te form connecting)
+   -> V1 karke V2 karna (method / manner)
+   -> Kaise kiya - "...karke"
+----------------------------------------------------------------
+
+EXAMPLES:
+  * Shouyu wo tsukete tabemasu.
+    -> Soy sauce lagaake khata/khati hoon.
+
+  * Te wo aratte, gohan wo tabemasu.
+    -> Haath dhokar khaana khata/khati hoon. 
+
+  * Megane wo kakete, hon wo yomimasu.
+    -> Chashma lagaake kitaab padhta/padhti hoon.
+
+  * Hasitte, kaisha ni ikimashita.
+    -> Daudke company gayi.
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~ないで (~naide)
+   -> "...kiye bina" / "...nahi karke" V2 karna
+   -> Without doing V1, do V2
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (nai-form) + de + V2 
+
+EXAMPLES:
+  * Shouyu wo tsukenai de tabemasu.
+    -> Soy sauce lagaaye bina khata/khati hoon.
+
+  * Nani mo iwanai de, dekakemashita.
+    -> Kuch bole bina chala/chali gaya/gayi.
+
+  * Gohan wo tabenai de, benkyou shimashita.
+    -> Khaana khaye bina padhai ki.
+
+  * Megane wo kakenai de, terebi wo mimasu.
+    -> Chashma lagaaye bina TV dekhta/dekhti hoon.
+
+  * Nemuranai de, shigoto wo shimashita.
+    -> Soye bina kaam kiya.
+
+NAIDE vs NAKUTE:
+  ~naide = Without doing (alag action - V2 alag hai)
+  ~nakute = Because didn't do (reason/result)
+
+  "Tabenai de iku" = Bina khaye jaana (deliberate)
+  "Tabenakute, genki ga nai" = Nahi khaya isliye taakat nahi (reason)
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 34]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  磨きます           | migakimasu        | Maanjhna / Polish karna
+  組み立てます        | kumitatemasu      | Jodna / Assemble karna
+  折ります           | orimasu           | Morna / Fold karna
+  気が付きます        | ki ga tsukimasu   | Pata chalna / Notice
+  付けます           | tsukemasu         | Lagana / Attach karna
+  見つかります        | mitsukarimasu     | Milna / Be found
+  質問します          | shitsumon shimasu | Sawaal karna
+  載せます           | nosemasu          | Rakhna (upar) / Load
+  煮ます            | nimasu            | Pakana / Boil karna
+  細い              | hosoi             | Patla / Thin
+  太い              | futoi             | Mota / Thick
+  苦い              | nigai             | Kadwa / Bitter
+  説明書            | setsumeisho       | Manual / Instructions
+  図               | zu                | Naksha / Diagram
+  線               | sen               | Rekha / Line
+  矢印              | yajirushi         | Teer ka nishaan / Arrow
+  醤油              | shouyu            | Soy sauce
+  盆踊り            | bon odori         | Bon Festival dance
+  家具              | kagu              | Furniture
+  材料              | zairyou           | Samagri / Ingredient
+  茶道              | sadou             | Chai ceremony / Tea art
+  先に              | saki ni           | Pehle / First
+  さっき            | sakki             | Abhi abhi / Just now
+  昨夜              | yuube             | Kaal raat / Last night
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Jo maine kaha waisa karo.
+   -> _______________________________________________
+
+2. Khaane ke baad, coffee peenge.
+   -> _______________________________________________
+
+3. Haath dhokar khaana khao.
+   -> _______________________________________________
+
+4. Bina bole chale gaye.
+   -> _______________________________________________
+
+5. Manual ke hisaab se assemble kiya.
+   -> _______________________________________________
+
+ANSWERS:
+1. Watashi ga itta toori ni, shite kudasai.
+2. Gohan wo tabeta ato de, koohii wo nomimasu.
+3. Te wo aratte, gohan wo tabete kudasai.
+4. Nani mo iwanai de, ikimashita.
+5. Setsumeisho no toori ni, kumitatemashita.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 34]
+----------------------------------------------------------------
+
+* Toori ni ke saath:
+  TA form = Past specific event (jo hua/dekha/kaha)
+  DICT form = General/ongoing instruction
+  NOUN + no = According to [noun]
+
+* Ato de ke saath HAMESHA TA form:
+  X: taberu ato de -> GALAT
+  OK: tabeta ato de -> SAHI
+
+* ~naide vs ~nakute confusion:
+  ~naide = without doing (action based)
+  ~nakute = because didn't (reason based)
+
+* ~te = "karke" (method/manner describe karna)
+  "Te wo aratte tabemasu" = Haath dhoke khana (manner)
+
+================================================================
+                    LESSON 34 - COMPLETE
+            Next: Lesson 35 -> ~ば Conditional (If... then...)
+================================================================

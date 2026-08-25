@@ -1,0 +1,91 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 5: 検査 (Kensa - Inspection) - Part 1
+================================================================
+
+Is chapter mein hum Inspection (check karna) ke tarike padhenge. Factory mein product banne ke baad ya banne ke dauran kaise check hota hai ki usme koi defect toh nahi hai, yeh isme cover hoga.
+
+----------------------------------------------------------------
+【５．１】 品質検査 (Hinshitsu Kensa - Quality Inspection)
+----------------------------------------------------------------
+
+【５．１．１】 品質検査の基本と作業 (Basics and operations of Quality Inspection)
+
+（１）品質検査の目的 (Kensa ka Maqsad - Purpose)
+品質検査の目的は、製造が異常なく正しく行われていることと、製造された製品が決められた品質を満たしていることを確認することです。
+(Hinshitsu kensa no mokuteki wa, seizou ga ijou naku tadashiku okonawarete iru koto to, seizou sareta seihin ga kimerareta hinshitsu wo mitashite iru koto wo kakunin suru koto desu.)
+Meaning: Inspection ka main maqsad yeh check karna hai ki manufacturing bina kisi abnormality (ijou) ke theek se ho rahi hai, aur product required quality ke standard par utar raha hai.
+
+（２）不適合とは (Fu-tekigou to wa - What is Non-conformity/Defect?)
+検査に合格することを適合、合格したものを適合品や良品と言います。
+(Kensa ni goukaku suru koto wo tekigou, goukaku shita mono wo tekigouhin ya ryouhin to iimasu.)
+Meaning: Inspection pass hone ko "Tekigou" (conformity) aur pass hue product ko "Tekigouhin" (good product) ya "Ryouhin" kehte hain.
+
+逆に、検査に不合格となることを不適合、不合格となったものを不適合品や不良品と言います。
+(Gyaku ni, kensa ni fugoukaku to naru koto wo futekigou, fugoukaku to natta mono wo futekigouhin ya furyouhin to iimasu.)
+Meaning: Iske ulta, fail hone ko "Fu-tekigou" (Non-conformity/Defect) aur fail hue product ko "Futekigouhin" ya "Furyouhin" kehte hain.
+
+（３）品質検査の作業 (Inspection ka kaam)
+検査基準は自分の判断で変えてはいけません。
+(Kensa kijun wa jibun no handan de kaete wa ikemasen.)
+Meaning: Inspection standards ko apne judgment (handan) se kabhi change nahi karna chahiye.
+毎日同じような結果が出ることがわかっていても、検査せずにデータを記入してはいけません。
+(Mainichi onaji you na kekka ga deru koto ga wakatte itemo, kensa sezu ni deeta wo kinyuu shite wa ikemasen.)
+Meaning: Agar aapko pata ho ki roz same result aata hai, tab bhi bina check kiye (kensa sezu ni) data entry nahi karni chahiye.
+
+---
+【５．１．２】 検査の種類 (Kensa no Shurui - Types of Inspection)
+
+（１）品質検査を行うタイミング (Inspection ka timing)
+① 受入検査 (Ukeire kensa - Incoming Inspection): 
+購入したものが納品されたときに行う検査。
+Meaning: Bahar se kharida hua saman (materials/parts) aane par jo check hota hai.
+
+② 工程検査 (Koutei kensa - In-process Inspection): 
+製造工程の途中で行う検査。
+Meaning: Manufacturing process ke beech mein (tochuu) jo check hota hai, taki aage wale step mein kharab product na jaye.
+
+③ 出荷検査 (Shukka kensa - Outgoing/Final Inspection): 
+製品が完成したあとに行う検査。
+Meaning: Product poora complete (kansei) hone ke baad, customer ko bhejne se pehle jo final check hota hai.
+
+（２）全数検査と抜取検査 (Zensuu kensa to Nukitori kensa - 100% vs Sampling)
+① 全数検査 (Zensuu kensa - 100% Inspection): 
+すべての製品や部品に対して行う品質検査。
+Meaning: Ek-ek product ko (100%) check karna. Yeh wahan kiya jata hai jahan ek bhi galti insaan ki jaan (jinmei) ke liye khatarnak ho sakti hai. (Time aur paise zyada lagte hain).
+
+② 抜取検査 (Nukitori kensa - Sampling Inspection):
+一部の製品や部品に対して行う品質検査。
+Meaning: Bahut saare products (Lot) mein se kuch products (sample) nikal kar check karna. Mass production mein use hota hai.
+
+（３）抜取検査の方法 (Sampling ka tarika)
+同条件で作られたロットの中から任意にサンプルを選びます。
+(Onaji jouken de tsukurareta rotto no naka kara nin'i ni sanpuru wo erabimasu.)
+Meaning: Same condition mein bane huye products ke ek group (Lot) mein se randomly (nin'i ni) sample chunte hain.
+Agar sample check mein defect limit se kam hue, toh poora Lot pass (goukaku). Agar zyada hue, toh poora Lot fail (fugoukaku).
+
+---
+（４）破壊検査と非破壊検査 (Hakai kensa to Hihakai kensa - Destructive vs NDT)
+① 破壊検査 (Hakai kensa - Destructive Test): 製品を壊すまで試験をする。 (Product ko tod kar check karna, jaise tensile strength). Isme product use layak nahi rehta.
+② 非破壊検査 (Hihakai kensa - Non-Destructive Test): 製品を壊さずに、内部や表面の欠陥を調べる。(Product ko bina tode check karna, jaise X-ray ya ultrasound se andar ka defect check karna).
+
+---
+（５）計量値と計数値 (Keiryouchi to Keisuuchi - Variable Data vs Attribute Data)
+① 計量値 (Keiryouchi): 連続的な値として計測できるデータ。(Length, weight, temperature). Jisko mapte hain (measure karte hain).
+② 計数値 (Keisuuchi): 個数を数えて検査するデータ。(Defects ki ginti, scratches ki ginti). Jisko ginte hain (count karte hain).
+
+---
+【５．１．３】 不適合品率の計算 (Futekigouhin-ritsu no keisan - Defect Rate Calculation)
+Defect Rate (%) nikalne ka formula:
+不適合品率(%) = (不適合品の数 / 生産した数) × 100
+Meaning: Defect Rate (%) = (Kharab products ki ginti / Total bane huye products ki ginti) × 100
+
+Ya agar Sampling ki hai toh:
+不適合品率(%) = (不適合品の数 / 抜き取ったサンプル数) × 100
+Meaning: Defect Rate (%) = (Kharab products ki ginti / Check kiye gaye Samples ki ginti) × 100
+
+Example: 
+Total 1,000 product bane, unme se 5 kharab nikle.
+Defect rate = (5 / 1000) × 100 = 0.5%
+
+================================================================

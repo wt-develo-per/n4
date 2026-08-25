@@ -1,0 +1,85 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 10: 電気機器、成形、塗装、包装 (Electrical, Molding, Painting, Packaging) - Part 1
+================================================================
+
+Yeh hamare study guide ka aakhiri chapter hai. Is part mein hum Basic Electricity (Current, Voltage) aur Electronic components (Resistor, Capacitor) ke baare mein padhenge.
+
+----------------------------------------------------------------
+【１０．１】 電気機器の基礎と安全 (Basics & Safety of Electrical Equipment)
+----------------------------------------------------------------
+
+【１０．１．１】 電気の基本知識と回路 (Basic Knowledge & Circuits)
+（１）オームの法則とは (Ohm's Law)
+電気の働きを理解するために、基本的な用語を覚えておきましょう。
+Meaning: Electricity ko samajhne ke liye 3 basic words yaad rakhne zaruri hain:
+
+① 電圧（V）- Voltage: 
+電流を流そうとする力のことです。水圧のようなものです。
+Meaning: Current ko aage dhakka marne wali power (Pressure). Japan ke gharon mein 100V aur factories mein 200V use hoti hai.
+
+② 電流（I）- Current: 
+実際に流れる電気の量を指します。水流のようなものです。単位はアンペア（A）です。
+Meaning: Jo electric energy (electron) wire ke andar behti hai. Pani ke flow ki tarah.
+
+③ 抵抗（R）- Resistance: 
+電気の流れを妨げる度合いを指します。
+Meaning: Current ke raste ki rukawat (rukne ki power). Pipe jitni patli hogi, pani utna kam aayega.
+
+[オームの法則 (Ohm's Law Formula)]
+V = I × R (Voltage = Current × Resistance)
+(Yeh formula exam mein pucha ja sakta hai).
+
+【１０．１．２】 電気機器の安全操作と感電防止 (Safety & Preventing Electric Shock)
+感電を防ぐためには、以下の基本的なルールを必ず守ってください。
+Meaning: Kanden (Electric shock) se bachne ke liye yeh rules yaad rakhein:
+
+① 濡れた手で電気を触らない: 
+水は電気を通しやすいため、濡れた手で触れると非常に危険です。
+Meaning: Geele hathon (nureta te) se switch ya plug ko kabhi touch na karein.
+
+② アース（接地）を必ず接続する: 
+万が一電気が漏れたときに、その電気を安全に地面に逃がすためです。
+Meaning: Machine ki body mein current aane par usko zameen mein nikalne ke liye Earth (Aasu - アース) lagana zaruri hai. (Isko Inochizuna/Lifeline bhi kaha gaya hai).
+
+③ 機械の点検や修理は必ず電源を切ってから行う: 
+コンセントを抜いてから作業を始めましょう。
+Meaning: Repair ya cleaning se pehle hamesha Power off (Dengen wo kiru) karein aur plug nikal dein.
+
+④ もし同僚が感電しているのを見たら:
+直接手で触れて助けようとしないでください。まずは電源を切り、木製の棒などを使って引き離してください。
+Meaning: Agar kisi ko current lag gaya ho, toh usko NANGE HATHON SE MAT CHUIYE warna aapko bhi lag jayega. Main switch off karein aur lakdi ki dande (mokusei no bou) se usko alag karein.
+
+【１０．１．３】 主要電気機器の役割 (Roles of Main Electrical Equipment)
+① モーター (Motor): 電気を動力に変える機器です。「心臓」のような存在です。(Electricity se ghumne wali takat/motion banata hai).
+② 変圧器 (Hen'atsuki - Transformer): 電圧を変える機器です。高い電圧を低い電圧に下げたりします。(Voltage kam ya zyada karne ke liye).
+③ ブレーカー (Bureekaa - Circuit Breaker): 過剰な電流が流れたときに、自動で電気を止める安全装置です。(Short circuit hone par automatic power off kar deta hai).
+
+
+----------------------------------------------------------------
+【１０．２】 材料の電気的性質と応用 (Electrical Properties & Applications)
+----------------------------------------------------------------
+
+【１０．２．１】 導体・半導体・絶縁体 (Conductor, Semiconductor, Insulator)
+① 導体 (Doutai - Conductor): 
+電気をよく通す材料。金属（銅、アルミニウムなど）。(Current easily pass hota hai).
+② 絶縁体 (Zetsuentai - Insulator): 
+電気をほとんど通さない材料。ゴムやプラスチックなど。(Current pass nahi hota, isliye wire ke cover mein use hota hai).
+③ 半導体 (Handoutai - Semiconductor): 
+中間の性質を持つ材料。条件によって電気を通したり通さなかったりする。ダイオードやトランジスタが作られる。(CPU aur mobiles mein use hota hai).
+
+【１０．２．２】 電子部品の基礎 (Basic Electronic Components)
+① 抵抗 (Teikou - Resistor):
+電気の流れを妨げる部品です。電気エネルギーを熱に変えます。
+Meaning: Current ko rokne wala part. Yeh current ko rok kar Heat (garmi) banata hai (jaise electric heater mein).
+② コンデンサ (Kondensa - Capacitor):
+電気を一時的に蓄えることができる部品です。
+Meaning: Electricity ko thodi der ke liye store (jama) karne wala part. (Jaise camera ke flash mein use hota hai).
+③ ダイオード (Daioodo - Diode):
+電気を一方向にだけ流す部品です。光を出すLEDもあります。
+Meaning: Current ko sirf EK HI DIRECTION mein bejhne wala part. (LED bhi ek diode hai).
+④ トランジスタ (Toranjisuta - Transistor):
+小さな電気信号を増幅したり、スイッチのように電気の流れをオン/オフしたりする部品です。
+Meaning: Signal ko bada (amplify) karne aur Switch ka kaam karne wala part. (Computers ki jaan hai).
+
+================================================================

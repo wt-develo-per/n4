@@ -1,0 +1,210 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 44 (N4)
+   Topic: ~すぎます / ~やすい~にくい / Adj~くします / ~にします
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. ~sugimasu: "Bahut zyada" karna/hona
+2. ~yasui / ~nikui: Aasaan / Mushkil (Lesson 43 ka continuation)
+3. Adj + shimasu: State change karna "...kar dena"
+4. ~ni shimasu: Decision lena / Choose karna
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~すぎます (~sugimasu) - EXCESS / TOO MUCH
+   -> "Bahut zyada... kiya / hai"
+   -> Kuch hadd se zyada hua
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (masu-stem) + sugimasu
+  i-Adj (drop i) + sugimasu
+  na-Adj + sugimasu
+
+VERB + sugimasu:
+  * Nomi-SUGIMASHITA.
+    -> Bahut zyada pi liya. (hangover feel)
+
+  * Tabe-SUGIMASHITA.
+    -> Bahut zyada kha liya. (pet dard)
+
+  * Benkyou shi-SUGITE, atama ga itai desu.
+    -> Itna padha ki sar dard ho gaya.
+
+  * Hatarakisugi desu yo!
+    -> Bahut zyada kaam kar rahe ho!
+
+  * Kai-SUGIMASHITA. Okane ga nai.
+    -> Bahut zyada kharida. Paisa nahi.
+
+i-ADJECTIVE + sugimasu (drop last "i"):
+  * Kono ryouri wa kara-SUGIMASU.
+    -> Yeh khana bahut zyada teekha hai.
+
+  * Kono heya wa hiro-SUGIMASU.
+    -> Yeh kamra bahut zyada bada hai.
+
+  * Kono shigoto wa taihe-SUGIMASU.
+    -> Yeh kaam bahut zyada mushkil hai.
+
+na-ADJECTIVE + sugimasu:
+  * Shizuka-SUGIMASU.
+    -> Bahut zyada khamoshi hai.
+
+  * Kirei-SUGIMASU.
+    -> Itna sundar hai ki... (overwhelmed)
+
+TE FORM + SUGITE:
+  Cause-effect: bahut zyada... isliye...
+  * Tabete, tabe-SUGITE, onaka ga itai.
+    -> Bahut kha liya, isliye pet dard hai.
+
+----------------------------------------------------------------
+[GRAMMAR 2] Adjective + ~くします / ~にします
+   -> Kisi cheez ki state BADALNA
+   -> "...kar dena / bana dena"
+----------------------------------------------------------------
+
+i-ADJECTIVE: drop "i" + ku + shimasu
+  ookii (bada)    -> ooki-KU SHIMASU   = Bada kar dena
+  chiisai (chota) -> chiisa-KU SHIMASU = Chota kar dena
+  hayai (tez)     -> haya-KU SHIMASU   = Tez kar dena
+  osoi (dheema)   -> oso-KU SHIMASU    = Dheema kar dena
+  takai (uncha)   -> taka-KU SHIMASU   = Uncha kar dena
+
+na-ADJECTIVE: + ni + shimasu
+  kirei (na)      -> kirei NI SHIMASU  = Saaf kar dena
+  shizuka (na)    -> shizuka NI SHIMASU= Shant kar dena
+  benri (na)      -> benri NI SHIMASU  = Suvidhaajanak banana
+
+EXAMPLES:
+  * Oto wo OOkiku shite kudasai.
+    -> Awaaz badi karo please. (volume up)
+
+  * Oto wo chiisaku shite kudasai.
+    -> Awaaz choti karo please. (volume down)
+
+  * Heya wo kirei NI shimasu.
+    -> Kamra saaf karta/karti hoon.
+
+  * Denki wo akaku shimashita.
+    -> Light laal kar di.
+
+  * Moshi motto yasuku shite moraemasuka?
+    -> Kya thoda sasta kar sakte ho?
+
+NARU vs SURU:
+  ~KU/NI NARU  = Apne aap change hona (natural)
+  ~KU/NI SURU  = Kisi ne change karna (intentional)
+
+  "Samuku NATTA" = Thanda ho gaya (weather naturally)
+  "Heya wo samuku SHITA" = Kamre ko thanda kiya (AC se)
+
+----------------------------------------------------------------
+[GRAMMAR 3] Noun + ~にします (~ni shimasu)
+   -> Selection / Decision - "Yeh lunga / Yeh karunga"
+   -> Restaurant ya shopping mein order/choose karna
+----------------------------------------------------------------
+
+STRUCTURE:
+  Noun + ni shimasu
+
+EXAMPLES:
+  * Watashi wa koohii NI SHIMASU.
+    -> Main coffee lunga/lungi. (order karna)
+
+  * Kore NI SHIMASU.
+    -> Yeh lunga/lungi. (ye choose kiya)
+
+  * Nani NI SHIMASU KA?
+    -> Kya lenge? / Kya choose karenge?
+
+  * Watashi wa sashimi NI SHIMASU. Anata wa?
+    -> Main sashimi lunga. Aap?
+
+  * Iro wa ao NI SHIMASHITA.
+    -> Rang neela choose kiya.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 44]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  泣きます           | nakimasu          | Rona
+  笑います           | waraimasu         | Hasna
+  乾きます           | kawakimasu        | Sukhna / Dry hona
+  濡れます           | nuremasu          | Bhigna / Get wet
+  滑ります           | suberimasu        | Phisalna / Slip
+  起きます [事故が]   | okimasu           | Hona (accident hona)
+  調節します          | chousetsu shimasu | Adjust karna
+  安全（な）          | anzen (na)        | Surakshit / Safe
+  丁寧（な）          | teinei (na)       | Shaaliin / Polite/Careful
+  細かい            | komakai           | Chota / Detailed / Fine
+  濃い              | koi               | Gadha / Strong (taste/color)
+  薄い              | usui              | Patla / Weak (taste/color)
+  空気              | kuuki             | Hawa / Air
+  涙               | namida            | Aansu / Tear
+  和食              | washoku           | Japanese khana
+  洋食              | youshoku          | Western khana
+  おかず            | okazu             | Side dish
+  量               | ryou              | Matra / Amount
+  倍               | bai               | Gunna / Times (double)
+  半分              | hanbun            | Aadha / Half
+  たんす            | tansu             | Almaari / Wardrobe
+  洗濯物            | sentakumono       | Dhulai ke kapde / Laundry
+  理由              | riyuu             | Wajah / Reason
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Bahut zyada kha liya. (sugimasu)
+   -> _______________________________________________
+
+2. Awaaz badi karo please. (ookiku shimasu)
+   -> _______________________________________________
+
+3. Kamra saaf kar do. (kirei ni shimasu)
+   -> _______________________________________________
+
+4. Main coffee lunga. (ni shimasu)
+   -> _______________________________________________
+
+5. Bahut zyada kaam karte ho! (sugimasu)
+   -> _______________________________________________
+
+ANSWERS:
+1. Tabesugimashita.
+2. Oto wo ookiku shite kudasai.
+3. Heya wo kirei ni shite kudasai.
+4. Koohii ni shimasu.
+5. Hatarakisugimasu yo!
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 44]
+----------------------------------------------------------------
+
+* ~sugimasu ke saath verb MASU-STEM use karo:
+  X: taberu sugimasu -> GALAT
+  OK: tabe sugimasu -> SAHI
+
+* i-adj + sugimasu: "i" hatao:
+  karai -> kara + sugimasu = karasugimasu (too spicy)
+  ii -> yo + sugimasu = yosugimasu (too good)
+
+* ~ku/ni shimasu = INTENTIONAL state change (I make it...)
+  ~ku/ni naru = NATURAL state change (it becomes...)
+
+* ~ni shimasu = Restaurant/shopping ka important phrase!
+  "Nani ni shimasu ka?" = Common waiter ka sawaal
+  Ye dialogue JLPT N4 mein bahut aata hai!
+
+* Sugite + result:
+  "Tabesugite, onaka ga itai" = Bahut kha liya, pet dard hai
+  (Cause-effect pattern)
+
+================================================================
+                    LESSON 44 - COMPLETE
+            Next: Lesson 45 -> ~たら Conditional (If/When)
+================================================================

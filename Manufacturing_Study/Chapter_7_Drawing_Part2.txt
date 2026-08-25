@@ -1,0 +1,71 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 7: 製図 (Seizu - Technical Drawing) - Part 2
+================================================================
+
+Is part mein hum Dimensions (napne ka size) likhne ke rules, Symbols (jaise Radius, Diameter, Chamfer) aur Geometric Tolerances ke baare mein padhenge. 
+
+----------------------------------------------------------------
+【７．３】 寸法の表し方 (Sunpou no arawashikata - How to express dimensions)
+----------------------------------------------------------------
+
+【７．３．１】 寸法指示の基本 (Basic Rules)
+寸法は原則仕上がり寸法を描きます。重複して描いてはいけません。
+Meaning: Drawing par hamesha "Final Finished Size" (banne ke baad jo size hona chahiye) likha jata hai. Ek hi dimension ko do baar (repeat) nahi likhte.
+
+【７．３．３】 寸法数値の記入法 (How to write the numbers)
+長さの単位は、通常はミリメートルで表します。「mm」の単位を付ける必要はありません。
+Meaning: Length (lambai) hamesha "mm" (millimeters) mein hoti hai. Lekin drawing mein number ke aage "mm" likhne ki zaroorat nahi hoti (sirf number likhte hain jaise 50, 100).
+寸法は、図面の下辺か右辺から読めるように描きます。
+Meaning: Dimension ke numbers ko is tarah likhte hain ki unhe ya toh niche se (bottom) ya phir right side se padha ja sake.
+
+【７．３．５】 寸法補助記号 (Sunpou hojo kigou - Dimension Symbols)
+In symbols ko number se pehle lagate hain. Yeh exam ke liye SABSE ZAROORI hain:
+
+・ φ (Fai) = 円の直径 (En no chokkei): Circle ka Diameter (Golayi ki poori lambai).
+・ Sφ (Esu-fai) = 球の直径 (Kyuu no chokkei): Sphere (Gend/Ball) ka Diameter.
+・ □ (Shikaku) = 正方形の辺 (Seihoukei no hen): Square (Chakor) ki side.
+・ R (Aaru) = 半径 (Hankei): Radius (Aadha diameter).
+・ C (Shii) = 45度の面取り (45-do no mentori): 45 degree ka Chamfer (Kinara katna).
+・ t (Tii) = 厚さ (Atsusa): Thickness (Motai). Jaise t1.0 ka matlab 1mm moti plate.
+
+【７．３．７】 参考寸法 (Sankou sunpou - Reference Dimension)
+参考のための寸法を、参考寸法といいます。寸法数値に括弧をつけます。
+Meaning: Jo size sirf reference/idea ke liye diya ho aur jise direct banne ki zaroorat na ho, use Reference dimension kehte hain. Is number ko brackets mein likhte hain, jaise: (50).
+
+
+----------------------------------------------------------------
+【７．４】 その他の図面指示 (Sonota no zumen shiji - Other drawing indications)
+----------------------------------------------------------------
+
+【７．４．１】 幾何公差 (Kika kousa - Geometric Tolerance)
+形体には、寸法や角度では表すことができない指示があります。直線や丸のきれいさ、直角や平行などを指示する方法を幾何公差といいます。
+Meaning: Kuch cheezein sirf size aur angle se nahi batai ja sakti, jaise ki koi line kitni bilkul seedhi hai, ya koi gol cheez kitni perfect gol hai. Usko batane ke liye "Geometric Tolerances" use hote hain.
+
+[Kuch important Geometric Tolerance Symbols:]
+・真直度 (Shinchokudo - Straightness): Ek dash line ( ー )
+・平面度 (Heimendo - Flatness): Ek parallelogram ( ▱ )
+・真円度 (Shin'endo - Circularity): Ek gol circle ( ○ )
+・平行度 (Heikoudo - Parallelism): Do parallel lines ( // )
+・直角度 (Chokkakudo - Perpendicularity): Ulta T ( ⊥ )
+・同軸度 (Doujikudo - Concentricity): Double circle ( ◎ )
+
+【７．４．２】 表面性状 (Hyoumen seijou - Surface Texture)
+表面のきれいさも、機械の性能に影響があります。
+Meaning: Product ki surface kitni smooth (chikni) ya rough (khurduri) hai, isko Surface texture kehte hain.
+- Ra (算術平均粗さ): Arithmetic mean roughness (Average roughness).
+- Rz (最大高さ粗さ): Maximum height roughness.
+Inko batane ke liye ek Triangle (▽) ya Check mark (√) jaisa symbol banakar uske upar Ra 3.1 jaisa number likhte hain.
+
+【７．４．３】 溶接 (Yousetsu - Welding)
+溶接を指示するときは、溶接記号を使います。溶接記号は、基線と基本記号からなります。
+Meaning: Welding (loha jodne) ke liye bhi drawing mein symbols hote hain. Yeh ek Base line (基線) aur Basic symbol se bante hain. Arrow (矢) jis taraf ishara karta hai, us taraf welding karni hoti hai.
+[Welding Symbols]
+・I形開先溶接 (I-gata kaisaki yousetsu): I jaisi shape.
+・V形開先溶接 (V-gata kaisaki yousetsu): V jaisi shape.
+・レ形開先溶接 (Re-gata kaisaki yousetsu): Katakana ka 'Re' (レ) jaisi shape.
+・すみ肉溶接 (Suminiku yousetsu - Fillet weld): Triangle jaisi shape.
+
+================================================================
+CHAPTER 7 COMPLETE!
+================================================================

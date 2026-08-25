@@ -1,0 +1,73 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 8: 機械の操作・管理 (Kikai no sousa/kanri - Machine Operations & Management) - Part 1
+================================================================
+
+Is chapter mein hum padhenge ki machines ko chalate waqt kya safety rakhni chahiye aur emergency mein kya karna chahiye. Yeh Chapter 2 (Safety) ka practical version hai.
+
+----------------------------------------------------------------
+【８．１】 作業安全の基本と実践 (Sagyou anzen no kihon to jissen - Basics and Practice of Work Safety)
+----------------------------------------------------------------
+
+【８．１．１】 安全管理原則と法的遵守 (Safety Principles & Law)
+（１）高い場所 (Takai basho - High Places)
+高い場所（2m以上）で作業するときは、万が一落ちてしまったときに命を守るために、墜落制止用器具（命綱や安全帯）をつけなければいけないと法律で決められています。
+Meaning: 2 meter ya usse zyada unchai par kaam karte waqt, girne se bachne ke liye hamesha Safety Harness / Fall arrest system (Inochizuna - 命綱) lagana zaroori hai.
+
+（２）熱中症の予防 (Netchuushou no yobou - Heatstroke Prevention)
+暑い場所で作業するときは、熱中症にならないように、十分な水分と適切な塩分を取らせる必要があります。
+Meaning: Garmi mein kaam karte waqt Heatstroke (Netchuushou) se bachne ke liye Pani (suibun) aur Namak (enbun) dono lena zaroori hai.
+
+（３）ハインリッヒの法則 (Heinrich's Law - REVISION)
+1件の重大な事故の背後には、29件の軽微な事故と、300件のヒヤリ・ハットがある。
+Meaning: 1 bade accident ke peeche 29 chote accidents aur 300 Hiyari-Hatto (Near-miss) incidents hote hain. (Choti galtiyon ko ignore mat karo).
+
+
+【８．１．２】 機械操作と危険防止 (Machine Operations & Danger Prevention)
+（１）感電の防止 (Kanden no boushi - Preventing Electric Shock)
+電気を動力源として直接使用する機械は、感電を防ぐためにアース（接地）を地面に接続することが必須です。濡れた手で電気のコンセントやスイッチに触れることも絶対に避けてください。
+Meaning: Electric shock se bachne ke liye machine ko hamesha Earth/Ground (Aasu - アース) karna chahiye. Geele hathon (nureta te) se switch ko touch na karein.
+
+（２）各機械の注意点 (Rules for specific machines)
+① ボール盤 (Booruban - Drill Press):
+手袋が刃物に巻き込まれると、指や手を切断する大けがにつながる危険があるため、作業中は絶対に手袋を着用してはいけません。
+Meaning: Drill press (gol ghumne wali machine) chalate waqt GLOVES (Tebukuro) pehn-na SAKHT MANA HAI. Gloves machine mein fass sakte hain.
+
+② グラインダー (Guraindaa - Grinder):
+「砥石」は、使っているときに高速で砕け散ってしまうことがあります。使用前には必ず目視で確認し、軽く空転させます。
+Meaning: Grinder ka patthar (Toishi) toot kar ud sakta hai. Use karne se pehle check karein aur bina kisi cheez ko touch kiye ghumakar (Kuuten - Test run) dekhein.
+
+③ 旋盤 (Senban - Lathe):
+旋盤から出る削りくずは、鋭利なので、素手で触るとやけどやケガをします。ブラシやホウキを使って片付けましょう。
+Meaning: Lathe machine ke chips (Kezuri-kuzu) bahut sharp hote hain. Inhe nange hathon (sude) se nahi chuna chahiye. Brush se saaf karein.
+
+④ クレーン (Kureen - Crane):
+吊り上げている物の下には絶対に入ってはいけません。
+Meaning: Crane se latki hui cheez ke neeche khada hona mana hai.
+
+⑤ インパクトレンチ (Inpakuto renchi - Impact Wrench):
+ボルトの頭部をハンマーで叩いて入れてはいけません。
+Meaning: Bolt tight karte waqt agar bolt nahi ja raha, toh uspe hammer (hathoda) nahi marna chahiye.
+
+
+【８．１．３】 保護具の使用と緊急時対応 (Use of PPE & Emergency Response)
+（１）保護具 (Hogogu - PPE)
+・保護めがね (Hogo megane - Safety glasses): Aankh bachane ke liye. Gas cutting mein shade wale (遮光めがね) use hote hain.
+・防塵マスク (Boujin masuku - Dust mask): Dhool se bachane ke liye. (Yeh Gas se nahi bachata. Gas ke liye 防毒マスク - Boudoku mask chahiye).
+
+（２）火災の種類と対応 (Fire types and response)
+Aag (Kasai - 火災) 3 tarah ki hoti hai:
+
+① 一般火災（A火災） - Normal Fire:
+木や紙、布などが燃える火災で、水をかけて冷やすことで消火できます。
+Meaning: Lakdi, kagaz ya kapde ki aag. Isme PANI (Mizu) dal sakte hain.
+
+② 油火災（B火災） - Oil Fire:
+ガソリンや天ぷら油などが燃える火災で、水をかけると火が広がる危険があります。泡や粉末の消火器で酸素を断って消火します。
+Meaning: Petrol ya tel ki aag. Isme PANI DALNA MANA HAI (aag fel jayegi). Foam (Awa) ya Powder wala fire extinguisher use karein.
+
+③ 電気火災（C火災） - Electrical Fire:
+コンセントや配線などが原因で起こる火災で、感電の危険があるため、水をかけてはいけません。必ず電源を切り、粉末や二酸化炭素の消火器を使います。
+Meaning: Bijli ki aag. Isme bhi PANI DALNA MANA HAI (current lag sakta hai). Power off karein aur Powder ya CO2 wala extinguisher use karein.
+
+================================================================

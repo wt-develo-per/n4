@@ -1,0 +1,260 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 33 (N4)
+   Topic: Imperative & Prohibitive Forms + ~なさい / ~という意味
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. Command dena (Imperative): "Karo!"
+2. Mana karna (Prohibitive): "Mat karo!"
+3. ~nasai: Parent/teacher wali soft command
+4. ~to iu imi desu: Matlab explain karna
+
+----------------------------------------------------------------
+[GRAMMAR 1] IMPERATIVE FORM (命令形 - Meireikei)
+   -> Seedha hukum dena: "Karo!" (bahut direct hai!)
+   -> Emergency / Sports / Close friends / Signs mein use hota hai
+----------------------------------------------------------------
+
+CONJUGATION:
+
+GROUP 1 (u-verbs): -u ko -e mein badlo
+  kaku   -> kake    (likho!)
+  nomu   -> nome    (peeyo!)
+  hanasu -> hanase  (bolo!)
+  matsu  -> mate    (ruko!)
+  iku    -> ike     (jao!)
+  yomu   -> yome    (padho!)
+  oyogu  -> oyoge   (tairo!)
+  kaeru  -> kaere   (waapis jao!)
+
+GROUP 2 (ru-verbs): -ru ko -ro mein badlo
+  taberu -> tabero  (khao!)
+  miru   -> miro    (dekho!)
+  neru   -> nero    (sao!)
+  okiru  -> okiro   (utho!)
+
+GROUP 3 (Irregular):
+  suru   -> shiro   (karo!)
+  kuru   -> koi     (aao!)
+
+USES:
+  1. Emergency mein:
+     * Nigero! -> Bhaago!
+     * Hayaku koi! -> Jaldi aao!
+     * Tasukerou! -> Bachao!
+
+  2. Sports/Cheering mein:
+     * Ganbare! -> Himmat rakho! / Go go go!
+     * Hashire! -> Daudho!
+
+  3. Signs/Instructions:
+     * Tomare -> Ruko (stop sign)
+     * Hairo -> Andar aao
+
+  4. Close male friends mein (informal):
+     * Mite miro -> Dekh ke dekho
+     * Hayaku koi yo -> Jaldi aa yaar
+
+----------------------------------------------------------------
+[GRAMMAR 2] PROHIBITIVE FORM (禁止形 - Kinshikei)
+   -> "Mat karo!" - kisi kaam se rokna
+   -> Dictionary form + na
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (Dictionary form) + na
+
+EXAMPLES:
+  * Hashiru na! -> Mat daudo!
+  * Sawagu na! -> Shor mat machao!
+  * Hairu na!  -> Andar mat aao! (No Entry)
+  * Taberu na! -> Mat khao!
+  * Kuru na!   -> Mat aana!
+  * Suru na!   -> Mat karo!
+
+REAL LIFE SIGNS:
+  * Hairu na    -> No Entry (Andar mat aao)
+  * Tabako o suu na -> No Smoking
+  * Shashin wo toru na -> No Photography
+  * Sawagu na   -> Shor mat machao
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~なさい (~nasai)
+   -> SOFT command - Parent/Teacher ka bachche ko order
+   -> Meirei form se zyada polite, lekin phir bhi order hai
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (masu-stem) + nasai
+
+EXAMPLES:
+  * Hayaku okinasai.
+    -> Jaldi utho. (maa ka bacche ko)
+
+  * Shukudai wo shinasai.
+    -> Homework karo.
+
+  * Benkyou shinasai.
+    -> Padhai karo.
+
+  * Yasai wo tabenasai.
+    -> Sabzi khao.
+
+  * Hayaku nenasai.
+    -> Jaldi so jao.
+
+POLITENESS LEVEL:
+  kudasai (please do)    <- Sabse polite
+  nasai (you should do)  <- Parent/Teacher
+  Imperative (karo!)     <- Direct/Rough
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~とよみますか / ~とかいてあります
+   -> Kuch kaise padhte hain / kuch likha hua hai
+----------------------------------------------------------------
+
+EXAMPLES:
+  * Kono kanji wa nan to yomimasu ka?
+    -> Yeh kanji kaise padhte hain?
+
+  * "停止" to kaite arimasu.
+    -> "Teishi" likha hua hai. (Stop)
+
+  * Kono sign wa nan to kaite arimasu ka?
+    -> Is sign par kya likha hai?
+
+----------------------------------------------------------------
+[GRAMMAR 5] ~という意味です (~to iu imi desu)
+   -> Kisi cheez ka MATLAB explain karna
+   -> "...ka matlab hai"
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Word/Phrase] + to iu imi desu
+
+EXAMPLES:
+  * "Ganbare" wa "Do your best" to iu imi desu.
+    -> "Ganbare" ka matlab hai "poori koshish karo".
+
+  * "Itadakimasu" wa "Let's eat" to iu imi desu.
+    -> "Itadakimasu" ka matlab hai "khana shuru karte hain".
+
+  * "Otsukaresamadeshita" wa "Good work" to iu imi desu.
+    -> Iski meaning hai "achha kaam kiya".
+
+  * Kono kotoba wa donna imi desu ka?
+    -> Is shabd ka kya matlab hai?
+
+----------------------------------------------------------------
+[GRAMMAR 6] ~と言っていました (~to itte imashita)
+   -> Kisi ne kya kaha tha - reporting speech
+   -> "Usne kaha ki..."
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Plain form] + to itte imashita
+
+EXAMPLES:
+  * Yamada-san wa ashita kuru to itte imashita.
+    -> Yamada-san ne kaha ki kal aayenge.
+
+  * Sensei wa muzukashii to itte imashita.
+    -> Sensei ne kaha ki mushkil hai.
+
+  * Kare wa byouki da to itte imashita.
+    -> Usne kaha ki bimaar hai.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 33]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  逃げます           | nigemasu          | Bhaagna / Escape karna
+  騒ぎます           | sawagimasu        | Shor machana
+  諦めます           | akiramemasu       | Haarna maan lena / Give up
+  投げます           | nagemasu          | Phenkna / Throw karna
+  触ります           | sawarimasu        | Chhoona / Touch karna
+  押します           | oshimasu          | Dhakka dena / Push karna
+  引きます           | hikimasu          | Kheenchna / Pull karna
+  気をつけます        | ki wo tsukemasu   | Dhyan rakhna / Be careful
+  頑張ります          | ganbarimasu       | Poori koshish karna
+  助けます           | tasukemasu        | Bachana / Help karna
+  危ない            | abunai            | Khatarnak / Dangerous
+  静かな            | shizuka na        | Shant / Quiet
+  禁止              | kinshi            | Mana / Prohibited
+  入口              | iriguchi          | Pravesh dwar / Entrance
+  出口              | deguchi           | Niklas / Exit
+  非常口            | hijouguchi        | Emergency exit
+  立入禁止          | tachiiri kinshi   | No Entry
+  意味              | imi               | Matlab / Meaning
+  言葉              | kotoba            | Shabd / Word
+  表示              | hyouji            | Display / Sign
+  命令              | meirei            | Hukum / Order
+  指示              | shiji             | Nirdesh / Instruction
+
+----------------------------------------------------------------
+[IMPERATIVE FORM - QUICK TABLE]
+----------------------------------------------------------------
+
+  Dictionary | Imperative | Prohibitive | Meaning
+  -----------|-----------|-------------|----------
+  kaku       | kake      | kaku na     | Likho/Mat likho
+  nomu       | nome      | nomu na     | Peeyo/Mat peeyo
+  iku        | ike       | iku na      | Jao/Mat jao
+  hanasu     | hanase    | hanasu na   | Bolo/Mat bolo
+  taberu     | tabero    | taberu na   | Khao/Mat khao
+  miru       | miro      | miru na     | Dekho/Mat dekho
+  suru       | shiro     | suru na     | Karo/Mat karo
+  kuru       | koi       | kuru na     | Aao/Mat aao
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Emergency mein: "Bhaago!"
+   -> _______________________________________________
+
+2. Teacher ne kaha homework karo (nasai)
+   -> _______________________________________________
+
+3. "Ganbare" ka matlab "full effort karo" hai.
+   -> _______________________________________________
+
+4. Tanaka-san ne kaha woh kal nahi aayega.
+   -> _______________________________________________
+
+ANSWERS:
+1. Nigero!
+2. Shukudai wo shinasai.
+3. "Ganbare" wa "zenryoku wo dase" to iu imi desu.
+4. Tanaka-san wa ashita konai to itte imashita.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 33]
+----------------------------------------------------------------
+
+* Imperative form vs Prohibitive form:
+  IMPERATIVE = verb change (kake, nome, tabero, shiro, koi)
+  PROHIBITIVE = dictionary form + NA (kaku na, taberu na)
+
+* ~nasai = polite command (parent/teacher)
+  nasai ke liye masu-stem use karo:
+  tabemasu -> tabe + nasai = tabenasai
+
+* ~to iu imi desu = "ka matlab hai" explain karna
+  N4 reading comprehension mein aata hai
+
+* ~to itte imashita = reported speech
+  Plain form + to itte imashita
+  (polite form NAHI, plain form!)
+
+* Imperative form in daily life signs:
+  Tomare = Stop | Hairo = Enter | Dero = Go out
+  Ye sab real Japan mein use hote hain!
+
+================================================================
+                    LESSON 33 - COMPLETE
+         Next: Lesson 34 -> ~とおりに / ~あとで / ~ないで
+================================================================

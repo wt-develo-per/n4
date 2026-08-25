@@ -1,0 +1,190 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM - SAMPLE PAPER
+   QUESTIONS 11 TO 20 (Academic Test / 学科試験)
+================================================================
+
+Is file mein hum Q11 se Q20 tak solve karenge.
+
+----------------------------------------------------------------
+【問題 11】(Question 11)
+電気を動力源として直接使う機械類には、アースは必要ない。
+(Denki wo douryokugen to shite chokusetsu tsukau kikairui ni wa, aasu wa hitsuyou nai.)
+
+[Word-by-Word]
+・動力源として (douryokugen to shite) = Power source ke roop mein
+・機械類 (kikairui) = Machines
+・必要ない (hitsuyou nai) = Zaroorat nahi hai
+
+[Overall Meaning]
+Jo machines direct electricity (bijli) se chalti hain, unme Earth (Aasu - アース) ki zaroorat nahi hoti.
+
+[Answer]
+B (間違っている - False)
+Explanation: Electric machines mein kanden (electric shock) se bachne ke liye Earth/Ground lagana BAHUT ZAROORI hota hai.
+
+----------------------------------------------------------------
+【問題 12】(Question 12)
+作業前には、安全・安心な作業を行うため、必ず動作確認と設備点検が必要である。
+(Sagyou mae ni wa, anzen-anshin na sagyou wo okonau tame, kanarazu dousa kakunin to setsubi tenken ga hitsuyou de aru.)
+
+[Word-by-Word]
+・作業前 (sagyou mae) = Kaam se pehle
+・必ず (kanarazu) = Zaroor / Without fail
+・動作確認 (dousa kakunin) = Movement check (Machine theek chal rahi hai ya nahi)
+・設備点検 (setsubi tenken) = Equipment inspection
+
+[Overall Meaning]
+Kaam shuru karne se pehle, safe kaam karne ke liye machine ki movement check karna aur equipment ki inspection karna zaroori hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Ise 日常点検 (Nichijou tenken - Daily inspection) kehte hain, jo accidents ko rokne ke liye sabse important hai.
+
+----------------------------------------------------------------
+【問題 13】(Question 13)
+高温下での作業では、熱中症を予防するため、作業中も十分な水分と、適度な塩分を補給する。
+(Kouonka de no sagyou de wa, netchuushou wo yobou suru tame, sagyouchuu mo juubun na suibun to, tekido na enbun wo hokyuu suru.)
+
+[Word-by-Word]
+・高温下 (kouonka) = Bahut zyada garmi (high temperature) ke neeche
+・熱中症 (netchuushou) = Heatstroke / Garmi lagna
+・予防するため (yobou suru tame) = Bachne (prevent) ke liye
+・十分な水分 (juubun na suibun) = Kaafi pani
+・適度な塩分 (tekido na enbun) = Sahi matra mein namak
+・補給する (hokyuu suru) = Lena / Replenish karna
+
+[Overall Meaning]
+Garmi mein kaam karte waqt Heatstroke se bachne ke liye kaam ke beech mein bhi kaafi pani aur thoda namak lena chahiye.
+
+[Answer]
+A (正しい - True)
+Explanation: Yeh ek basic safety rule hai aur kanoon (law) mein bhi likha hai.
+
+----------------------------------------------------------------
+【問題 14】(Question 14)
+ボール盤作業では、回転する刃物に手を巻き込まれるので、手袋を着用してはならない。
+(Booruban sagyou de wa, kaiten suru hamono ni te wo makikomareru node, tebukuro wo chakuyou shite wa naranai.)
+
+[Word-by-Word]
+・ボール盤 (booruban) = Drill press machine
+・回転する刃物 (kaiten suru hamono) = Ghumne wala cutter/drill
+・巻き込まれる (makikomareru) = Fans jana / Tangled
+・着用してはならない (chakuyou shite wa naranai) = Pehnna mana hai
+
+[Overall Meaning]
+Drill press machine chalate waqt hath ghumte hue drill mein fass sakte hain, isliye gloves (tebukuro) pehnna mana hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Gol ghumne wali machines (jaise Drill, Lathe) par gloves pehnna sakht mana hai.
+
+----------------------------------------------------------------
+【問題 15】(Question 15)
+作業標準とは、作業条件や作業方法、管理方法、使用設備、使用材料、注意事項等に関する基準を定めたものをいう。
+(Sagyou hyoujun to wa, sagyou jouken ya sagyou houhou, kanri houhou, shiyou setsubi, shiyou zairyou, chuui jikou tou ni kansuru kijun wo sadameta mono wo iu.)
+
+[Word-by-Word]
+・作業標準 (sagyou hyoujun) = Work Standards / SOP
+・条件 (jouken) = Conditions
+・基準を定めた (kijun wo sadameta) = Rules/Standards fix kiye gaye
+
+[Overall Meaning]
+"Work Standards" ka matlab hai kaam karne ki conditions, methods, machine, material aur precautions ke rules ko fix karna. 
+
+[Answer]
+A (正しい - True)
+Explanation: Work standards (作業標準) ek tarah ki rulebook hoti hai jismein kaam ki poori detail hoti hai.
+
+----------------------------------------------------------------
+【問題 16】(Question 16)
+不良品が１個でも発生してはいけない場合であっても、抜取検査を行えばよい。
+(Furyouhin ga ikko demo hassei shite wa ikenai baai de atte mo, nukitori kensa wo okonaeba yoi.)
+
+[Word-by-Word]
+・不良品 (furyouhin) = Defective product
+・１個でも発生してはいけない (ikko demo hassei shite wa ikenai) = Ek bhi defective (kharab) nahi hona chahiye
+・抜取検査 (nukitori kensa) = Sampling inspection (thode se products nikal kar check karna)
+・行えばよい (okonaeba yoi) = Karna theek rehta hai
+
+[Overall Meaning]
+Jis situation mein ek bhi product kharab nahi hona chahiye (jaise airplane parts), wahan bhi Sampling inspection (thode check karna) karna kafi hai.
+
+[Answer]
+B (間違っている - False)
+Explanation: Jaha 1 bhi defect nahi chal sakta, wahan "全数検査" (Zensuu kensa - 100% Inspection) karni padti hai. Sampling nahi chalti.
+
+----------------------------------------------------------------
+【問題 17】(Question 17)
+散布図とは、お互いに関係があると思われる２種類のデータを縦軸（ｙ）と横軸（ｘ）にとりデータを打点した図である。２種類のデータ間にどの程度の関係があるかを目で見やすくした図である。
+(Sanpuzu to wa, otagai ni kankei ga aru to omowareru nishurui no deeta wo tatejiku (y) to yokojiku (x) ni tori deeta wo daten shita zu de aru. Nishurui no deeta-kan ni dono teido no kankei ga aru ka wo me de miyasuku shita zu de aru.)
+
+[Word-by-Word]
+・散布図 (sanpuzu) = Scatter diagram / Scatter plot
+・お互いに (otagai ni) = Ek doosre ke sath
+・関係 (kankei) = Relation
+・縦軸・横軸 (tatejiku, yokojiku) = Y-axis, X-axis
+・打点した (daten shita) = Dots (points) banaye
+
+[Overall Meaning]
+Scatter diagram ek aesa graph hai jisme do related data ko X aur Y axis par dots banakar dikhaya jata hai, taki unka relation (jaise temperature badhne se defect badhna) aasani se dikh sake.
+
+[Answer]
+A (正しい - True)
+Explanation: QC 7 tools mein Sanpuzu (Scatter diagram) ka yahi kaam hota hai.
+
+----------------------------------------------------------------
+【問題 18】(Question 18)
+製造品の品質を保つために、生産設備を適切に維持管理することは、とても重要である。
+(Seizouhin no hinshitsu wo tamotsu tame ni, seisan setsubi wo tekisetsu ni iji kanri suru koto wa, totemo juuyou de aru.)
+
+[Word-by-Word]
+・保つために (tamotsu tame ni) = Maintain rakhne ke liye
+・生産設備 (seisan setsubi) = Production machines / Equipment
+・適切に (tekisetsu ni) = Theek tarike se
+・維持管理する (iji kanri suru) = Maintain & Manage karna
+
+[Overall Meaning]
+Product ki quality achi rakhne ke liye, factory ki machines aur equipment ko theek se maintain karna bahut zaroori hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Agar machine theek nahi hogi toh product ki quality bhi kharab aayegi (4M: Machine).
+
+----------------------------------------------------------------
+【問題 19】(Question 19)
+切削加工において、刃先ノーズＲの大きさを変えても、送り量が同じなら仕上げ面粗さは変わらない。
+(Sessaku kakou ni oite, hasaki noozu R no ookisa wo kaete mo, okuriryou ga onaji nara shiagemen arosa wa kawaranai.)
+
+[Word-by-Word]
+・切削加工 (sessaku kakou) = Cutting process (Lathe aadi par)
+・刃先ノーズＲ (hasaki noozu aaru) = Tool ki tip ka radius (cutter ki aage ki golai)
+・送り量 (okuriryou) = Feed rate (Machine ko aage badhane ki speed)
+・仕上げ面粗さ (shiagemen arosa) = Surface roughness (surface kitni smooth hui)
+・変わらない (kawaranai) = Change nahi hoti
+
+[Overall Meaning]
+Cutting karte waqt, agar tool ki tip (Nose R) ka size change kar dein par speed (feed) same rakhein, toh surface ki roughness (chiknahat) par koi farq nahi padta.
+
+[Answer]
+B (間違っている - False)
+Explanation: Tool ki tip ka radius (Nose R) badalne se surface ki roughness zaroor change hoti hai. Nose R bada hone se surface zyada smooth hoti hai.
+
+----------------------------------------------------------------
+【問題 20】(Question 20)
+塗装を重ねて塗るときは、下塗りが乾く前に塗るとよい。
+(Tosou wo kasanete nuru toki wa, shitanuri ga kawaku mae ni nuru to yoi.)
+
+[Word-by-Word]
+・塗装 (tosou) = Painting
+・重ねて (kasanete) = Ek ke upar ek (Overlapping coats)
+・下塗り (shitanuri) = Base coat / Pehla coat
+・乾く前に (kawaku mae ni) = Sukhne se pehle
+
+[Overall Meaning]
+Paint ke upar dusra paint (double coat) karte waqt, pehla paint (base coat) sukhne se PEEHLE hi dusra paint laga dena chahiye.
+
+[Answer]
+B (間違っている - False)
+Explanation: Hamesha pehla paint (shitanuri) poori tarah sukhne (kawaku) ke baad hi dusra paint lagana chahiye, warna paint kharab ho jayega aur theek se chipkega nahi.
+
+================================================================

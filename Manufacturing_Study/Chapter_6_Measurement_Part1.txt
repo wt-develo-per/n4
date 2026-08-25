@@ -1,0 +1,91 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 6: 測定 (Sokutei - Measurement) - Part 1
+================================================================
+
+Is chapter mein hum Measurement (napna) ke baare mein padhenge. Factory mein product ki lambai, motai aur angle napne ke liye jo tools use hote hain (jaise Nogisu, Micrometer), unke baare mein exam mein bahut pucha jata hai.
+
+----------------------------------------------------------------
+【６．１】 測定の基本 (Sokutei no kihon - Basics of Measurement)
+----------------------------------------------------------------
+
+【６．１．１】 測定の作業 (Sokutei no sagyou - Measurement Operations)
+
+（１）校正 (Kousei - Calibration)
+計測器の値をいつでも信用できる状態にするためには、校正という作業が必要です。
+(Keisokuki no atai wo itsudemo shinyou dekiru joutai ni suru tame ni wa, kousei to iu sagyou ga hitsuyou desu.)
+Meaning: Measuring instrument (keisokuki) ki value par hamesha bharosa (shinyou) kiya ja sake, iske liye "Calibration" (kousei) karna zaroori hai.
+Calibration ka matlab hai check karna ki tool sahi value de raha hai ya nahi, aur agar galat hai toh use theek (adjust) karna. Yeh kaam time-to-time karna hota hai.
+
+（２）誤差の原因 (Gosa no gen'in - Causes of Error)
+測定した値と本当の値（真値）の差のことを、測定誤差といいます。
+(Sokutei shita atai to hontou no atai (shinchi) no sa no koto wo, sokutei gosa to iimasu.)
+Meaning: Jo value humne napi aur jo asal (hontou) value hai, unke beech ke difference (sa) ko "Measurement Error" (sokutei gosa) kehte hain.
+
+[Error aane ki wajah (Causes)]
+- 視差 (Shisa - Parallax Error): Scale (memori) ko theek samne (shuichoku/perpendicular) se na dekh kar, tircha (naname) dekhne se jo galti hoti hai, use Shisa kehte hain.
+
+（３）検査を補助する道具 (Kensa wo hojo suru dougu - Tools to assist inspection)
+Measurement ko aasaan banane wale helper tools (Jigs / 治具 - Jigu):
+
+① 直定規 (Choku jougi - Straight edge): Sidhi line khinchne ya napne ki sidhayi check karne ke liye.
+② 直角定規 / スコヤ (Chokkaku jougi / Sukoya - Try square): 90 degree (right angle) check karne ke liye.
+③ パス (Pasu - Calipers): Jo jagah direct nahi nap sakte, wahan ki nap copy karke dusre scale par check karne ke liye. (内パス - Uchi pasu = Andar ki nap, 外パス - Soto pasu = Bahar ki nap).
+④ トースカン (Toosukan - Surface gauge): Height check karne ya parallel line khinchne ke liye. (Isme ek sui/needle hoti hai).
+⑤ Vブロック (V burokku - V-block): Gol (cylindrical) cheezon ko rakhne (hold karne) ke liye. Isme 90 degree ka V shape groove hota hai.
+⑥ マグネットベース (Magunetto beesu - Magnetic base): Magnet (chumbak) ka use karke measuring tool ko fix karne ka stand.
+
+
+----------------------------------------------------------------
+【６．２】 直接測定 (Chokusetsu sokutei - Direct Measurement)
+----------------------------------------------------------------
+Direct measurement ka matlab hai scale wale tool se direct reading padhna.
+
+【６．２．１】 ノギス (Nogisu - Vernier Caliper)
+(Is par exam mein sabse zyada questions aate hain!)
+
+（１）ノギスとは
+ノギスは、本尺に沿って動くスライダをもつ計測器です。
+(Nogisu wa, honjaku ni sotte ugoku suraida wo motsu keisokuki desu.)
+Meaning: Nogisu mein ek main scale (honjaku) hota hai aur uspar ghumne wala ek slider hota hai.
+
+[Nogisu ke parts ka use]
+・外側用測定面 (Sotogawayou sokuteimen) = Bahar ki motai/lambai napne ke liye (Outside jaws).
+・内側用測定面 (Uchigawayou sokuteimen) = Andar ka size (jaise hole ka diameter) napne ke liye (Inside jaws).
+・デプスバー (Depusu baa - Depth bar) = Gehrai (depth) napne ke liye.
+
+（２）ノギスの使用準備 (Use karne se pehle)
+- Measurement surface ko saaf karein.
+- Jaws (tsume) ko band karke light ki taraf dekhein, koi gap (sukima) nahi hona chahiye.
+- Zero point (0) theek se match ho raha hai ya nahi check karein.
+
+（４）ノギスの目盛りの読み方 (Nogisu padhne ka tarika)
+① Pehle Main scale (本尺 - Honjaku) ki reading dekhein jahan Slider ka 0 line match ho raha hai.
+② Phir Vernier scale (副尺 - Fukushaku) ki us line ko dhoondein jo Main scale ki kisi bhi line ke bilkul samne (straight/match) ho.
+③ Dono ko plus (add) kar dein.
+(Aam taur par Nogisu ki accuracy 0.05 mm hoti hai).
+
+
+【６．２．２】 マイクロメータ (Maikuromeeta - Micrometer)
+
+（１）マイクロメータとは
+ねじの原理を利用して、精密に寸法を測ることができる測定器です。
+(Neji no genri wo riyou shite, seimitsu ni sunpou wo hakaru koto ga dekiru sokuteiki desu.)
+Meaning: Screw ke rule par kaam karta hai aur Nogisu se bhi zyada bareeki (seimitsu - usually 0.01 mm) se napta hai.
+
+[Micrometer ke parts]
+・アンビル (Anbiru - Anvil) = Fix side wala hissa.
+・スピンドル (Supindoru - Spindle) = Ghum kar aage aane wala hissa.
+・スリーブ (Suriibu - Sleeve) = Main scale (jo ghumta nahi hai).
+・シンブル (Shinburu - Thimble) = Ghumne wala scale.
+
+（２）使用準備 (Use karne se pehle)
+- 熱膨張 (Netsubouchou - Heat expansion) se bachne ke liye tool aur material dono ka temperature room temperature (20℃) par hona chahiye.
+- Safai ke liye ek paper (hakushi) dono ke beech daba kar khinchein.
+- Zero point check karein.
+
+（３）使用方法 (Napne ka tarika)
+- シンブル (Thimble) ko ghumakar aage layein.
+- Jab material touch hone lage toh aakhiri mein "ラチェットストップ" (Ratchet stop / clicking sound wala part) ghumayein. Jab "Kachi-kachi" (click) aawaz aaye tab padhein.
+
+================================================================

@@ -1,0 +1,185 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 36 (N4)
+   Topic: ~ように / ~ようになります / ~ようにしています
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. ~youni: Goal/Purpose ke liye karna
+2. ~youni narimasu: State change - "ab kar sakta hoon"
+3. ~youni shite imasu: Koshish karna (habit banana)
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~ように (~you ni) - PURPOSE
+   -> Koi goal achieve karne ke liye karna
+   -> "...sake ke liye" / "...ho sake isliye"
+   -> Potential ya negative verb ke saath aata hai
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (Plain/Potential) + you ni + Action verb
+
+EXAMPLES:
+  * Shinbun ga yomeru you ni, kanji wo benkyou shimasu.
+    -> Newspaper padh sakoon isliye kanji padhta/padhti hoon.
+
+  * Nihongo ga jouzu ni naru you ni, mainichi renshuu shimasu.
+    -> Japanese achhi ho isliye roz practice karta/karti hoon.
+
+  * Wasurenai you ni, memo shimasu.
+    -> Bhool na jaun isliye note karta/karti hoon.
+
+  * Okurenal you ni, hayaku okimashita.
+    -> Late na ho isliye jaldi utha/uthi.
+
+  * Mieru you ni, mae ni suwatte kudasai.
+    -> Dikh sake isliye aage baitho.
+
+RULE:
+  ~you ni ke pehle wala verb:
+  POTENTIAL form (hanaseru, yomeru) ya
+  NEGATIVE form (wasurenai, okurenai)
+  NAHI: Intentional action verb (X: taberu you ni iku -> wrong nuance)
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~ようになります (~you ni narimasu)
+   -> CHANGE OF STATE: "Pehle nahi kar sakta tha, ab kar sakta hoon"
+   -> Natural/Gradual change
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (Plain/Potential) + you ni narimasu / narimashita
+
+POSITIVE CHANGE:
+  * Nihongo ga hanaseru you ni narimashita.
+    -> Japanese bolna aane laga. (pehle nahi aata tha)
+
+  * Oyogeru you ni narimashita.
+    -> Tairna aane laga.
+
+  * Kanji ga yomeru you ni narimashita.
+    -> Kanji padhna aane laga.
+
+  * Hitori de dekiru you ni narimashita.
+    -> Akele karna aane laga.
+
+NEGATIVE CHANGE (jo tha ab nahi):
+  * Sakanaa ga taberareru you ni narimashita.
+    -> Pehle machhali nahi khaata tha, ab khata hoon.
+
+  * Hayaku okiru you ni narimashita.
+    -> Jaldi uthna seekh liya.
+
+  * Osake wo nomanai you ni narimashita.
+    -> Sharaab peena chhod diya. (change)
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~ようにしています (~you ni shite imasu)
+   -> CONSCIOUS EFFORT - "Koshish karta hoon ki..."
+   -> Intentional habit banana
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (dict form / nai form) + you ni shite imasu
+
+POSITIVE (Karne ki koshish):
+  * Mainichi undou suru you ni shite imasu.
+    -> Roz kasrat karne ki koshish karta/karti hoon.
+
+  * Hayaku neru you ni shite imasu.
+    -> Jaldi sone ki koshish karta/karti hoon.
+
+  * Nihongo de kangaeru you ni shite imasu.
+    -> Japanese mein sochne ki koshish karta/karti hoon.
+
+NEGATIVE (Na karne ki koshish):
+  * Osake wo nomanai you ni shite imasu.
+    -> Sharaab nahi peene ki koshish karta/karti hoon.
+
+  * Kanji o wasurenai you ni shite imasu.
+    -> Kanji nahi bhoolne ki koshish karta/karti hoon.
+
+REQUEST FORM:
+  * Jikan wo mamoru you ni shite kudasai.
+    -> Waqt ka dhyan rakhne ki koshish karo.
+
+  * Mainichi renshuu suru you ni shite kudasai.
+    -> Roz practice karne ki koshish karo.
+
+COMPARISON TABLE:
+  -------------------------------------------------------
+  ~you ni suru      = Ek kaam ke liye koshish karna
+  ~you ni naru      = Apne aap change ho jaana
+  ~you ni + verb    = Goal ke liye action karna
+  -------------------------------------------------------
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 36]
+----------------------------------------------------------------
+
+  Japanese        | Romaji          | Hindi Meaning
+  ----------------|----------------|----------------------
+  守ります         | mamorimasu      | Manna / Protect karna
+  諦めます         | akiramemasu     | Haarna maan lena
+  続けます         | tsuzukemasu     | Jaari rakhna
+  気をつけます      | ki wo tsukemasu | Dhyan rakhna
+  飛びます         | tobimasu        | Udna
+  宇宙            | uchuu           | Antariksh / Space
+  地球            | chikyuu         | Prithvi / Earth
+  安全（な）        | anzen (na)      | Surakshit / Safe
+  健康（な）        | kenkou (na)     | Sehatmand / Healthy
+  生活            | seikatsu        | Zindagi / Daily life
+  習慣            | shuukan         | Aadat / Habit
+  目標            | mokuhyou        | Lakshya / Goal
+  夢              | yume            | Sapna / Dream
+  将来            | shourai         | Bhavishy / Future
+  努力します        | doryoku shimasu | Mehnat karna / Try hard
+  練習します        | renshuu shimasu | Abhyas karna / Practice
+  変わります        | kawarimasu      | Badalna / Change
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Japanese bolna aane laga. (change)
+   -> _______________________________________________
+
+2. Newspaper padh sakoon isliye roz kanji padhta hoon.
+   -> _______________________________________________
+
+3. Roz jaldi sone ki koshish karta hoon.
+   -> _______________________________________________
+
+4. Bhoola nahi isliye likh liya. (nai form + youni)
+   -> _______________________________________________
+
+ANSWERS:
+1. Nihongo ga hanaseru you ni narimashita.
+2. Shinbun ga yomeru you ni, mainichi kanji wo benkyou shimasu.
+3. Mainichi hayaku neru you ni shite imasu.
+4. Wasurenai you ni, kaite okimashita.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 36]
+----------------------------------------------------------------
+
+* ~you ni vs ~tame ni (dono purpose batate hain):
+  ~you ni  = Potential/negative verb ke saath (ability goal)
+  ~tame ni = Dictionary/noun ke saath (purpose/benefit)
+
+  "Nihongo ga hanaseru YOU NI benkyou shimasu" = Can speak (ability)
+  "Shiken no TAME NI benkyou shimasu" = Exam ke liye (purpose)
+
+* ~you ni narimashita = Gradual NATURAL change
+  ~you ni shimashita = INTENTIONAL change (decided)
+
+* ~you ni shite imasu = Ongoing effort/habit
+  N4 mein "what do you try to do?" wale questions mein aata hai
+
+* Negative + you ni = "So that [bad thing] doesn't happen"
+  "Wasurenai you ni memo shimasu" = Bhool nahi na jaun isliye
+
+================================================================
+                    LESSON 36 - COMPLETE
+            Next: Lesson 37 -> Passive Form (~rareru/~reru)
+================================================================

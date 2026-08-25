@@ -1,0 +1,102 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 5: 検査 (Kensa - Inspection) - Part 2
+================================================================
+
+Is part mein hum Materials ke alag-alag tests (Jaise Hardness, Tensile test) aur bina tode check karne wale Non-Destructive Tests (NDT) ke baare mein padhenge. Exam mein in tests ke naam aate hain.
+
+----------------------------------------------------------------
+【５．２】 材料試験 (Zairyou Shiken - Material Testing)
+----------------------------------------------------------------
+
+【５．２．１】 引張試験 (Hippari shiken - Tensile Test)
+（１）引張試験とは (Tensile test kya hai?)
+引張試験では、引張強さ、降伏強さ、ヤング率、破断伸びなどの特性を求めることができます。
+(Hippari shiken de wa, hippari tsuyosa, koufuku tsuyosa, Yangu-ritsu, hadan nobi nado no tokusei wo motomeru koto ga dekimasu.)
+Meaning: Tensile test mein material ko kheench kar (hippari) uski majbooti check karte hain, jisse uski Tensile Strength, Yield Strength, Young's Modulus, aur Elongation (kitna lamba hua totne se pehle) pata chalti hai. Yeh ek Destructive Test (破壊試験 - Hakai shiken) hai kyunki isme sample toot jata hai.
+
+（３）材料の特性値 (Material properties)
+① 引張強さ (Hippari tsuyosa - Tensile Strength): 
+材料が引っ張られたときに破断するまでに耐えられる最大の応力。
+Meaning: Kheenchi jane wali maximum taqat (stress) jise material tootne (hadan) se pehle bardasht kar sakta hai.
+
+② 降伏強さ (Koufuku tsuyosa - Yield Strength): 
+材料が降伏するまでに耐えられる最大の応力。
+Meaning: Woh limit jahan tak material kheenchi jane par wapis apni original shape mein aa jaye (Elastic limit ke baad wala point). Ise Yield point bhi kehte hain.
+
+③ 破断伸び (Hadan nobi - Elongation at break): 
+破断したあとの永久ひずみのこと。
+Meaning: Tootne (hadan) ke baad material permanently kitna lamba ho gaya, usko percentage (%) mein batana.
+
+---
+【５．２．２】 硬さ試験 (Katasa shiken - Hardness Test)
+材料の硬さを評価する試験です。引張試験をする代わりに、よく行われる試験です。
+(Zairyou no katasa wo hyouka suru shiken desu. Hippari shiken wo suru kawari ni, yoku okonawareru shiken desu.)
+Meaning: Material ki hardness (katasa) check karna. Yeh Tensile test se aasaan hota hai, isliye iska use zyada hota hai.
+[Hardness test ke main types]
+① ロックウェル硬さ (Rockwell hardness): 圧子 (indenter) ko dabakar gaddha (kubomi) banate hain. Depth se hardness nikalte hain (HR, HRA, HRC).
+② ブリネル硬さ (Brinell hardness): Gol ball (kyuukei) dabakar gaddha banate hain. Diameter se check karte hain (HBW).
+③ ビッカース硬さ (Vickers hardness): Diamond pyramid dabate hain (HV).
+④ ショア硬さ (Shore hardness): Diamond hammer ko uper se girate hain (rakka sasete) aur uske uchhalne (bounce) se check karte hain (HS).
+
+---
+【５．２．３】 衝撃試験 (Shougeki shiken - Impact Test)
+重量のあるハンマーをある高さから振り下ろして、試験片を破壊させ、破壊のときに吸収されるエネルギーを求めます。
+(Juuryou no aru hanmaa wo aru takasa kara furioroshite, shikenhen wo hakai sase, hakai no toki ni kyuushuu sareru enerugii wo motomemasu.)
+Meaning: Ek bhari hammer ko uper se gira kar sample ko todte hain, aur energy loss ko measure karte hain.
+衝撃エネルギーが大きいほど、じん性が高いということになります。
+(Shougeki enerugii ga ookii hodo, jinsei ga takai to iu koto ni narimasu.)
+Meaning: Jitni zyada energy absorb hogi, uska matlab material ki "Toughness" (Jinsei - じん性) utni achi hai (yaani jaldi tootega nahi).
+
+【５．２．４】 曲げ試験 (Mage shiken - Bending Test)
+試験片を曲げることで、材料の強さを評価する試験です。裂けキズなどの欠点がないことで合格となります。
+Meaning: Sample ko mod kar (bend karke) check karna. Agar bahar crack ya tear (sake-kizu) nahi aaya toh pass hai.
+
+【５．２．５】 疲労試験 (Hirou shiken - Fatigue Test)
+力を加えたり緩めたりを繰り返すと、突然破壊することを疲労破壊といいます。
+(Chikara wo kuwaetari yurumetary wo kurikaesu to, totsuzen hakai suru koto wo hirou hakai to iimasu.)
+Meaning: Material par baar-baar force lagane aur hatane (jaise kisi taar ko baar-baar modna) se woh achanak toot jata hai, jise Fatigue fracture (Hirou hakai) kehte hain. Is test mein yahi check karte hain ki kitni baar force lagane par material tootega.
+
+
+----------------------------------------------------------------
+【５．３】 その他の検査 (Sonota no kensa - Other Inspections)
+----------------------------------------------------------------
+
+【５．３．１】 非破壊検査 (Hihakai Kensa - Non-Destructive Testing / NDT)
+材料を破壊することなく欠陥を見つける検査です。
+(Zairyou wo hakai suru koto naku kekkan wo mitsukeru kensa desu.)
+Meaning: Material ko bina tode (hakai sezu ni) defect (kekkan) dhoondhne wala test. Iske types exam ke liye zaruri hain:
+
+① 放射線透過試験 (RT - Radiographic Test)
+X線やガンマ線などの放射線をサンプルに当てて、フィルムなどに撮影します。
+Meaning: X-ray ya Gamma rays ka use karke andar ka defect (hollow spot) dhoondhna. (Bilkul hospital ke X-ray jaisa).
+
+② 超音波探傷試験 (UT - Ultrasonic Test)
+超音波をサンプルに当てて、反射波を測ります。
+Meaning: Ultrasound waves bhej kar wapas aane wali awaz (reflection) se andar ka defect check karna.
+
+③ 磁気探傷試験 (MT - Magnetic Particle Test)
+サンプルを磁化させてから、磁粉を吹きかけて、磁粉の模様を観察します。
+Meaning: Lohe ko magnet banakar uspe magnetic powder dalna. Jahan surface par crack hoga wahan powder jama ho jayega.
+
+④ 浸透探傷試験 (PT - Penetrant Test)
+色のついた液体を吹き付け、現像剤を吹き付けます。
+Meaning: Colored liquid dalkar phir developer (white powder) dalte hain. Crack mein phasa hua liquid upar aa jata hai jisse surface crack dikhta hai.
+
+⑤ 渦電流試験 (ET - Eddy Current Test)
+交流を流したコイルをサンプルに近づけて、渦電流の変化を測ります。
+Meaning: Coil se current (Eddy current) banakar check karna.
+
+⑥ 外観試験 (VT - Visual Test)
+人間の目で表面のキズを探す検査です。
+Meaning: Insaan apni aankhon se dekh kar surface ki kharabi check karta hai.
+
+---
+【５．３．２】 官能検査 (Kannou kensa - Sensory Inspection)
+人間の味覚、きゅう覚、触覚、視覚、聴覚などを使った検査です。
+(Ningen no mikaku, kyuukaku, shokkaku, shikaku, choukaku nado wo tsukatta kensa desu.)
+Meaning: Insaan ke 5 senses (Taste, Smell, Touch, Sight, Hearing) ka use karke kiya jane wala test. Jab machine se check karna mushkil ho, ya insaan ka feel check karna ho.
+
+================================================================
+CHAPTER 5 COMPLETE!
+================================================================

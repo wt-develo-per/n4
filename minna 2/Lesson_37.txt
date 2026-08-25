@@ -1,0 +1,208 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 37 (N4)
+   Topic: Passive Form - Ukemi (受身形)
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge Passive Form:
+-> "Mujhe X kiya gaya" / "Woh X kiya gaya"
+-> Japanese mein passive bahut use hota hai - N4 ka important topic!
+
+----------------------------------------------------------------
+[GRAMMAR 1] PASSIVE FORM CONJUGATION (受身形)
+   -> "...kiya jaata hai / kiya gaya"
+----------------------------------------------------------------
+
+GROUP 1 (u-verbs): -u -> -a + reru
+  kaku   -> kak-A-RERU   -> kakaremasu
+  nomu   -> nom-A-RERU   -> nomaremasu
+  yomu   -> yom-A-RERU   -> yomaremasu
+  kiku   -> kik-A-RERU   -> kikaremasu
+  hanasu -> hanas-A-RERU -> hanasaremasu
+  matsu  -> mat-A-RERU   -> mataremasu
+  iku    -> ik-A-RERU    -> ikaremasu
+  yobu   -> yob-A-RERU   -> yobaremasu
+  nusumu -> nusum-A-RERU -> nusumaremasu
+  fumu   -> fum-A-RERU   -> fumaremasu
+
+GROUP 2 (ru-verbs): -ru -> -rareru
+  taberu -> tabe-RARERU -> taberaremasu
+  miru   -> mi-RARERU   -> miraremasu
+  homeru -> home-RARERU -> homeraremasu
+  shikaru-> shika-RARERU-> shikaraemasu (G1 actually: shika-RARERU)
+
+GROUP 3 (Irregular):
+  suru   -> SARERU     -> saremasu
+  kuru   -> KORARERU   -> koraremasu
+
+----------------------------------------------------------------
+[GRAMMAR 2] PASSIVE SENTENCES - 2 TYPES
+----------------------------------------------------------------
+
+TYPE 1: Direct Passive (Seedha passive)
+  -> Subject ko kuch hua - neutral/positive
+
+  ACTIVE:  Sensei ga watashi wo homemashita.
+           -> Teacher ne mujhe praise kiya.
+
+  PASSIVE: Watashi wa sensei ni homeraremashita.
+           -> Main teacher ke dvara praise kiya gaya.
+
+  PARTICLE CHANGE:
+  Active: [Subject] GA + [Object] WO + verb
+  Passive: [Object] WA + [Doer] NI + passive verb
+
+  * Watashi wa chichi ni shikararemashita.
+    -> Mujhe papa ne daanta.
+
+  * Kanojo wa tomodachi ni sasowanemashita.
+    -> Usse dost ne invite kiya.
+
+  * Kare wa sensei ni homeraremashita.
+    -> Usse teacher ne praise kiya.
+
+TYPE 2: Suffering/Nuisance Passive (Meiwaku Passive)
+  -> Kisi ki wajah se TAKLEEF hua - negative feeling
+  -> Japanese ka unique feature!
+
+  * Ame ni furaremashita.
+    -> Baarish ho gayi (mujhe takleef hua).
+
+  * Tomodachi ni koraremashita.
+    -> Dost aa gaya (aur mujhe problem hua).
+
+  * Kodomo ni nakaremashita.
+    -> Bachche ke rone ki wajah se pareshan hua.
+
+  * Tonari no hito ni sawagaremashita.
+    -> Padosi ke shor se takleef hua.
+
+  * Saifu wo nushumaremashita.
+    -> Mera wallet chura liya gaya. (I suffered - wallet stolen)
+
+TYPE 3: Passive for Facts/History (Objective passive)
+  -> Historical facts ya general truths ke liye
+
+  * Kono hon wa Natsume Soseki ni kakaremashita.
+    -> Yeh kitaab Natsume Soseki ne likhi.
+
+  * Denwa wa Bell ni hatsumei saremashita.
+    -> Telephone Bell ne invent kiya.
+
+  * Kono tatemono wa 1960-nen ni tateraremashita.
+    -> Yeh imarat 1960 mein banayi gayi.
+
+  * Nihongo wa sekaijuu de hanasaremasu.
+    -> Japanese duniya bhar mein boli jaati hai.
+
+----------------------------------------------------------------
+[PASSIVE PARTICLES QUICK GUIDE]
+----------------------------------------------------------------
+
+  DOER (Agent)     : NI particle use karo
+  INSTRUMENT/CAUSE : DE particle use karo
+
+  * Sensei NI homeraremashita. -> Teacher ne (doer)
+  * Jishin DE ie ga kowaremashita. -> Bhookamp se (cause)
+  * Nihongo DE kakaremashita. -> Japanese mein likhi gayi (instrument)
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 37]
+----------------------------------------------------------------
+
+  Japanese          | Romaji              | Hindi Meaning
+  ------------------|---------------------|----------------------
+  褒めます           | homemasu            | Tarif karna / Praise
+  しかります          | shikarimasu         | Daantna / Scold
+  誘います           | sasoimasu           | Bulana / Invite karna
+  起こします          | okoshimasu          | Jagana / Wake up
+  招待します          | shoutai shimasu     | Invite karna (formal)
+  頼みます           | tanomimasu          | Kehna / Request karna
+  注意します          | chuui shimasu       | Savdhaan karna / Warn
+  取ります [盗む]     | torimasu            | Churana / Steal
+  踏みます           | fumimasu            | Paaon rakhna / Step on
+  壊します           | kowashimasu         | Todna / Break karna
+  汚します           | yogoshimasu         | Ganda karna
+  行います           | okonaimasu          | Aayojit karna / Conduct
+  輸出します          | yushutsu shimasu    | Niyaat karna / Export
+  輸入します          | yunyuu shimasu      | Aayaat karna / Import
+  翻訳します          | hon'yaku shimasu    | Tarjuma karna / Translate
+  発明します          | hatsumei shimasu    | Aavishkaar karna / Invent
+  発見します          | hakken shimasu      | Dhundh lena / Discover
+  設計します          | sekkei shimasu      | Design karna / Plan
+  米              | kome                | Chaawal / Rice
+  麦              | mugi                | Gehoon / Wheat
+  石油            | sekiyu              | Tel / Petroleum
+  原料            | genryou             | Kachcha maal / Raw material
+  泥棒            | dorobou             | Chor / Thief
+  警官            | keikan              | Sipahi / Police officer
+  建築家          | kenchikuka          | Architect
+  科学者          | kagakusha           | Vaigyanik / Scientist
+  漫画            | manga               | Manga / Comic
+  世界中          | sekaijuu            | Poori duniya mein
+
+----------------------------------------------------------------
+[PASSIVE CONJUGATION - QUICK TABLE]
+----------------------------------------------------------------
+
+  Dictionary | Passive Form    | Meaning
+  -----------|----------------|---------------------------
+  kaku       | kakareru        | Likha jaana
+  nomu       | nomareru        | Piya jaana
+  yobu       | yobareru        | Bulaya jaana
+  nusumu     | nusumareru      | Churaya jaana
+  fumu       | fumareru        | Paaon rakha jaana
+  taberu     | taberareru      | Khaya jaana
+  homeru     | homerareru      | Tarif kiya jaana
+  suru       | sareru          | Kiya jaana
+  kuru       | korareru        | Aaya jaana
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Mujhe teacher ne praise kiya.
+   -> _______________________________________________
+
+2. Mera wallet chura liya gaya! (suffering passive)
+   -> _______________________________________________
+
+3. Telephone Bell ne invent kiya tha.
+   -> _______________________________________________
+
+4. Yeh manga poori duniya mein padhi jaati hai.
+   -> _______________________________________________
+
+ANSWERS:
+1. Watashi wa sensei ni homeraremashita.
+2. Saifu wo nusumaremashita.
+3. Denwa wa Bell ni hatsumei saremashita.
+4. Kono manga wa sekaijuu de yomaremasu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 37]
+----------------------------------------------------------------
+
+* Passive conjugation sabse zaroori:
+  G1: -u -> -areru (kaku -> kakareru)
+  G2: -ru -> -rareru (taberu -> taberareru)
+  G3: suru -> sareru, kuru -> korareru
+
+* Particle yaad rakho:
+  Doer ke liye: NI (sensei NI homeraremashita)
+  Cause ke liye: DE (jishin DE kowaremashita)
+
+* Suffering passive = Meiwaku passive:
+  "Ame ni furaremashita" = Baarish se pareshan hua
+  Japanese conversation mein bahut use hota hai!
+
+* Historical/Objective passive:
+  Tatemono wa [year] ni tateraremashita.
+  Yeh pattern JLPT reading mein bahut aata hai!
+
+* suru -> sareru (NOT "serareru" - ye GALAT hai)
+
+================================================================
+                    LESSON 37 - COMPLETE
+          Next: Lesson 38 -> Nominalization with ~の (no)
+================================================================

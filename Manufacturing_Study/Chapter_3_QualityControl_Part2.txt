@@ -1,0 +1,85 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 3: 品質管理 (Hinshitsu Kanri - Quality Control) - Part 2
+================================================================
+
+Is part mein hum Standardization, QC 7 Tools (jin par images/charts ke questions aate hain) aur International Standards (ISO, JIS) padhenge.
+
+----------------------------------------------------------------
+【３．２】 標準化 (Hyoujunka - Standardization)
+----------------------------------------------------------------
+製品や製造工程を、誰もが同じように理解できるように、定めたルールや基準です。
+(Seihin ya seizou koutei wo, dare mo ga onaji you ni rikai dekiru you ni, sadameta ruuru ya kijun desu.)
+Meaning: Products ya manufacturing process ko is tarah se rules (ruuru) ya standard (kijun) mein fix karna jisse koi bhi (dare mo ga) ek jaisa samajh sake. Is-se quality stable hoti hai aur efficiency badhti hai.
+
+【３．２．１】 作業標準 (Sagyou Hyoujun - Work Standards)
+製品を製造する際の作業内容、手順、方法、使用設備、工具などを定めたものです。
+(Seihin wo seizou suru sai no sagyou naiyou, tejun, houhou, shiyou setsubi, kougu nado wo sadameta mono desu.)
+Meaning: Product banane ke steps (tejun), method, tools, aadi ko likh kar fix karna. Ise ek tarah ka "Rulebook" samajhiye taki koi bhi (naye worker bhi) same safety aur same quality ke sath kaam kar sake. (Is rulebook ko 作業標準書 - Sagyou Hyoujun-sho kehte hain).
+
+【３．２．２】 ＱＣ工程図 (QC Kouteizu - QC Process Chart)
+製造プロセスの各工程で「何を」「いつ」「どのように」管理するかを明記した図のことです。
+(Seizou purosesu no kaku koutei de "Nani wo" "Itsu" "Dono you ni" kanri suru ka wo meiki shita zu no koto desu.)
+Meaning: Manufacturing ke har step mein "Kya", "Kab", aur "Kaise" manage karna hai (jaise kya measure karna hai, kaun sa tool use karna hai, problem aane par kya karna hai), isko jis chart mein likhte hain use QC Process Chart (QC Kouteizu) kehte hain.
+
+
+----------------------------------------------------------------
+【３．３】 ＱＣ7 つ道具 (QC Nanatsu Dougu - The 7 QC Tools)
+----------------------------------------------------------------
+Quality Control ke liye 7 basic tools use hote hain jo data ko graph ya chart banakar samajhne mein madad karte hain. Exam mein inki photo dekar pucha jata hai ki yeh kaun sa tool hai.
+
+① チェックシート (Chekku Shiito - Check Sheet)
+データを収集するために、あらかじめ項目が記載された表です。
+Meaning: Data collect karne ke liye pehle se hi printed ek table/list jahan bas tally marks ( / / / ) laga kar check kiya jata hai ki kahan kitne defect aaye.
+
+② パレート図 (Pareeto Zu - Pareto Chart)
+問題の原因や不良の種類を、件数の多い順に並べた棒グラフと累積比率の折れ線グラフを組み合わせた図です。
+Meaning: Defects ke types ko sabse zyada se sabse kam ginti (descending order) mein Bar Graph (棒グラフ - bou gurafu) aur unki total percentage ko Line Graph (折れ線グラフ - oresen gurafu) se dikhane wala chart. Is-se pata chalta hai ki sabse badi problem kaun si hai.
+
+③ 特性要因図 (Tokusei Youin Zu - Cause and Effect Diagram / Fishbone Diagram)
+ある問題に対し、それに影響を与える要因を、「魚の骨」のような形に整理した図です。
+Meaning: Ek problem ke piche kya kya kaaran (causes) ho sakte hain, usko "Machli ki haddi" (Fishbone / 魚の骨 - sakana no hone) ke shape mein likhna. Isme 4M (Man, Machine, Material, Method) ka use karke asli wajah dhoondi jati hai.
+
+④ ヒストグラム (Hisutoguramu - Histogram)
+データのばらつきや分布の形を、データ数で表した棒型のグラフです。
+Meaning: Data ka spread (baratsuki) kaisa hai, yeh check karne ke liye Bar Graph ka type. Isme continuous data hota hai aur shape ghanti (bell) jaisi banti hai.
+
+⑤ 管理図 (Kanrizu - Control Chart)
+製造工程が安定した状態にあるかどうかを管理するための、時系列での折れ線グラフです。
+Meaning: Production process stable hai ya nahi yeh check karne ke liye ek Line Graph. Isme ek Upper Limit (上限 - jougen) aur Lower Limit (下限 - kagen) line hoti hai. Agar line us limit se bahar gayi, matlab problem hai.
+
+⑥ 散布図 (Sanpuzu - Scatter Diagram)
+2 つの異なる変数の関係性を、縦軸と横軸でプロットした図です。
+Meaning: Do alag-alag cheezon (jaise "Temperature" aur "Defect rate") ke beech koi relation hai ya nahi, usko dots (points) lagakar check karne wala graph.
+
+
+----------------------------------------------------------------
+【３．４】 規格 (Kikaku - Standards)
+----------------------------------------------------------------
+Quality, safety aur size ko uniform (ek jaisa) rakhne ke liye jo rules hote hain, unhe Kikaku kehte hain.
+
+【３．４．１】 ISO （国際標準化機構）
+(Aiesuo - Kokusai Hyoujunka Kikou = International Organization for Standardization)
+Puri duniya (World) ke liye standard banata hai.
+・ISO 9001: 品質マネジメントシステム (Quality Management System)
+・ISO 14001: 環境マネジメントシステム (Environment Management System)
+
+【３．４．２】 日本産業規格 (Japanese Industrial Standards, JIS)
+(Nihon Sangyou Kikaku - JIS)
+Yeh Japan ka apna standard hai. Jis product par "JIS Mark" hota hai, woh high quality ka mana jata hai.
+
+【３．４．３】 国際単位系ＳＩ (International System of Units SI)
+(Kokusai Tan'i Kei SI)
+Duniya bhar mein use hone wali basic measurement units. 7 basic units hain:
+・長さ (Nagasa - Length): メートル (m - Meter)
+・質量 (Shitsuryou - Mass): キログラム (kg - Kilogram)
+・電流 (Denryuu - Current): アンペア (A - Ampere)
+・時間 (Jikan - Time): 秒 (s - Seconds)
+・物質量 (Busshitsuryou - Amount of substance): モル (mol - Mole)
+・光度 (Koudo - Luminous intensity): カンデラ (cd - Candela)
+・熱力学温度 (Netsurikigaku ondo - Temperature): ケルビン (K - Kelvin)
+
+
+================================================================
+CHAPTER 3 COMPLETE!
+================================================================

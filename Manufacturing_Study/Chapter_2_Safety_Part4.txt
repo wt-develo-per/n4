@@ -1,0 +1,101 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 2: 安全衛生 (Anzen Eisei - Safety and Hygiene) - Part 4 (FINAL)
+================================================================
+
+Is final part mein hum Risk Assessment, Absolute Safety, Safety Signs (jis par image questions aate hain) aur alag-alag kaam ki safety padhenge.
+
+----------------------------------------------------------------
+【２．４．２】 リスク・アセスメント (Risk Assessment)
+----------------------------------------------------------------
+仕事の中にある危険や健康を害する可能性を見つけて、その危険をなくすための方法を考える活動です。
+(Shigoto no naka ni aru kiken ya kenkou wo gaisuru kanousei wo mitsukete, sono kiken wo nakusu tame no houhou wo kangaeru katsudou desu.)
+Meaning: Kaam ke dauran aane wale khatron (hazards) ya sehat ko nuksan pahunchane wali cheezon ko dhoondhna aur unhe khatam karne ke tarike sochne ko Risk Assessment kehte hain.
+
+[Risk Assessment ke 4 Steps]
+① 危険を見つける (Kiken wo mitsukeru) = Khatra dhoondhna.
+② 危険のレベルを考える (Kiken no reberu wo kangaeru) = Khatre ka level sochna (Kitna bada khatra hai).
+③ 対策を考える (Taisaku wo kangaeru) = Bachne ka tarika (Countermeasure) sochna.
+④ 対策の実行と徹底 (Taisaku no jikkou to tettei) = Us tarike ko lagu karna aur sabse follow karwana.
+
+----------------------------------------------------------------
+【２．４．３】 OSHMS (Occupational Safety and Health Management System)
+----------------------------------------------------------------
+Yeh company ka safety system (仕組み - shikumi) hota hai jiska goal "Safe aur Healthy workplace" banana hai. Yeh PDCA cycle ki tarah kaam karta hai:
+① 計画 (Keikaku - Plan) = Khatra dekh kar Safety Goal banana aur Plan karna.
+② 実行 (Jikkou - Do) = Safety rules ko follow karna aur training dena.
+③ 評価 (Hyouka - Check) = Plan kaise chal raha hai, uska result (seika) check karna.
+④ 改善 (Kaizen - Act) = Agar problem ho toh reason soch kar plan ko improve karna.
+
+----------------------------------------------------------------
+【２．４．４】 絶対安全 (Zettai Anzen - Absolute Safety)
+----------------------------------------------------------------
+絶対安全という言葉は「絶対に危なくない」という意味ですが、これはありえないと考えられています。
+(Zettai anzen to iu kotoba wa "Zettai ni abunakunai" to iu imi desu ga, kore wa arienai to kangaerarete imasu.)
+Meaning: "Zettai Anzen" ka matlab hai "bilkul bhi khatra nahi hona" (100% safe), lekin aesa hona namumkin (arienai) mana jata hai.
+Kyunki:
+- 機械は突然故障する (Kikai wa totsuzen koshou suru) = Machine achanak kharab ho sakti hai.
+- 人間はうっかりミスをする (Ningen wa ukkari misu wo suru) = Insaan se galti ho sakti hai.
+- 自然は予期せぬ災害を起こす (Shizen wa yoki senu saigai wo okosu) = Nature bina bataye disaster la sakti hai (jaise bhookamp).
+
+Isliye, asali (hontou no) safety ka matlab 100% safe hona nahi, balki "Khatre ko kam se kam karna" (dekiru dake kiken wo sukunaku suru) aur "Accident hone ke chance ko kam karna" hai.
+
+
+----------------------------------------------------------------
+【２．５】 標識 (Hyoushiki - Signs / Symbols)
+----------------------------------------------------------------
+Exam mein aksar photo dekar puchte hain ki iska kya matlab hai. Inhe ache se yaad karein:
+
+（１）禁止標識 (Kinshi hyoushiki - Prohibition Signs / Jo kaam mana hai)
+Yeh signs RED circle aur cross line (⃠) wale hote hain:
+- 禁煙 (Kin'en) = No Smoking
+- 火気厳禁 (Kaki genkin) = Aag lagana mana hai (No Fires)
+- 立入禁止 (Tachiiri kinshi) / 進入禁止 (Shinnyuu kinshi) = Andar aana mana hai (No Entry)
+- 走るな (Hashiruna) = Dodna mana hai (No Running)
+
+（２）注意表示 (Chuui hyouji - Caution Signs / Khatre se alert karne wale)
+Yeh signs YELLOW triangle (△) wale hote hain:
+- 一般注意 (Ippan chuui) = General Caution (!)
+- 転落注意 (Tenraku chuui) = Girne ka khatra (Falling Hazard)
+- 頭上注意 (Zujou chuui) = Sir ke upar dhyan dein (Watch your head)
+- 感電注意 (Kanden chuui) = Bijli ka jhatka lagne ka khatra (Electric Shock)
+
+（３）化学物質の危険有害性の表示 (Chemical Hazard Signs)
+Yeh RED diamond (◇) shape mein hote hain. Chemicals ki packing par lage hote hain:
+- 可燃物 (Kanenbutsu) = Aag pakadne wala (Flammable)
+- 金属腐食性 (Kinzoku fushokusei) = Metal ko kharab karne wala ya skin jalane wala (Corrosive - Isme haath par acid girte hue dikhate hain)
+- 健康有害性 (Kenkou yuugaisei) = Health ke liye hanikarak
+
+（４）その他の標識 (Other Signs)
+- 消火器 (Shoukaki) = Fire Extinguisher (Red sign)
+- AED = Automatic defibrillator (Red sign with Heart and shock)
+- 避難場所 (Hinan basho) = Emergency bachav ki jagah (Green sign with running man)
+
+
+----------------------------------------------------------------
+【２．６】 個別作業の安全のポイント (Points for Specific Work Safety)
+----------------------------------------------------------------
+
+（１）機械作業 (Machine Work)
+- 非常停止スイッチ (Hijou teishi suicchi - Emergency Stop Switch): Khatra aane par machine ko turant rokne wala lal button. Hamesha pata hona chahiye ki ye kahan hai.
+
+（２）感電の防止 (Electric Shock Prevention)
+- 感電 (Kanden): Bijli ka jhatka. Is se dil ki dhadkan kharab ho sakti hai ya maut ho sakti hai.
+- アース (Aasu - Earthing/Grounding): Machine ko ground se connect karna taki current body mein na aaye.
+- 漏電 (Rouden): Current ka leak hona. Aasu is se bachata hai.
+
+（３）運搬作業 (Lifting & Carrying Work)
+- Bhaari cheez (重量物 - Juuryoubutsu) uthate waqt pehle ghutne mod kar kamar (koshi) niche karein, item ko gale lagayein (kakae), aur phir pair (ashi) sidhe karke uthayein (kamar se nahi uthana chahiye, warna dard hoga).
+
+（４）鋳造工程 (Casting Process - Pighle hue metal ka kaam)
+- Aas-paas bahut garmi (kouon) hoti hai, isliye 熱射病 (Nesshabyou - Heatstroke) ka dhyan rakhein.
+- Ret (sand) aur polishing se dhool (funjin) udti hai, isliye 防塵マスク (Boujin masuku - Dust mask) pehnein.
+
+（５）化学物質の取り扱い (Handling Chemicals)
+- SDS (安全データシート - Safety Data Sheet): Chemical use karne se pehle ise zaroor padhein. Isme chemical ke khatre aur handling instructions hote hain.
+- 換気装置 (Kanki souchi - Ventilation): Chemicals use karte waqt hawa paas hone ke liye ventilation chalu rakhein.
+
+================================================================
+CHAPTER 2 COMPLETE!
+================================================================
+Aap Chapter 2 ke charon parts (Part 1, 2, 3, 4) padh kar tayar ho jayen toh batayen, hum "Chapter 3: Quality Control (品質管理)" shuru karenge!

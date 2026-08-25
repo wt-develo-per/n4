@@ -1,0 +1,76 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 10: 電気機器、成形、塗装、包装 (Electrical, Molding, Painting, Packaging) - Part 2 (THE END)
+================================================================
+
+Yeh hamare SSW Manufacturing Study Guide ka aakhiri hissa hai! Isme hum Plastic Molding, Painting (Color karna) aur Packaging (Packing) ki techniques padhenge.
+
+----------------------------------------------------------------
+【１０．３】 成形・塗装・包装の基礎 (Molding, Painting & Packaging)
+----------------------------------------------------------------
+
+【１０．３．１】 成形加工 (Seikei kakou - Molding Process)
+プラスチックや金属などの材料を、熱や圧力を使って型に入れ、目的の形に固める加工技術です。
+Meaning: Plastic (ya metal) ko pighla kar "Sanche/Mold (型 - Kata)" mein dalna aur thanda karke shape banane ko Molding kehte hain. (Plastic ki cheezein aise hi banti hain).
+
+[Molding ke Types:]
+① 射出成形 (Shashutsu seikei - Injection Molding): 
+プラスチックの粒を熱して溶かし、金型の中に高い圧力で「射出（注射）」します。
+Meaning: Injection (Syringe) ki tarah pighle hue plastic ko mold ke andar bahut pressure se fekna. Mobile ke cover, khilone aadi isi se bante hain.
+
+② ブロー成形 (Buroo seikei - Blow Molding): 
+空気を吹き込んで製品を膨らませて形をつくる加工方法です。ペットボトルやタンクなどの中が空洞の製品の製造に適しています。
+Meaning: Gubbara (balloon) fulane ki tarah. Tube ke andar hawa (kuuki) fook kar usko fulana. Andar se khokli (empty/kuudou) cheezein jaise Pet bottle isi se banti hain.
+
+③ 圧縮成形 (Asshuku seikei - Compression Molding): 
+材料を型の中に入れ、上から強い力で押して形をつくる加工方法です。
+Meaning: Upar se bahut zor se daba kar (press/compress karke) shape banana.
+
+④ 押出成形 (Oshidashi seikei - Extrusion Molding): 
+溶けたプラスチックを、一定の形の穴（ダイ）から押し出して、長い形をつくる加工方法です。パイプやホースなどに用いられます。
+Meaning: Pighle plastic ko ek hole (Die) se bahar dhakela jata hai. Lambi cheezein jaise pipe, hose ya window frame aise bante hain.
+
+
+【１０．３．２】 塗装技術 (Tosou gijutsu - Painting Technology)
+塗装とは、製品の表面に塗料を塗る技術です。色を塗るだけでなく、防さびや保護の目的もあります。
+Meaning: Product par paint (color) karna. Yeh sirf sundar dikhne (美観 - Bikan) ke liye nahi hota, balki zang (rust/sabi) rokne aur protect karne ke liye bhi hota hai.
+
+[Painting ke Types:]
+① はけ塗り (Hakenuri - Brush Painting): 
+塗料をはけやローラーを使って手作業で塗る方法です。
+Meaning: Brush (hake) ya roller se hath se paint karna. Badi deewaron par hota hai.
+
+② スプレー塗装 (Supuree tosou - Spray Painting): 
+塗料を霧状にして製品の表面に吹き付ける方法です。
+Meaning: Spray gun se mist (dhundh) banakar paint dalna. Car ki painting aise hoti hai.
+
+③ 静電塗装 (Seiden tosou - Electrostatic Painting): 
+製品にマイナスの電気を、塗料の粒子にプラスの電気を帯電させ、電気の力で塗料を製品に引きつける方法です。
+Meaning: Paint ke drops par (+) charge aur product par (-) charge lagakar, magnet ki tarah paint ko product par chipkana. Is se paint waste nahi hota.
+
+④ 電着塗装 (Denchaku tosou - Electrodeposition Painting): 
+製品を塗料の入ったタンクに浸し、電気を流すことで塗料を付着させる方法です。
+Meaning: Product ko paint ke tank (paani) mein duba kar electricity paas karna, jisse paint har kone (andar-bahar) mein lag jata hai. Car ki under-coating (niche ka paint) aise hoti hai.
+
+
+【１０．３．３】 包装技術 (Housou gijutsu - Packaging Technology)
+製品保護や、安全に輸送し、管理しやすくするための技術です。
+Meaning: Product ko tootne se bachane aur asani se bhejne ke liye uski packing karna.
+
+[Packaging ke Types:]
+① 個包装 (Kohousou - Individual Packaging): 
+一つ一つの製品を個別に包む方法です。お菓子や部品などに使われます。
+Meaning: Ek-ek product ki alag se packing karna (jaise toffee ki packing).
+
+② 段ボール箱 (Danboorubako - Corrugated Box / Cardboard Box): 
+多くの製品をまとめて入れるのに使われる一般的な包装材です。
+Meaning: Gatte (cardboard) ka dibba. Ek saath bahut sara saman transport karne ke liye.
+
+③ シュリンクフィルム (Shurinkufirumu - Shrink Film): 
+熱を加えることで収縮し、製品にぴったりと密着する透明なフィルムです。
+Meaning: Garam karne par sikud (shrink) jane wali plastic panni. (Jaise DVD ya kitabo ke upar jo tight plastic wrap hota hai).
+
+
+================================================================
+🎉 CONGRATULATIONS! ALL CHAPTERS (1 TO 10) ARE COMPLETE! 🎉
+================================================================

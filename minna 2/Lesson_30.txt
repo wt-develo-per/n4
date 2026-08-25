@@ -1,0 +1,221 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 30 (N4)
+   Topic: ~ておきます / ~ていきます / ~てきます
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ki kaise:
+1. Pehle se taiyaari karna: ~ておきます
+2. Karte hue jaana: ~ていきます
+3. Karke aana / aate aate karna: ~てきます
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~ておきます (~te okimasu)
+   -> Koi kaam PEHLE SE kar ke rakhna (preparation)
+   -> "...kar ke rakhna / pehle se kar lena"
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + okimasu
+
+3 USES:
+
+USE 1 - PREPARATION (Taiyaari ke liye pehle karna)
+  * Ryokou no mae ni, kippu wo katte okimasu.
+    -> Trip se pehle, ticket khareed ke rakhunga.
+
+  * Kaigi no mae ni, shiryou wo yonde okimashita.
+    -> Meeting se pehle, documents padh ke rakhe.
+
+  * Heya wo soujishite okimasu.
+    -> Kamra saaf kar ke rakhunga (mehmaan aane se pehle).
+
+USE 2 - DEALING WITH SITUATION (Abhi ke liye karna)
+  * Hako ni irete okimasu.
+    -> Dabbe mein daal ke rakhta/rakhti hoon.
+
+  * Mado wo akete okimasu.
+    -> Khidki khol ke chhor deta/deti hoon.
+
+USE 3 - LEAVE AS IT IS (State maintain karna)
+  * Sono mama ni shite okimasu.
+    -> Waisa hi rehne do. (chhedna mat)
+
+  * Mado wo shimete okite kudasai.
+    -> Khidki band karke rakho please.
+
+NEGATIVE FORM:
+  te okimasen / te okanai de kudasai
+  * Mado wo akete okanai de kudasai.
+    -> Khidki khol ke mat chhorena.
+
+SPOKEN SHORT FORM:
+  ~te okimasu -> ~toku (informal)
+  katte okimasu -> kattoku
+  yonde okimasu -> yondoku
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~ていきます (~te ikimasu)
+   -> Koi kaam karke JAANA / Karte hue jaana
+   -> Action + movement AWAY from speaker
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + ikimasu
+
+USES:
+
+USE 1 - Karte hue ja raha hoon (on the way going)
+  * Nomimono wo katte ikimasu.
+    -> Drink khareed ke jaunga. (raaste mein)
+
+  * Kasa wo motte ikimasu.
+    -> Chhatri lekar jaunga.
+
+  * Kooto wo kite ikimasu.
+    -> Coat pehen ke jaunga.
+
+USE 2 - Something happening gradually (moving away in time)
+  * Nihongo ga jouzu ni natte ikimasu.
+    -> Japanese dheere dheere achhi hoti ja rahi hai.
+
+  * Samuku natte ikimasu.
+    -> Thanda hota ja raha hai.
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~てきます (~te kimasu)
+   -> Koi kaam karke WAAPIS AANA
+   -> "Jaa ke X karta hoon aur wapis aata hoon"
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + kimasu
+
+USES:
+
+USE 1 - Go do something and come back
+  * Chotto denwa wo kakete kimasu.
+    -> Thoda phone karke aata/aati hoon.
+
+  * Koohii wo katte kimasu.
+    -> Coffee khareed ke aata/aati hoon.
+
+  * Toire ni itte kimasu.
+    -> Washroom jaa ke aata/aati hoon.
+
+USE 2 - Something coming toward you (approaching change)
+  * Ame ga futte kimashita.
+    -> Baarish aane lagi.
+
+  * Samuku natte kimashita.
+    -> Thanda hone laga hai.
+
+  * Nihongo ga wakatte kimashita.
+    -> Japanese samajh aane lagi.
+
+COMPARISON TABLE:
+  ----------------------------------------
+  ~te okimasu = Pehle se kar ke rakhna
+  ~te ikimasu = Karke jaana (door jaana)
+  ~te kimasu  = Karke aana (waapis aana)
+  ----------------------------------------
+
+QUICK EXAMPLES:
+  Kasa wo motte ikimasu.   -> Chhatri lekar jaunga.
+  Kasa wo motte kimasu.    -> Chhatri lekar aaunga.
+  Kasa wo katte okimasu.   -> Chhatri pehle se khareed ke rakhunga.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 30]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  はります           | harimasu          | Chipkana / Lagana (wall par)
+  かけます           | kakemasu          | Latkaana / Hang karna
+  かざります          | kazarimasu        | Sajana / Decorate karna
+  ならべます          | narabemasu        | Katar mein lagana / Arrange karna
+  うえます           | uemasu            | Lagana (ped/paudha)
+  もどします          | modoshimasu       | Waapis rakhna / Return karna
+  かたづけます        | katazukemasu      | Saaf karna / Organize karna
+  しまいます          | shimaimasu        | Ander rakhna / Put away
+  きめます           | kimemasu          | Faisla karna / Decide
+  しらせます          | shirasemasu       | Batana / Inform karna
+  相談します          | soudan shimasu    | Mashwara karna / Consult
+  予習します          | yoshuu shimasu    | Pehle se padhai karna
+  復習します          | fukushuu shimasu  | Dobara padhna / Review karna
+  お子さん           | okosan            | Doosre ka bachcha
+  授業              | jugyou            | Class / Lesson
+  講義              | kougi             | Lecture
+  予定              | yotei             | Plan / Schedule
+  ゴミ箱            | gomibako          | Kachra dabbi / Dustbin
+  人形              | ningyou           | Gudiya / Doll
+  花瓶              | kabin             | Phool daan / Vase
+  鏡               | kagami            | Aaina / Mirror
+  引き出し           | hikidashi         | Daraaz / Drawer
+  玄関              | genkan            | Darwaza ke paas ka hall
+  廊下              | rouka             | Galiara / Corridor
+  壁               | kabe              | Deewar / Wall
+  池               | ike               | Talaab / Pond
+  もとのところ        | moto no tokoro    | Asli jagah / Original place
+  まわり            | mawari            | Ird-gird / Around
+  まんなか           | mannaka           | Beechon beech / Center
+  すみ              | sumi              | Kona / Corner
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES - KHUD BANAO]
+----------------------------------------------------------------
+
+1. Trip se pehle hotel book kar ke rakhna chahiye.
+   -> _______________________________________________
+
+2. Main coffee khareed ke aata/aati hoon. (waapis aaunga)
+   -> _______________________________________________
+
+3. Umbrella lekar jaana. (ja raha hoon)
+   -> _______________________________________________
+
+4. Dheere dheere Japanese samajh aane lagi.
+   -> _______________________________________________
+
+5. Kamra pehle se saaf kar ke rakha.
+   -> _______________________________________________
+
+ANSWERS:
+1. Ryokou no mae ni, hoteru wo yoyaku shite okimasu.
+2. Koohii wo katte kimasu.
+3. Kasa wo motte ikimasu.
+4. Nihongo ga wakatte kimashita.
+5. Heya wo soujishite okimashita.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 30]
+----------------------------------------------------------------
+
+* ~te okimasu ka MATLAB samajhna zaroori hai:
+  -> Koi kaam future ke liye ALREADY kar lena
+  -> Exam mein "preparation" wale sentences mein aata hai
+
+* ~te ikimasu vs ~te kimasu:
+  IKIMASU = Speaker se DOOR (jaana)
+  KIMASU  = Speaker ki TARAF (aana)
+  
+  "Katte ikimasu" = main ja raha hoon, khareed ke jaaunga
+  "Katte kimasu"  = main aa raha hoon, khareed ke aaunga
+
+* Gradual change mein bhi dono use hote hain:
+  ~natte ikimasu = dheere dheere ... hota ja raha hai (going away in time)
+  ~natte kimashita = ... hone laga (coming toward now)
+
+* Spoken mein ~te okimasu -> ~toku:
+  katte okimasu -> kattoku
+  (N4 mein ye form recognize karna padega)
+
+* Yoshuu = Pehle padhna (before class)
+  Fukushuu = Baad mein review karna (after class)
+  Dono important vocab hain!
+
+================================================================
+                    LESSON 30 - COMPLETE
+  Next: Lesson 31 -> Volitional Form + ~つもり / ~よてい (Intentions)
+================================================================

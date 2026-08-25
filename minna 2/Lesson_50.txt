@@ -1,0 +1,244 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 50 (N4) - FINAL LESSON!
+   Topic: Kenjougo (Humble) + Teineigo (Polite) + N4 COMPLETE REVIEW
+================================================================
+
+[LESSON KA FOCUS]
+Is final lesson mein seekhenge Keigo ka doosra hissa:
+-> Kenjougo: APNE actions ke liye humble banana
+-> Teineigo: General polite expressions
+-> Plus: N4 Grammar poora recap!
+
+================================================================
+KENJOUGO - HUMBLE LANGUAGE (謙譲語)
+================================================================
+
+[GRAMMAR 1] KENJOUGO - SPECIAL HUMBLE VERBS
+   -> APNE ya apne group ke actions ko humble banana
+   -> Superior ke saamne apne aap ko humble dikhana
+----------------------------------------------------------------
+
+  PLAIN FORM          | KENJOUGO (Humble)        | MEANING
+  --------------------|--------------------------|------------------
+  ikimasu/kimasu      | mairimasu                | Jaunga/Aaunga (humble)
+  imasu               | orimasu                  | Hoon (humble)
+  tabemasu/nomimasu   | itadakimasu              | Khaunga/Piuunga (humble)
+  moraimasu           | itadakimasu              | Lunga (humble receive)
+  iimasu              | moushimasu               | Kahunga (humble)
+  shimasu             | itashimasu               | Karunga (humble)
+  mimasu              | haiken shimasu           | Dekhunga (humble)
+  shitte imasu        | zonjimasu                | Jaanta hoon (humble)
+  aimasu              | o-me ni kakarimasu       | Milunga (humble)
+  agemasu             | sashiagemasu             | Dunga (humble - to superior)
+  moraimasu           | itadakimasu              | Lunga (humble - from superior)
+
+EXAMPLES:
+  * Watashi wa Suzuki TO MOUSHIMASU.
+    -> Main Suzuki kehlaata/kehlaati hoon. (humble name intro)
+
+  * Watashi ga o-tetsudai ITASHIMASU.
+    -> Main madad karunga/karungi. (humble)
+
+  * Shoushou o-machi itadakemasu ka?
+    -> Kya thodi der intezaar kar sakte hain? (humble request)
+
+  * Kore wo haiken shite mo ii desu ka?
+    -> Kya main yeh dekh sakta/sakti hoon? (humble)
+
+  * Watashi wa sore wo zonjimasu.
+    -> Main woh jaanta/jaanti hoon. (humble)
+
+  * Ashita MAIRIMASU.
+    -> Kal aaunga/jaunga. (humble)
+
+  * Koko ni ORIMASU.
+    -> Main yahan hoon. (humble)
+
+----------------------------------------------------------------
+[GRAMMAR 2] O/GO + Verb Stem + SHIMASU (Humble action)
+   -> Regular verb ko humble banana ka formula
+   -> O + Japanese origin verb / GO + Chinese origin verb
+----------------------------------------------------------------
+
+STRUCTURE:
+  O + [masu-stem] + shimasu / itashimasu
+  GO + [noun form] + shimasu / itashimasu
+
+EXAMPLES:
+  * O-DENWA SHIMASU.
+    -> Main phone karunga. (humble)
+
+  * O-MOCHI SHIMASU.
+    -> Main uthata/uthaati hoon. (humble - carrying)
+
+  * O-OKURI SHIMASU.
+    -> Main bhejunga/chhodunga (accompany). (humble)
+
+  * GO-SETSUMEI SHIMASU.
+    -> Main explain karunga. (humble)
+
+  * GO-RENRAKU SHIMASU.
+    -> Main contact karunga. (humble)
+
+  * GO-HOUKOKU ITASHIMASU.
+    -> Main report karunga. (very humble)
+
+----------------------------------------------------------------
+[GRAMMAR 3] TEINEIGO - POLITE LANGUAGE (丁寧語)
+   -> General formality badhaana
+   -> Sonkeigo/Kenjougo se zyada simple
+----------------------------------------------------------------
+
+  PLAIN         | TEINEIGO (Polite)         | MEANING
+  --------------|--------------------------|------------------
+  arimasu       | gozaimasu                | Hai (very polite)
+  desu          | de gozaimasu             | Hai (very polite)
+  ii desu ka    | yoroshii deshou ka       | Kya theek hai?
+  watashi       | watakushi                | Main (very formal)
+  kore/sore/are | kochira/sochira/achira   | Yeh/Woh (polite)
+
+EXAMPLES:
+  * Watakushi wa Tanaka DE GOZAIMASU.
+    -> Main Tanaka hoon. (very formal introduction)
+
+  * Shoushou o-machi GOZAIMASU.
+    -> Thodi der rukiye. (hotel/shop level polite)
+
+  * Kono hou ga YOROSHII DESHOU KA?
+    -> Kya yeh theek rahega?
+
+  * Arigatou GOZAIMASU.
+    -> Bahut shukriya. (standard polite - everyone uses this)
+
+  * Ohayou GOZAIMASU.
+    -> Subah ki shubhkamnayein. (standard polite)
+
+----------------------------------------------------------------
+[KEY PATTERNS - SONKEIGO vs KENJOUGO COMPARISON]
+----------------------------------------------------------------
+
+SITUATION: Teacher ne khana khaya.
+  SONKEIGO: Sensei wa MESHIAGARIMASHITA. (respectful - teacher ka action)
+
+SITUATION: Main ne khana khaya (teacher ke saamne).
+  KENJOUGO: Watashi wa ITADAKIMASHITA. (humble - apna action)
+
+SITUATION: Teacher yahan hain.
+  SONKEIGO: Sensei wa koko ni IRASSHAIMASU.
+
+SITUATION: Main yahan hoon (teacher ke saamne).
+  KENJOUGO: Watashi wa koko ni ORIMASU.
+
+SITUATION: Teacher ne kaha.
+  SONKEIGO: Sensei wa sou OSSHAIMASHITA.
+
+SITUATION: Main ne kaha (report karte hue).
+  KENJOUGO: Watashi wa sou MOUSHIMASHITA.
+
+================================================================
+N4 COMPLETE GRAMMAR REVIEW - ALL 25 LESSONS
+================================================================
+
+LESSON 26: ~んです (n desu) - Explanation/Context
+  "Atama ga itai n desu" = Sar dard hai (explanation)
+
+LESSON 27: Potential Form - "Can do"
+  hanaseru, yomeru, dekiru
+
+LESSON 28: ~ながら / ~し~し / Past habits
+  "Ongaku wo kikinagara benkyou shimasu"
+
+LESSON 29: Transitive / Intransitive pairs
+  akeru/aku, shimeru/shimaru, tsukeru/tsuku
+
+LESSON 30: ~ておきます / ~ていきます / ~てきます
+  Preparation / Go doing / Come doing
+
+LESSON 31: Volitional + ~つもり / ~よてい
+  Ikou, ~to omotte imasu, tsumori desu
+
+LESSON 32: ~ほうがいい / ~でしょう / ~かもしれません
+  Advice / Probability / Possibility
+
+LESSON 33: Imperative & Prohibitive + ~なさい
+  Kake! / Kaku na! / Kinasai
+
+LESSON 34: ~とおりに / ~あとで / ~ないで
+  Just as / After / Without doing
+
+LESSON 35: ~ば Conditional
+  Ikeba, tabereba, yokereba (if)
+
+LESSON 36: ~ように / ~ようになる / ~ようにする
+  Goal / State change / Conscious effort
+
+LESSON 37: Passive Form (~rareru/~reru)
+  Homeraremashita, saremashita
+
+LESSON 38: Nominalization (~の)
+  No ga suki, no wo wasureta, no wa muzukashii
+
+LESSON 39: ~ので / ~のに / ~て(emotion)
+  Because (polite) / Despite / Cause->Emotion
+
+LESSON 40: Embedded Questions + ~てみる + Adj~さ
+  Itsu kuru ka, ka douka, tabete miru
+
+LESSON 41: ~てあげる / ~てくれる / ~てもらう
+  Do for others / Do for me / Receive benefit
+
+LESSON 42: ~ために / ~のに + Qty は/も
+  Purpose / Tool use / At least / As much as
+
+LESSON 43: ~そうです (appearance) + ~やすい/にくい
+  Looks like / Easy to / Hard to
+
+LESSON 44: ~すぎます / Adj+します / ~にします
+  Too much / Make [state] / Choose
+
+LESSON 45: ~たら Conditional
+  If/When/Surprise discovery
+
+LESSON 46: ~たところ / ~ているところ / ~るところ / ~たばかり
+  Just did / Doing now / About to / Recently
+
+LESSON 47: ~そうです (hearsay) / ~ようです / ~によると / ~がします
+  I heard / Seems (inference) / According to / Sense perception
+
+LESSON 48: Causative Form (~saseru)
+  Make/Let someone do something
+
+LESSON 49: Sonkeigo - Respectful Language
+  Irasshaimasu, meshiagarimasu, osshaimasu
+
+LESSON 50: Kenjougo + Teineigo - Humble & Polite
+  Mairimasu, itadakimasu, moushimasu, gozaimasu
+
+================================================================
+                     *** N4 COMPLETE! ***
+================================================================
+
+                  CONGRATULATIONS! OMEDETOU!
+
+  Tumne Minna no Nihongo II ke tamam 25 lessons complete kiye!
+  Lesson 26 se lekar Lesson 50 tak ka poora N4 curriculum
+  ab tumhare paas hai.
+
+  NEXT STEPS for N4 exam:
+  1. JLPT N4 practice tests lo
+  2. Vocabulary revision karo (total ~1500 words)
+  3. Listening practice karo (NHK Easy Japanese)
+  4. Grammar patterns roz practice karo
+  5. Minna no Nihongo workbook ke exercises karo
+
+  IMPORTANT N4 GRAMMAR POINTS to revise:
+  - Passive form (L37) - bahut important!
+  - ~ba, ~tara, ~to conditionals (L35, L45)
+  - Giving/receiving (L41) - particles ka fark
+  - Causative (L48) - ni vs wo
+  - ~sou desu dono (L43 vs L47) - stem vs plain
+
+  GAMBATTE KUDASAI! JLPT N4 PASS KARO!
+  Tum kar sakte ho!
+
+================================================================

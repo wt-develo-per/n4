@@ -1,0 +1,79 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 7: 製図 (Seizu - Technical Drawing) - Part 1
+================================================================
+
+Is chapter mein hum Technical Drawing (Engineering Drawing) padhenge. Factory mein product banane ke liye drawing ko theek se padhna aana chahiye. Isme hum Lines, Scale, aur Projection ke baare mein samjhenge.
+
+----------------------------------------------------------------
+【７．１】 図面の様式 (Zumen no youshiki - Format of Drawings)
+----------------------------------------------------------------
+
+【７．１．１】 製図用紙 (Seizu youshi - Drawing Paper)
+図面のサイズは、A列サイズ（A0、A1、A2、A3、A4）を優先して使います。
+Meaning: Drawing ke liye hamesha 'A' series ke paper (A0, A1, A2, A3, A4) use hote hain. (B series ya Letter size use nahi karte).
+図面は長辺を横方向に用います。
+Meaning: Drawing paper ko hamesha lamba (landscape) rakha jata hai. Sirf A4 size ko aap khada (portrait) rakh sakte hain.
+
+【７．１．２】 尺度 (Shakudo - Scale)
+対象物の実際の大きさと図面の中での大きさの比のことを尺度といいます。
+(Taishoubutsu no jissai no ookisa to zumen no naka de no ookisa no hi no koto wo shakudo to iimasu.)
+Meaning: Asli product aur drawing mein uski size ke ratio (anupat) ko Scale kehte hain.
+
+[Scale ke 3 types:]
+① 現尺 (Genshaku - Actual size): 
+Asli size aur drawing ka size bilkul barabar ho. Isko 1:1 likhte hain.
+② 倍尺 (Baishaku - Enlargement): 
+Chhoti cheez ko drawing mein bada karke banana. Isko X:1 likhte hain (Jaise 2:1 yaani 2 guna bada).
+③ 縮尺 (Shukushaku - Reduction): 
+Badi cheez ko drawing mein chhota karke banana. Isko 1:X likhte hain (Jaise 1:2 yaani aadha size).
+
+【７．１．３】 線 (Sen - Lines)
+（１）線の太さ (Line thickness)
+製図に使う線の太さは 3種類です。細線、太線、極太線と呼ばれます。それぞれ、1:2:4 の太さとします。
+Meaning: Drawing mein 3 tarah ki moti lines use hoti hain: Thin (Hososoi), Thick (Futoi), aur Extra Thick (Gokubutoi). Inka ratio 1:2:4 hota hai.
+
+（２）線の種類 (Types of lines)
+Kaun si line kiske liye use hoti hai, yeh exam ke liye bohut zaruri hai:
+
+・外形線 (Gaikeisen - Visible line): 太い実線 (Thick solid line). Jo part samne se dikh raha ho uski shape banane ke liye.
+・寸法線 / 寸法補助線 (Sunpousen - Dimension line): 細い実線 (Thin solid line). Size (lambai/chodai) likhne ke liye.
+・かくれ線 (Kakuresen - Hidden line): 破線 (Dashed line / cut-cut wali line). Jo part andar chupa ho aur samne se na dikh raha ho.
+・中心線 (Chuushinsen - Center line): 一点鎖線 (Dash-dot line). Circle ya symmetry (barabar hisso) ka center batane ke liye.
+・想像線 (Souzousen - Phantom line): 二点鎖線 (Dash-double-dot line). Koi part jab move hoke dusri jagah jayega, toh uski aage wali position batane ke liye.
+・破断線 (Hadansen - Break line): ジグザグ線 (Zig-zag line). Agar koi lamba part hai jisko kaat kar chota dikhana ho.
+・ハッチング (Hatchingu - Hatching): 断面図の切り口を示す。Kati hui surface (Cross-section) dikhane ke liye tirchi (diagonal) lines.
+
+【７．１．４】 文字 (Moji - Text)
+漢字の文字高さは、3.5mm、5mm、7mm、10mm の 4種類です。
+Meaning: Drawing mein Kanji ke size 4 tarah ke hote hain. (Alphabet/Numbers 5 tarah ke hote hain, 2.5mm se shuru).
+
+【７．１．５】 図面の種類 (Zumen no shurui - Types of Drawings)
+・部品図 (Buhin-zu): Ek single part banane ki drawing.
+・組立図 (Kumitate-zu): Parts ko aapas mein jodne (assemble karne) ki drawing.
+・配置図 (Haichi-zu): Machine ko kahan rakhna hai (layout/installation) uski drawing.
+
+
+----------------------------------------------------------------
+【７．２】 図形の表し方 (Zukei no arawashikata - How to draw shapes)
+----------------------------------------------------------------
+
+【７．２．１】 第三角法 (Dai-sankaku-hou - Third-Angle Projection)
+日本の機械製図は「第三角法」で描くことが JIS で定められています。
+Meaning: Japan mein mechanical drawing hamesha "Third-Angle Projection" se banai jati hai. 
+Iska rule hai:
+- 正面図 (Shoumen-zu - Front view): Samne ka view center mein hota hai.
+- 平面図 (Heimen-zu - Top view): Upar se dekha gaya view Front view ke UPAR (うえ) banate hain.
+- 右側面図 (Migi sokumen-zu - Right side view): Right side se dekha gaya view Front view ke RIGHT (みぎ) mein banate hain.
+
+【７．２．２】 正面図 (Shoumen-zu - Front View)
+形状や機能が一番わかりやすい投影図を、正面図（主投影図）といいます。
+Meaning: Product ki shape aur function jahan se sabse achi tarah samajh aaye, usko Front view (Main view) mante hain. Front view ko dekhkar hi baaki views banaye jate hain.
+
+【７．２．３】 断面図 (Danmen-zu - Cross-sectional View)
+対象物を仮に切断して手前を取り除いた図面を、断面図と呼びます。
+Meaning: Kisi cheez ko andar se kaisa dikhta hai, yeh dikhane ke liye usko kaat kar (cross-section) banaya jata hai.
+- Kati hui surface par tirchi lines mari jati hain jisko "ハッチング (Hatching)" kehte hain.
+- 隠れ線（かくれせん - Hidden lines）ka kam se kam use karne ke liye hum Danmen-zu (cross-section) ka use karte hain, kyunki andar ka hissa direct dikh jata hai.
+
+================================================================

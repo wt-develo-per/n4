@@ -1,0 +1,248 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 35 (N4)
+   Topic: ~ば Conditional Form (Agar... to...)
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ~ba (eba) conditional form:
+-> "Agar X ho to Y hoga" wali condition batana
+-> Natural results / General truths / Advice
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~ば FORM CONJUGATION (~ba / ~eba)
+   -> Conditional: "Agar... to..."
+----------------------------------------------------------------
+
+GROUP 1 (u-verbs): Last -u -> -eba
+  kaku   -> kak-EBA    (likhe to)
+  nomu   -> nom-EBA    (peeye to)
+  hanasu -> hanas-EBA  (bole to)
+  matsu  -> mat-EBA    (intezaar kare to)
+  iku    -> ik-EBA     (jaaye to)
+  yomu   -> yom-EBA    (padhe to)
+  oyogu  -> oyog-EBA   (taire to)
+  kaeru  -> kaer-EBA   (waapis jaaye to)
+
+GROUP 2 (ru-verbs): -ru -> -reba
+  taberu -> tabe-REBA  (khaye to)
+  miru   -> mi-REBA    (dekhe to)
+  neru   -> ne-REBA    (soye to)
+  okiru  -> oki-REBA   (uthe to)
+
+GROUP 3 (Irregular):
+  suru   -> SUREBA     (kare to)
+  kuru   -> KUREBA     (aaye to)
+
+i-ADJECTIVES: -i -> -kereba
+  yasui    -> yasu-KEREBA  (sasta ho to)
+  ookii    -> ooki-KEREBA  (bada ho to)
+  tanoshii -> tanoshi-KEREBA (maza aaye to)
+  ii       -> YOKEREBA     (achha ho to) [irregular!]
+
+na-ADJECTIVES / NOUNS: + nara (ba)
+  hima (na)  -> hima NARA (BA)     (fursat ho to)
+  byouki (na)-> byouki NARA (BA)   (bimaar ho to)
+  gakusei    -> gakusei NARA (BA)  (student ho to)
+
+NEGATIVE ~ba:
+  Verb nai form -> nakereba
+  ikanai -> ika-NAKEREBA (na jaaye to)
+  tabenai -> tabe-NAKEREBA (na khaye to)
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~ばいいですか (~ba ii desu ka)
+   -> Advice/Instructions maangna: "Kya karun?"
+   -> "Kya karna chahiye?" / "Kaise karun?"
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Verb ba-form] + ii desu ka?
+
+EXAMPLES:
+  * Dou sureba ii desu ka?
+    -> Kya karun? / Kaise karun?
+
+  * Doko ni ikeba ii desu ka?
+    -> Kahan jaun?
+
+  * Nani wo tabereba ii desu ka?
+    -> Kya khaun?
+
+  * Donna hon wo yomeba ii desu ka?
+    -> Kaisi kitaab padhuun?
+
+  * Isha ni ikeba ii desu ka?
+    -> Doctor ke paas jaun kya?
+
+ANSWER PATTERNS:
+  Q: Kaze wo hiita n desu ga, dou sureba ii desu ka?
+     -> Zukaam hua hai, kya karun?
+
+  A: Kusuri wo nonde, hayaku neba ii desu yo.
+     -> Dawai lo aur jaldi so jao.
+
+  A: Isha ni itta hou ga ii desu yo.
+     -> Doctor ke paas jana chahiye.
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~ば USES
+----------------------------------------------------------------
+
+USE 1 - Natural Consequence / General Truth
+  * Haru ni nareba, hana ga sakimasu.
+    -> Basant aaye to phool khilenge
+
+  * Botan wo oseba, doa ga akimasu.
+    -> Button dabaaye to darwaza khul jaayega.
+
+  * Migi ni magare ba, eki ga arimasu.
+    -> Daayein muro to station hai.
+
+USE 2 - Advice / Recommendation (ii desu ke saath)
+  * Motto benkyou sureba, jouzu ni narimasu yo.
+    -> Zyada padho to acha ho jaayega.
+
+  * Hayaku okire ba, daijoubu desu.
+    -> Jaldi utho to theek rahega.
+
+USE 3 - Condition for something ideal
+  * Okane ga areba, ryokou shitai desu.
+    -> Paisa hota to trip karta/karti.
+
+  * Jikan ga areba, ikimasu.
+    -> Agar waqt ho to jaunga.
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~なら (~nara)
+   -> Topic-based conditional: "Agar X ki baat ho to..."
+   -> Speaker listens and RESPONDS based on what was said
+----------------------------------------------------------------
+
+EXAMPLES:
+  * Nihon e iku nara, pasupoto ga hitsuyou desu.
+    -> Agar Japan jaana hai to passport chahiye.
+
+  * Ryokou suru nara, yoyaku shite okimasu.
+    -> Agar trip karna hai to pehle se book kar lo.
+
+  * Sore nara, daijoubu desu.
+    -> Agar aisa hai to theek hai.
+
+  * Yasuku naru nara, kaimasu.
+    -> Agar sasta ho to kharidega.
+
+BA vs NARA DIFFERENCE:
+  ~ba = General condition / Natural result (agar to)
+  ~nara = Topic-based (dusre ki baat sun ke response)
+
+  "Yasukere ba kaimasu" = Agar sasta hoga to kharidega (general)
+  "Yasui nara kaimasu" = (Tumne kaha sasta hai) To main kharida lunga
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 35]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  咲きます           | sakimasu          | Khilna (phool)
+  変わります          | kawarimasu        | Badalna
+  困ります           | komarimasu        | Mushkil mein padhna
+  付けます [印]       | tsukemasu         | Nishaan lagana
+  拾います           | hiroimasu         | Uthana (zameen se)
+  かかります          | kakarimasu        | Lagana (phone mein)
+  楽（な）           | raku (na)         | Aasaan / Aaram deh
+  正しい            | tadashii          | Sahi / Correct
+  珍しい            | mezurashii        | Nadrat / Rare
+  方               | kata              | Zaat (respectful - insaan)
+  向こう            | mukou             | Us taraf / Over there
+  島               | shima             | Tapu / Island
+  港               | minato            | Bandar / Port
+  近所              | kinjo             | Mahalla / Neighborhood
+  屋上              | okujou            | Chhath / Rooftop
+  海外              | kaigai            | Videsh / Overseas
+  山登り            | yamanobori        | Pahad chadna / Climbing
+  ハイキング          | haikingu          | Hiking
+  機会              | kikai             | Mauka / Opportunity
+  許可              | kyoka             | Ijazat / Permission
+  方法              | houhou            | Tarika / Method
+  設備              | setsubi           | Suvidhayen / Facilities
+  カーテン           | kaaten            | Parda / Curtain
+  ひも              | himo              | Dhaga / String
+  ふた              | futa              | Dhakna / Lid
+  葉               | ha                | Patta / Leaf
+  楽しみ            | tanoshimi         | Khushi / Pleasure
+  詳しい            | kuwashii          | Vistrit / Detailed
+  もっと            | motto             | Aur zyada / More
+  それなら           | sorenara          | Agar aisa hai to / Then
+  夜行バス           | yakoubasu         | Raat ki bus / Night bus
+  旅行社            | ryokousha         | Travel agency
+
+----------------------------------------------------------------
+[~BA FORM - QUICK REFERENCE TABLE]
+----------------------------------------------------------------
+
+  Dictionary  | Ba-form      | Meaning
+  ------------|-------------|--------------------
+  kaku        | kakeba       | Likhe to
+  nomu        | nomeba       | Peeye to
+  iku         | ikeba        | Jaaye to
+  taberu      | tabereba     | Khaye to
+  miru        | mireba       | Dekhe to
+  suru        | sureba       | Kare to
+  kuru        | kureba       | Aaye to
+  yasui (adj) | yasukereba   | Sasta ho to
+  ii (adj)    | yokereba     | Achha ho to
+  hima (na)   | hima nara    | Fursat ho to
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Agar waqt ho to Japan jaaunga.
+   -> _______________________________________________
+
+2. Kya karun? (Dou sureba ii desu ka?)
+   -> _______________________________________________
+
+3. Agar Japan jaana hai to passport chahiye.
+   -> _______________________________________________
+
+4. Button dabaayo to darwaza khul jaata hai.
+   -> _______________________________________________
+
+5. Agar sasta ho to kharida lunga.
+   -> _______________________________________________
+
+ANSWERS:
+1. Jikan ga areba, Nihon ni ikimasu.
+2. Dou sureba ii desu ka?
+3. Nihon e iku nara, pasupoto ga hitsuyou desu.
+4. Botan wo oseba, doa ga akimasu.
+5. Yasukereba, kaimasu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 35]
+----------------------------------------------------------------
+
+* BA form conjugation yaad rakho:
+  G1: -u -> -eba  (kaku -> kakeba)
+  G2: -ru -> -reba (taberu -> tabereba)
+  G3: suru -> sureba / kuru -> kureba
+  i-adj: -i -> -kereba (yasui -> yasukereba)
+  "ii" -> yokereba (IRREGULAR! yaad rakho)
+
+* ~ba ii desu ka = Common N4 question pattern
+  "Dou sureba ii desu ka?" = Ye sentence bahut important hai!
+
+* ~nara = Topic-based, kisi ki baat ke response mein
+  Ba form = Pure conditional (natural result)
+
+* ~ba form ke baad PAST tense nahi aata (generally)
+  Ba form = present/future condition ke liye
+
+* "Sorenara" = "In that case" - conversation mein use hota hai
+
+================================================================
+                    LESSON 35 - COMPLETE
+             Next: Lesson 36 -> ~ように (Aiming for a state)
+================================================================

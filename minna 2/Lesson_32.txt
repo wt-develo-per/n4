@@ -1,0 +1,204 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 32 (N4)
+   Topic: ~ほうがいいです / ~でしょう / ~かもしれません
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. Salah dena: ~ほうがいいです (You should...)
+2. Zyada certainty: ~でしょう (It will probably...)
+3. Kam certainty: ~かもしれません (It might...)
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~ほうがいいです (~hou ga ii desu)
+   -> Salah / Advice dena: "...karna chahiye"
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (ta-form) + hou ga ii desu      [positive advice]
+  Verb (nai-form) + hou ga ii desu     [negative advice]
+
+POSITIVE ADVICE (Karna chahiye):
+  * Mainichi benkyou SHITA hou ga ii desu.
+    -> Roz padhna chahiye.
+
+  * Hayaku neta hou ga ii desu.
+    -> Jaldi sona chahiye.
+
+  * Isha ni itta hou ga ii desu.
+    -> Doctor ke paas jaana chahiye.
+
+  * Motto yasai wo tabeta hou ga ii desu.
+    -> Zyada sabziyan khani chahiye.
+
+NEGATIVE ADVICE (Nahi karna chahiye):
+  * Tabako wo SUWANAI hou ga ii desu.
+    -> Cigarette nahi peeni chahiye.
+
+  * Osake wo nomanai hou ga ii desu.
+    -> Sharaab nahi peeni chahiye.
+
+  * Amari okashi wo tabenai hou ga ii desu.
+    -> Zyada meetha nahi khana chahiye.
+
+  * Muri wo shinai hou ga ii desu.
+    -> Apne aap par zyada pressure mat daalo.
+
+CONVERSATION:
+  Q: Atama ga itai n desu ga...
+     -> Sar dard hai...
+
+  A: Kusuri wo nonda hou ga ii desu yo.
+     -> Dawai leni chahiye.
+
+  A: Hayaku neta hou ga ii desu.
+     -> Jaldi so jaana chahiye.
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~でしょう (~deshou)
+   -> Zyada certainty ke saath ANDAAZA lagana
+   -> "Shayad... hoga" (80-90% sure)
+   -> Tabun (probably) / Kitto (surely) ke saath aata hai
+----------------------------------------------------------------
+
+STRUCTURE:
+  Plain form + deshou
+  [na-adj / Noun + deshou]
+
+EXAMPLES:
+  * Tabun ame ga furu deshou.
+    -> Shayad baarish hogi.
+
+  * Kitto kuru deshou.
+    -> Zaroor aayega/aayegi.
+
+  * Ashita wa ii tenki deshou.
+    -> Kal achha mausam hoga (probably).
+
+  * Kare wa ima isogashii deshou.
+    -> Woh ab busy hoga.
+
+  * Sore wa muzukashii deshou.
+    -> Woh mushkil hoga (I think).
+
+QUESTION FORM (~deshou ka):
+  * Kono shigoto wa ii deshou ka?
+    -> Kya yeh kaam achha hoga?
+  
+  * Naze deshou ka?
+    -> Aaakhir kyun hoga?
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~かもしれません (~kamo shiremasen)
+   -> Kam certainty ke saath possibility batana
+   -> "Hoga bhi sakta hai / shayad" (50% chance)
+   -> Plain form ke saath aata hai
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (plain) + kamo shiremasen
+  i-Adj (plain) + kamo shiremasen
+  na-Adj / Noun + kamo shiremasen  [na hatao, da hatao]
+
+EXAMPLES:
+  * Ame ga furu kamo shiremasen.
+    -> Baarish ho bhi sakti hai.
+
+  * Kare wa kona kamo shiremasen.
+    -> Woh aa bhi na sake.
+
+  * Sono kotae wa tadashii kamo shiremasen.
+    -> Woh jawab sahi bhi ho sakta hai.
+
+  * Kare wa byouki kamo shiremasen.
+    -> Woh bimaar bhi ho sakta hai.
+
+  * Ashita wa hima kamo shiremasen.
+    -> Kal free bhi ho sakta/sakti hoon.
+
+CERTAINTY COMPARISON:
+  ----------------------------------------
+  kitto + deshou    = Zaroor hoga (90%)
+  tabun + deshou    = Shayad hoga (70-80%)
+  kamo shiremasen   = Ho sakta hai (50%)
+  ----------------------------------------
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 32]
+----------------------------------------------------------------
+
+  Japanese        | Romaji          | Hindi Meaning
+  ----------------|----------------|----------------------
+  運動します        | undou shimasu   | Kasrat karna / Exercise
+  成功します        | seikou shimasu  | Kamyaab hona / Succeed
+  失敗します        | shippai shimasu | Naakam hona / Fail
+  合格します        | goukaku shimasu | Pass karna (exam)
+  戻ります         | modorimasu      | Waapis aana / Return
+  止みます         | yamimasu        | Rukna (baarish)
+  晴れます         | haremasu        | Saaf hona (mausam)
+  曇ります         | kumorimasu      | Baadal chhaana
+  吹きます         | fukimasu        | Chalna (hawa)
+  治ります         | naorimasu       | Theek hona (bimari)
+  続きます         | tsuzukimasu     | Jaari rehna
+  引きます [風邪]   | hikimasu        | Lagana (zukaam)
+  冷やします        | hiyashimasu     | Thanda karna
+  十分（な）        | juubun (na)     | Kaafi / Poora
+  おかしい         | okashii         | Ajeeb / Funny
+  うるさい         | urusai          | Shor wala / Noisy
+  やけど           | yakedo          | Jalana (chot)
+  けが            | kega            | Chot / Injury
+  太陽            | taiyou          | Suraj / Sun
+  星              | hoshi           | Taara / Star
+  月              | tsuki           | Chaand / Moon
+  風              | kaze            | Hawa / Wind
+  今夜            | konya           | Aaj raat / Tonight
+  夕方            | yuugata         | Shaam / Evening
+  もしかしたら      | moshikashitara  | Shayad / Possibly
+  たぶん           | tabun           | Shayad / Probably
+  きっと           | kitto           | Zaroor / Surely
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Zukaam hai to doctor ke paas jaana chahiye.
+   -> _______________________________________________
+
+2. Kal shayad baarish hogi. (tabun + deshou)
+   -> _______________________________________________
+
+3. Woh aa bhi na sake. (kamo shiremasen)
+   -> _______________________________________________
+
+4. Raat ko late nahi sona chahiye.
+   -> _______________________________________________
+
+ANSWERS:
+1. Kaze wo hiita nara, isha ni itta hou ga ii desu.
+2. Ashita wa tabun ame ga furu deshou.
+3. Kare wa konai kamo shiremasen.
+4. Yoru osoku nenai hou ga ii desu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 32]
+----------------------------------------------------------------
+
+* hou ga ii desu ke saath:
+  POSITIVE -> TA form (shita / itta / tabeta)
+  NEGATIVE -> NAI form (shinai / ikanai / tabenai)
+
+* deshou vs kamo shiremasen:
+  deshou = Speaker zyada sure hai (high probability)
+  kamo shiremasen = Speaker kam sure hai (maybe)
+
+* na-adj/noun ke saath kamo shiremasen:
+  X: hima DA kamo shiremasen -> GALAT
+  OK: hima kamo shiremasen -> SAHI (da hatao)
+  OK: byouki kamo shiremasen -> SAHI (da hatao)
+
+* Moshikashitara = "possibly" - kamo shiremasen ke saath use hota hai
+
+================================================================
+                    LESSON 32 - COMPLETE
+            Next: Lesson 33 -> Imperative & Prohibitive Forms
+================================================================

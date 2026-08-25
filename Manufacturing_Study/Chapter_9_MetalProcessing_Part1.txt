@@ -1,0 +1,76 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 9: 金属材料、金属加工 (Kinzoku zairyou, Kinzoku kakou - Metal Materials & Metal Processing) - Part 1
+================================================================
+
+Yeh chapter "Machining and Metal Processing" exam ke liye SABSE IMPORTANT chapter hai. Isme hum padhenge ki metals kya hote hain, unki properties kya hain, aur unhe kaise heat (garam) karke unki taqat badhai jati hai.
+
+----------------------------------------------------------------
+【９．１】 金属材料の性質と特性 (Properties & Characteristics of Metals)
+----------------------------------------------------------------
+
+【９．１．１】 金属の基本的な物理的性質 (Basic Physical Properties)
+Metals mein kuch aisi properties hoti hain jo plastic ya lakdi mein nahi hoti:
+
+① 光沢 (Koutaku - Luster/Shine): 
+多くの金属は、表面がピカピカと光る「光沢」を持っています。
+Meaning: Metals par light padhne se woh chamakte hain. Is chamak ko 'Koutaku' kehte hain.
+
+② 密度 (Mitsudo - Density): 
+単位体積あたりの質量を示す物理量であり、材料の「軽さ」や「重さ」を表す指標です。
+Meaning: Kon sa metal kitna bhari hai. (Iron ki density 7.87 hai, aur Aluminum ki 2.70 hai, isliye Aluminum lohe se halka hota hai).
+
+③ 熱伝導率 (Netsudendouritsu - Thermal Conductivity): 
+材料が熱をどれだけ効率的に伝えるかを示す性質です。
+Meaning: Heat (garmi) pass hone ki speed. Copper (Tamba) mein heat bahut jaldi pass hoti hai, isliye iska use frying pans aur heat sinks (garmi nikalne wale parts) mein hota hai.
+
+④ 通電性 (Tsuudensei - Electrical Conductivity): 
+材料がどれだけ電気を通しやすいかを示す性質です。銀(Silver) sabse acha conductor hai, par mehenga hone ki wajah se Copper (Tamba) ka use zyada hota hai.
+
+⑤ 融点 (Yuuten - Melting Point): 
+物質が固体から液体に変化する温度であり、金属の種類によって大きく異なります。
+Meaning: Kis temperature par metal pighal kar paani (liquid) ban jayega. 
+- Tungsten (タングステン) ki melting point sabse high hoti hai (3,422℃), isliye bulb ke filament mein use hota hai.
+- Tin (スズ - 231℃) aur Lead (鉛 - 327℃) ki melting point bahut low hoti hai, isliye inka mixture "Solder (はんだ)" banane mein use hota hai.
+
+
+【９．１．２】 機械的性質と評価 (Mechanical Properties)
+① 弾性 (Dansei - Elasticity): 
+材料に力を加えたときの変形が、力を緩めると元に戻る機械的性質です。
+Meaning: Rubber band (Rubber) ki tarah khinchne par lamba hona aur force hatane par wapas apni shape mein aa jana.
+
+② 塑性 (Sosei - Plasticity): 
+力を加えると変形し、力を取り除いても元の形に戻らず、その変形した形を保つ性質です。
+Meaning: Clay (Mitti) ki tarah jisko dabane par woh waisi hi shape le leta hai aur wapas theek nahi hota. Press machines isi property ka use karti hain.
+
+③ 硬さ (Katasa - Hardness): 
+材料の表面が外部からの力に対してどれだけ傷つきにくいかを示す性質です。
+Meaning: Metal ki surface kitni hard hai ki uspar jaldi scratch na pade.
+
+
+【９．１．３】 材料の組織と熱処理 (Material Structure & Heat Treatment)
+
+（１）熱処理 (Netsushori - Heat Treatment)
+熱処理とは、金属を加熱したり、冷却したりすることで、その性質を変える技術です。
+(Netsushori to wa, kinzoku wo kanetsu shitari, reikyakushitari suru koto de, sono seishitsu wo kaeru gijutsu desu.)
+Meaning: Metal ko bahut zyada garam karke aur phir thanda karke uski Hardness (katasa) ya Toughness (nebarizuyosa) badhane ki technique ko "Heat Treatment" kehte hain.
+
+[Heat Treatment ke 4 Types] - EXAM MEIN ZAROOR AATA HAI!
+
+① 焼入れ (Yaki-ire - Quenching): 
+金属を高い温度まで加熱し、水や油などで急に冷やすことで、非常に硬くする処理です。
+Meaning: Metal ko bahut garam karke achanak pani ya tel mein daal kar thanda (kyuu ni hiyasu) karna. Is-se metal BAHUT HARD ho jata hai. (Chaku / Blades banane ke liye use hota hai).
+
+② 焼戻し (Yaki-modoshi - Tempering): 
+焼入れで硬くなりすぎた金属を、再び少し低い温度で加熱して、粘り強さを回復させる処理です。
+Meaning: Yaki-ire karne se metal hard toh ho jata hai par brittle (jaldi tootne wala) ho jata hai. Isliye usko wapas thoda sa garam karke usme "Toughness" (nebarizuyosa) daali jati hai.
+
+③ 焼なまし (Yaki-namashi - Annealing): 
+金属を高温に加熱してゆっくりと冷ますことで、柔らかくして加工しやすくしたりする処理です。
+Meaning: Metal ko garam karke "Hole-hole (yukkuri)" thanda karna jisse metal SOFT (yawaraka) ho jaye aur uspar machine se kaam karna aasaan ho jaye.
+
+④ 表面硬化 (Hyoumen kouka - Surface Hardening): 
+材料の表面だけを硬くする処理です。
+Meaning: Sirf metal ki bahar ki layer ko hard karna. Andar se woh tough (nebarizuyoi) rehta hai taki tute na, aur bahar se hard rehta hai taki scratch na pade.
+
+================================================================

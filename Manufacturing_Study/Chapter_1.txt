@@ -1,0 +1,265 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 1: 試験の概要と学び方 (Exam ka Overview aur Padhne ka Tarika)
+================================================================
+
+Yeh document aapko SSW (Specified Skilled Worker) Manufacturing exam ke Chapter 1 ko line-by-line samajhne mein madad karega. Har sentence ka word-by-word meaning aur overall Hinglish translation diya gaya hai.
+
+----------------------------------------------------------------
+【１．１】試験の概要（2025年11月時点）
+(Shiken no gaiyou - 2025 nen 11 gatsu jiten)
+----------------------------------------------------------------
+[Vocabulary]
+・試験 (shiken) = Exam / Test
+・概要 (gaiyou) = Overview / Summary
+・時点 (jiten) = Us waqt tak / As of
+
+[Meaning] 
+Exam ka Overview (November 2025 tak ki jankari ke anusar)
+
+---
+
+[JAPANESE SENTENCE 1]
+１号特定技能外国人は「相当程度の知識または経験を必要とする技能」を有していることが求められます。
+(Ichigou tokutei ginou gaikokujin wa "soutou teido no chishiki mata wa keiken wo hitsuyou to suru ginou" wo yuushite iru koto ga motomeraremasu.)
+
+[Word-by-Word]
+・１号特定技能外国人 (Ichigou tokutei ginou gaikokujin) = SSW No. 1 Foreign worker
+・相当程度 (soutou teido) = Achhi khasi hadd tak / Appropriate level
+・知識 (chishiki) = Knowledge
+・または (mata wa) = Ya / Or
+・経験 (keiken) = Experience
+・必要とする (hitsuyou to suru) = Zaroorat hoti hai
+・技能 (ginou) = Skills
+・有している (yuushite iru) = Paas hona / Possess
+・求められます (motomeraremasu) = Umeed ki jati hai / Required
+
+[Overall Meaning]
+SSW No. 1 foreign workers se umeed ki jati hai ki unke paas "aisi skills hon jiske liye achhi khasi knowledge ya experience ki zaroorat hoti hai".
+
+---
+
+[JAPANESE SENTENCE 2]
+製造分野特定技能１号評価試験は、当該技能水準を確認するための試験です。
+(Seizou bunya tokutei ginou ichigou hyouka shiken wa, tougai ginou suijun wo kakunin suru tame no shiken desu.)
+
+[Word-by-Word]
+・製造分野 (seizou bunya) = Manufacturing field
+・評価試験 (hyouka shiken) = Evaluation exam
+・当該 (tougai) = Us specific / Said (us cheez ki)
+・技能水準 (ginou suijun) = Skill level
+・確認するため (kakunin suru tame) = Confirm karne ke liye
+
+[Overall Meaning]
+Manufacturing field SSW No. 1 evaluation exam, us skill level ko confirm karne ke liye ek exam hai.
+
+
+----------------------------------------------------------------
+【１．１．１】 試験の内容
+(Shiken no naiyou - Exam ki details)
+----------------------------------------------------------------
+Yahan par table (表１－１) di gayi hai jisme exam ka pattern samjhaya gaya hai.
+
+・試験水準 (Shiken suijun) = Exam ka Level
+特定技能１号の試験免除となる技能実習２号修了者が受験する技能検定３級試験程度を基準とする。
+(Tokutei ginou ichigou no shiken menjo to naru ginou jisshuu nigou shuuryousha ga juken suru ginou kentei sankyuu shiken teido wo kijun to suru.)
+Meaning: Exam ka level "Ginou Kentei Level 3" (Skill Test Grade 3) ke barabar hoga, jo Technical Intern Training No. 2 (Ginou Jisshuu) pass karne walo ke level ka hota hai.
+
+・実施方式 (Jisshi houshiki) = Conduct karne ka tarika
+CBT（コンピューター・ベースド・テスティング）方式 (Computer-Based Testing houshiki)
+Meaning: Exam Computer par hoga (CBT format).
+
+・学科試験 (Gakka shiken) = Written/Academic Test
+問題文の内容が正しいか間違っているかを選ぶ問題。
+(Mondaibun no naiyou ga tadashii ka machigatte iru ka wo erabu mondai.)
+Meaning: Written test mein aisi questions honge jahan aapko chunna hoga ki sentence Sahi (True/A) hai ya Galat (False/B).
+
+・実技試験 (Jitsugi shiken) = Practical Test
+実際の作業工程や材料に関連する内容を読んで、正しい答えを４つの選択肢の中から選ぶ問題。
+(Jissai no sagyou koutei ya zairyou ni kanren suru naiyou wo yonde, tadashii kotae wo yottsu no sentakushi no naka kara erabu mondai.)
+Meaning: Practical test mein asli factory work ya materials se judi details padh kar, 4 options (A,B,C,D) mein se sahi answer chunna hoga.
+
+・問題数 (Mondaisuu) = Number of questions
+学科試験：30問 (Gakka shiken: 30 mon) = Written: 30 Qs.
+実技試験：10問 (Jitsugi shiken: 10 mon) = Practical: 10 Qs.
+
+・試験時間 (Shiken jikan) = Exam Time
+あわせて 80分 (Awasete 80 pun) = Dono milakar 80 minutes.
+
+・合格基準 (Goukaku kijun) = Pass hone ka criteria
+学科試験：正答率65％以上 (Seitouritsu 65% ijou) = Written mein 65% se zyada aane chahiye.
+実技試験：正答率60％以上 (Seitouritsu 60% ijou) = Practical mein 60% se zyada aane chahiye.
+
+・言語 (Gengo) = Language
+日本語 ※漢字にはふりがな（ルビ）が付く
+(Nihongo *Kanji ni wa furigana (rubi) ga tsuku)
+Meaning: Language Japanese hogi. Kanji ke upar furigana (rubi) likha hoga (jisse padhna aasaan ho).
+
+・受験資格 (Juken shikaku) = Eligibility to take the exam
+原則として、試験日当日において満17歳以上の外国人で、試験に合格した場合に日本国内で就業する意思のある者。
+(Gensoku to shite, shikenbi toujitsu ni oite man 17 sai ijou no gaikokujin de, shiken ni goukaku shita baai ni nihon kokunai de shuugyou suru ishi no aru mono.)
+Meaning: Basic rule ke hisaab se, exam wale din 17 saal se zyada umar ka foreigner hona chahiye (Indonesia ke liye 18 saal), aur paas hone par Japan mein kaam karne ki iccha (ishi) honi chahiye.
+
+
+----------------------------------------------------------------
+【１．１．２】 機械金属加工区分に含まれる技能
+(Kikai kinzoku kakou kubun ni fukumareru ginou)
+----------------------------------------------------------------
+[Meaning] Machining and Metal Processing category mein aane wali skills:
+
+・鋳造 (chuuzou) = Casting (Metal pigla kar mold mein dalna)
+・鍛造 (tanzou) = Forging (Metal ko peet kar shape dena)
+・ダイカスト (daikasuto) = Die casting
+・機械加工 (kikai kakou) = Machining
+・金属プレス加工 (kinzoku puresu kakou) = Metal press processing
+・鉄工 (tekkou) = Ironwork
+・工場板金 (koujou bankin) = Factory sheet metal work
+・仕上げ (shiage) = Finishing
+・プラスチック成形 (purasuchikku seikei) = Plastic molding
+・機械検査 (kikai kensa) = Machine inspection
+・機械保全 (kikai hozen) = Machine maintenance
+・電気機器組立て (denki kiki kumitate) = Electrical equipment assembly
+・塗装 (tosou) = Painting
+・溶接 (yousetsu) = Welding
+・工業包装 (kougyou housou) = Industrial packaging
+・金属熱処理 (kinzoku netsushori) = Metal heat treatment
+・強化プラスチック成形 (kyouka purasuchikku seikei) = Reinforced plastic molding
+
+
+----------------------------------------------------------------
+【１．１．３】 受験時の注意事項
+(Jukenji no chuui jikou - Exam dete waqt dhyaan rakhne wali baatein)
+----------------------------------------------------------------
+
+（１）問題・解答の持ち出し・共有は禁止
+(Mondai - Kaitou no mochidashi - kyouyuu wa kinshi)
+Meaning: Questions aur Answers ko bahar le jana aur share karna Mana (Kinshi) hai.
+
+[JAPANESE SENTENCE 3]
+試験で出題された問題やその解答を何らかの方法で持ち出すこと、SNSやその他の手段で共有することは一切禁止されています。
+(Shiken de shutsudai sareta mondai ya sono kaitou wo nanraka no houhou de mochidasu koto, SNS ya sonota no shudan de kyouyuu suru koto wa issai kinshi sarete imasu.)
+
+[Word-by-Word]
+・出題された (shutsudai sareta) = Exam mein diye gaye (Questions)
+・何らかの方法で (nanraka no houhou de) = Kisi bhi tarah se
+・持ち出す (mochidasu) = Bahar le jana (Take out)
+・共有する (kyouyuu suru) = Share karna
+・一切禁止 (issai kinshi) = Puri tarah se sakht mana hai
+
+[Overall Meaning]
+Exam mein aaye questions ya answers ko kisi bhi tarike se bahar le jana, ya SNS wagera par share karna puri tarah mana hai.
+
+---
+
+（２）セキュリテイ対策
+(Sekyuritei taisaku)
+Meaning: Security Measures
+
+[JAPANESE SENTENCE 4]
+試験会場には、監視カメラや監督者が配置されています。
+(Shiken kaijou ni wa, kanshi kamera ya kantokusha ga haichi sarete imasu.)
+
+[Word-by-Word]
+・監視 (kanshi) = Surveillance (CCTV)
+・監督者 (kantokusha) = Supervisor / Invigilator
+・配置されています (haichi sarete imasu) = Tainat kiye gaye hain (Placed/Stationed)
+
+[Overall Meaning]
+Exam hall mein CCTV cameras aur supervisors lagaye gaye hain.
+
+[JAPANESE SENTENCE 5]
+疑わしい行動をとった場合、即時に発見されます。
+(Utagawashii koudou wo totta baai, sokuji ni hakken saremasu.)
+
+[Word-by-Word]
+・疑わしい (utagawashii) = Shak bhara / Suspicious
+・行動 (koudou) = Behavior / Harkat
+・即時に (sokuji ni) = Turant / Immediately
+・発見されます (hakken saremasu) = Pakde jayenge / Discovered
+
+[Overall Meaning]
+Agar aapne koi shak wali harkat (cheating) ki, toh turant pakde jayenge.
+
+---
+
+（３）不正行為への対応
+(Fusei koui e no taiou)
+Meaning: Response to Malpractice (Cheating)
+
+[JAPANESE SENTENCE 6]
+必要に応じて厳しい措置がとられます。
+(Hitsuyou ni oujite kibishii sochi ga toraremasu.)
+
+[Word-by-Word]
+・必要に応じて (hitsuyou ni oujite) = Zaroorat padne par
+・厳しい (kibishii) = Sakht / Strict
+・措置 (sochi) = Action / Measures
+
+[Overall Meaning]
+Zaroorat padne par sakht action liya jayega.
+
+措置の例 (Sochi no rei - Actions ke example):
+・将来にわたる受験資格の剥奪 (Shourai ni wataru juken shikaku no hakudatsu)
+= Future mein exam dene ki eligibility chheen li jayegi.
+・出入国在留管理庁への通報等 (Shutsunyuukoku zairyuu kanrichou e no tsuuhou tou)
+= Immigration office ko report kar diya jayega.
+
+
+----------------------------------------------------------------
+【１．２】 学習する上での注意事項
+(Gakushuu suru ue de no chuui jikou - Padhai karte waqt dhyan rakhne wali baatein)
+----------------------------------------------------------------
+
+（１）本書の内容が分かるよう、日本語の勉強をしてください。
+(Honsho no naiyou ga wakaru you, nihongo no benkyou wo shite kudasai.)
+Meaning: Is book ka content samajh mein aaye, isliye Japanese ki padhai karein.
+
+[JAPANESE SENTENCE 7]
+試験は、本書のような日本語で書かれています。
+(Shiken wa, honsho no you na nihongo de kakarete imasu.)
+Meaning: Exam mein bilkul is book jaisi hi Japanese aayegi.
+
+（２）職場の上司や同僚などに質問してください。
+(Shokuba no joushi ya douryou nado ni shitsumon shite kudasai.)
+Meaning: Apne workplace ke boss (joushi) aur colleagues (douryou) se questions puchiye.
+
+[JAPANESE SENTENCE 8]
+本書には、技能についての専門的な言葉が数多く出てきます。
+(Honsho ni wa, ginou ni tsuite no senmonteki na kotoba ga kazuooku dete kimasu.)
+
+[Word-by-Word]
+・専門的な言葉 (senmonteki na kotoba) = Professional/Technical words
+・数多く (kazuooku) = Bahut saari tadaad mein
+
+[Overall Meaning]
+Is book mein skills se jude bahut saare technical words aayenge.
+
+（３）意味を調べなくても分かるまで、何度も繰り返して読んでください。
+(Imi wo shirabenakute mo wakaru made, nando mo kurikaeshite yonde kudasai.)
+Meaning: Jab tak bina dictionary dekhe meaning samajh na aaye, tab tak baar-baar (kurikaeshite) padhiye.
+
+[JAPANESE SENTENCE 9]
+日本語の意味を考えこんでしまうと時間がなくなってしまいます。
+(Nihongo no imi wo kangaekonde shimau to jikan ga nakunatte shimaimasu.)
+Meaning: Agar exam mein Japanese meaning sochne mein lag gaye (kangaekonde shimau), toh time khatam ho jayega.
+
+（４）正しいか、間違っているか、文の最後までよく読みましょう。
+(Tadashii ka, machigatte iru ka, bun no saigo made yoku yomimashou.)
+Meaning: Sentence Sahi hai ya Galat hai, iske liye sentence ko bilkul aakhir tak (saigo made) dhyan se padhein.
+
+[JAPANESE SENTENCE 10]
+あわてて読んでしまうと、まったく反対の意味に理解してしまうことがあります。
+(Awatete yonde shimau to, mattaku hantai no imi ni rikai shite shimau koto ga arimasu.)
+
+[Word-by-Word]
+・あわてて (awatete) = Jaldbaazi mein / In a hurry
+・まったく (mattaku) = Bilkul / Completely
+・反対 (hantai) = Ulta / Opposite
+・理解してしまう (rikai shite shimau) = Samajh jayenge (Galti se)
+
+[Overall Meaning]
+Agar jaldbaazi mein padhenge, toh kabhi-kabhi aap bilkul ulta (opposite) meaning samajh sakte hain.
+
+================================================================
+CHAPTER 1 COMPLETE
+================================================================

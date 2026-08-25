@@ -1,0 +1,255 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM - SAMPLE PAPER
+   QUESTIONS 31 TO 40 (Practical Test / 実技試験)
+================================================================
+
+Yeh aakhiri hissa hai. Isme "Practical Test" (実技試験 - Jitsugi shiken) ke questions hain jahan 4 options (A, B, C, D) mein se ek Sahi (True) answer chunna hota hai. (Images PDF mein di gayi hain).
+
+----------------------------------------------------------------
+【問題 31】(Question 31)
+溶接などの火花が飛ぶ作業を行うときの正しい服装を、選択肢Ａ～Ｄの中から一つ選びなさい。
+(Yousetsu nado no hibana ga tobu sagyou wo okonau toki no tadashii fukusou wo, sentakushi A kara D no naka kara hitotsu erabi nasai.)
+
+[Word-by-Word]
+・溶接など (yousetsu nado) = Welding aadi
+・火花が飛ぶ (hibana ga tobu) = Sparks udte hain (Chingari udna)
+・作業を行うとき (sagyou wo okonau toki) = Kaam karte waqt
+・正しい服装 (tadashii fukusou) = Sahi kapde
+・一つ選びなさい (hitotsu erabi nasai) = Ek chunein
+
+[Options]
+Ａ．ナイロン製の作業服を着る。(Nairon-sei no sagyoufuku wo kiru) = Nylon ke kapde pehnna.
+Ｂ．ポリエチレン製の作業服を着る。(Poriechiren-sei no sagyoufuku wo kiru) = Polyethylene ke kapde pehnna.
+Ｃ．木綿製の作業服を着る。(Momen-sei no sagyoufuku wo kiru) = Cotton (Suti) ke kapde pehnna.
+Ｄ．油がついたままや濡れた作業服を着る。(Abura ga tsuita mama ya nureta sagyoufuku wo kiru) = Tel wale ya geele kapde pehnna.
+
+[Overall Meaning]
+Welding jaise kaam jismein chingari udti hai, usme kaun se kapde pehnne chahiye?
+
+[Answer]
+C (木綿製の作業服を着る - Cotton ke kapde pehnna)
+Explanation: Nylon aur Polyethylene chingari lagne se jaldi pighal jate hain (melt) aur body par chipak jate hain jisse bahut khatarnak burns aate hain. Tel (oil) wale kapde jaldi aag pakadte hain. Isliye "Momen" (Cotton) ke kapde sabse safe hote hain kyunki wo pighalte nahi hain.
+
+----------------------------------------------------------------
+【問題 32】(Question 32)
+PL（製造物責任）法対応として貼る警告ラベルで、『感電注意、感電による怪我の恐れ有り』を示しているものを、選択肢Ａ～Ｄの中から一つ選びなさい。
+(Pii-Eru hou taiou to shite haru keikoku raberu de, "Kanden chuui, kanden ni yoru kega no osore ari" wo shimeshite iru mono wo, sentakushi A kara D no naka kara hitotsu erabi nasai.)
+
+[Word-by-Word]
+・警告ラベル (keikoku raberu) = Warning label (Khatre ka sticker)
+・感電注意 (kanden chuui) = Electric shock warning (Bijli lagne ka khatra)
+・怪我の恐れ (kega no osore) = Chot lagne ka darr
+
+[Overall Meaning]
+Inme se kaun sa symbol (mark) "Electric shock (Kanden) ka khatra" batata hai?
+
+[Answer]
+A (Bijli ke jhatke/Zing-zag arrow wala symbol)
+Explanation: 
+A = 感電注意 (Electric shock warning)
+B = 高温注意 (Hot surface warning - Garam cheez ka khatra)
+C = 回転部注意 (Rotating parts warning - Ghumne wale part ka khatra)
+D = 転倒注意 / 滑りやすい (Slippery surface - Fisal kar girne ka khatra)
+
+----------------------------------------------------------------
+【問題 33】(Question 33)
+品質管理に基づくデータの種類には、計数値（個別に数える事が出来る数値）と計量値（測定して得られる数値）がある。計量値を選択肢Ａ～Ｄの中から一つ選びなさい。
+(Hinshitsu kanri ni motozuku deeta no shurui ni wa, keisuuchi to keiryouchi ga aru. Keiryouchi wo sentakushi kara erabi nasai.)
+
+[Word-by-Word]
+・計数値 (keisuuchi) = Attribute data (Jisko gin sakte hain 1, 2, 3...)
+・計量値 (keiryouchi) = Variable data (Jisko napte/measure karte hain, jaise 1.5mm, 20kg)
+
+[Overall Meaning]
+Inme se "Keiryouchi" (jo measurement kar ke napa jata hai) wala option kaun sa hai?
+
+[Options]
+Ａ．材料取りの個数 (Zairyou tori no kosuu) = Material ke pieces ki ginti (Count)
+Ｂ．製造品の出来上がり寸法 (Seizouhin no dekiagari sunpou) = Product ka final size/dimension (Measure)
+Ｃ．加工機の台数 (Kakouki no daisuu) = Machines ki ginti (Count)
+Ｄ．不適合品の数 (Futekigouhin no kazu) = Kharab products ki ginti (Count)
+
+[Answer]
+B (製造品の出来上がり寸法 - Product ka final dimension/size)
+Explanation: A, C, aur D mein hum "Count (gin rahe)" kar rahe hain isliye wo Keisuuchi hain. Sirf B mein hum "Size measure (naap)" kar rahe hain, isliye B Keiryouchi hai.
+
+----------------------------------------------------------------
+【問題 34】(Question 34)
+出荷品が要求事項を満たしているか確認する方法は、次のうちどれか。選択肢Ａ～Ｄの中から一つ選びなさい。
+(Shukkahin ga youkyuu jikou wo mitashite iru ka kakunin suru houhou wa, tsugi no uchi dore ka.)
+
+[Word-by-Word]
+・出荷品 (shukkahin) = Shipped product (Customer ko bheja jane wala saman)
+・要求事項を満たしているか (youkyuu jikou wo mitashite iru ka) = Requirement poori kar raha hai ya nahi
+・確認する方法 (kakunin suru houhou) = Check karne ka tarika
+
+[Overall Meaning]
+Product customer ko bhejne ke liye bilkul theek hai ya nahi, yeh check karne wale test ko kya kehte hain?
+
+[Options]
+Ａ．材料の受入れ検査 (Zairyou no ukeire kensa) = Material incoming inspection (Raw material check)
+Ｂ．工程間検査 (Kouteikan kensa) = In-process inspection (Bich mein check karna)
+Ｃ．最終検査 (Saishuu kensa) = Final inspection
+Ｄ．作業者による自主検査 (Sagyousha ni yoru jishu kensa) = Worker's self-inspection
+
+[Answer]
+C (最終検査 - Final inspection)
+Explanation: Product complete hone ke baad uski sabse last mein jo checking hoti hai customer ko bhejne se pehle, use 最終検査 (Saishuu kensa) ya 出荷検査 (Shukka kensa) kehte hain.
+
+----------------------------------------------------------------
+【問題 35】(Question 35)
+1 日に 1 回の定期検査を忘れた場合の対処方法として正しいものを選択肢Ａ～Ｄの中から一つ選びなさい。
+(Ichi-nichi ni ikkai no teiki kensa wo wasureta baai no taisho houhou to shite tadashii mono wo erabi nasai.)
+
+[Word-by-Word]
+・定期検査 (teiki kensa) = Regular inspection
+・忘れた場合 (wasureta baai) = Agar bhool jayen
+・対処方法 (taisho houhou) = Kya karna chahiye (Action)
+
+[Overall Meaning]
+Agar aap din mein ek baar hone wala regular inspection karna BHOOL jayen, toh aapko kya karna chahiye?
+
+[Options]
+Ａ．前日のデータを記入した。(Zenjitsu no deeta wo kinyuu shita) = Kal wala purana data likh diya.
+Ｂ．データを記入しないままとした。(Deeta wo kinyuu shinai mama to shita) = Bina data likhe blank chhod diya.
+Ｃ．先週のデータを記入した。(Senshuu no deeta wo kinyuu shita) = Pichle hafte ka data likh diya.
+Ｄ．すぐに上司に報告した。(Sugu ni joushi ni houkoku shita) = Turant boss ko report kiya.
+
+[Answer]
+D (すぐに上司に報告した - Turant boss ko report kiya)
+Explanation: Manufacture mein fake (jhuta) data likhna (A, C) ya blank chhodna (B) sabse bada crime (fusei koui) mana jata hai. Hamesha sach bolkar Boss ko batana chahiye (Hou-Ren-Sou rule).
+
+----------------------------------------------------------------
+【問題 36】(Question 36)
+下図のマイクロメータから読み取れる測定値として正しいものを選択肢Ａ～Ｄの中から一つ選びなさい。
+(Kazu no maikuromeeta kara yomitoreru sokuteichi to shite tadashii mono wo erabi nasai.)
+
+[Word-by-Word]
+・下図 (kazu) = Neeche diya image
+・読み取れる測定値 (yomitoreru sokuteichi) = Jo reading padhi ja sakti hai
+
+[Overall Meaning]
+Neeche diye gaye Micrometer ki reading kya hai?
+
+(In the image):
+- Sleeve (left side wala ruka hua scale): 15 ke baad 16 mm wali line dikh rahi hai. Aur 16 mm ki neeche wali (0.5 mm) line bhi saaf dikh rahi hai. Iska matlab: 16.0 + 0.5 = 16.5 mm (Main scale)
+- Thimble (right side ghumne wala scale): 40 aur 45 ke beech mein 43 number wali line (16.5 ki horizontal center line se match ho rahi hai). Iska matlab: 0.43 mm (Vernier scale)
+- Total = 16.5 + 0.43 = 16.93 mm
+
+[Options]
+Ａ．１６．４３
+Ｂ．１６．９３
+Ｃ．１５．４３
+Ｄ．１５．９３
+
+[Answer]
+B (１６．９３)
+Explanation: Sleeve par 16mm (upar) + 0.5mm (neeche) = 16.50mm. Thimble par 0.43mm. Total = 16.50 + 0.43 = 16.93 mm.
+
+----------------------------------------------------------------
+【問題 37】(Question 37)
+写真のデプスゲージが示す寸法として正しいものを、選択肢Ａ～Ｄの中から一つ選びなさい。
+(Shashin no depusugeeji ga shimesu sunpou to shite tadashii mono wo erabi nasai.)
+
+[Word-by-Word]
+・写真 (shashin) = Photo
+・デプスゲージ (depusugeeji) = Depth gauge (Dial indicator type)
+・示す寸法 (shimesu sunpou) = Jo size dikha raha hai
+
+[Overall Meaning]
+Is Dial Depth Gauge mein kya reading hai?
+
+(In the image):
+- Andar wala chota dial (Short needle): Needle 10 aur 15 ke beech mein hai, 10 ko cross kar chuki hai (lagbhag 11 par hai). Iska matlab 10 mm se thoda upar hai. (Maan lijiye 11 mm cross kiya hai).
+- Bada wala dial (Long needle): Needle 50 aur 60 ke beech "55" par hai. (Minimum reading 0.01mm hai). Iska matlab 0.55 mm.
+- Total = 11 mm + 0.55 mm = 11.55 mm.
+
+[Options]
+Ａ．１１．５５mm
+Ｂ．１０．４５mm
+Ｃ．１０．５５mm
+Ｄ．１１．４５mm
+
+[Answer]
+A (１１．５５mm)
+Explanation: Short needle 11 ko cross kar chuki hai (11 mm) aur long needle exactly 55 par hai (0.55 mm).
+
+----------------------------------------------------------------
+【問題 38】(Question 38)
+てこ式ダイヤルゲージの正しい使い方はどれか。選択肢Ａ～Ｄの中から一つ選びなさい。
+(Tekoshiki daiyarugeeji no tadashii tsukaikata wa dore ka. Erabi nasai.)
+
+[Word-by-Word]
+・てこ式 (tekoshiki) = Lever type
+・正しい使い方 (tadashii tsukaikata) = Sahi use (correct usage)
+
+[Overall Meaning]
+Lever-type Dial Gauge ko use karne ka sahi angle/tarika kya hai?
+
+(In the image):
+- Lever type dial gauge ka rule hai ki uski needle (lever) surface ke JITNA HO SAKE PARALLEL (heikou - samantar) honi chahiye. Angle 15° se zyada nahi hona chahiye warna error (cosine error) aata hai.
+
+[Options in Image]
+A. Lever aur surface ke beech bahut bada angle hai (galat).
+B. Lever aur direction of motion mein angle hai (galat).
+C. Lever lagbhag surface ke bilkul PARALLEL hai.
+D. Lever surface ke perpendicular (90 degree) hai (yeh normal dial gauge ka rule hai, teko-shiki ka nahi).
+
+[Answer]
+C (Image C)
+Explanation: Teko-shiki dial gauge (Lever dial indicator) ka lever test surface ke bilkul parallel (seethe) ya uske bahut qareeb hona chahiye.
+
+----------------------------------------------------------------
+【問題 39】(Question 39)
+次の幾何公差の記号について、①～④の図記号名の組み合わせで正しいものはどれか。選択肢Ａ～Ｄの中から一つ選びなさい。
+(Tsugi no kika kousa no kigou ni tsuite, 1 kara 4 no zukigoumei no kumiawase de tadashii mono wa dore ka. Erabi nasai.)
+
+[Word-by-Word]
+・幾何公差 (kika kousa) = Geometric Tolerance
+・組み合わせ (kumiawase) = Combination
+
+[Overall Meaning]
+Geometric Tolerance symbols ke in 4 images ka sahi naam ka combination kya hai?
+
+(In the image):
+① ⊥ (Ulta T) = 直角度 (Chokkakudo - Perpendicularity / 90 degree)
+② // (Do tirchi lines) = 平行度 (Heikoudo - Parallelism / Samantar)
+③ ○ (Gol circle) = 真円度 (Shin'endo - Circularity / Golai)
+④ ▱ (Tircha dabba) = 平面度 (Heimendo - Flatness / Flat surface)
+
+[Options]
+Ａ. 直角度、平面度、対称度、平行度
+Ｂ. 直角度、平行度、真円度、平面度
+Ｃ. 同軸度、平面度、真円度、平行度
+Ｄ. 同軸度、平行度、対称度、平面度
+
+[Answer]
+B (直角度、平行度、真円度、平面度)
+Explanation: Symbols ka exact order: ① ⊥ (直角度), ② // (平行度), ③ ○ (真円度), ④ ▱ (平面度).
+
+----------------------------------------------------------------
+【問題 40】(Question 40)
+コンピュータを使った設計のことを何というか。選択肢Ａ～Ｄの中から一つ選びなさい。
+(Konpyuuta wo tsukatta sekkei no koto wo nan to iu ka. Erabi nasai.)
+
+[Word-by-Word]
+・コンピュータを使った (konpyuuta wo tsukatta) = Computer ka use karke
+・設計 (sekkei) = Design
+・何というか (nan to iu ka) = Kya kehte hain
+
+[Overall Meaning]
+Computer ka use karke Design (drawing) banane ko kya kehte hain?
+
+[Options]
+Ａ．ＣＡＤ (Computer Aided Design)
+Ｂ．ＣＡＭ (Computer Aided Manufacturing)
+Ｃ．ＣＡＥ (Computer Aided Engineering)
+Ｄ．ＣＡＳ (Computer Aided Styling)
+
+[Answer]
+A (ＣＡＤ)
+Explanation: Computer par design (drawing) banane ko CAD kehte hain. (Aur CAM ka matlab computer ki madad se machine chalana hota hai).
+
+================================================================
+🎉 CONGRATULATIONS! ALL QUESTIONS ARE COMPLETE! 🎉
+================================================================

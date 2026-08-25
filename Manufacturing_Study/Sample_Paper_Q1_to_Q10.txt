@@ -1,0 +1,185 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM - SAMPLE PAPER
+   QUESTIONS 1 TO 10 (Academic Test / 学科試験)
+================================================================
+
+Is file mein hum SSW Manufacturing exam ke official sample paper ke pehle 10 questions solve karenge. Har question ka word-by-word meaning aur answer ka explanation diya gaya hai.
+* Exam ka rule: Sahi (True) ke liye A chunein, aur Galat (False) ke liye B chunein.
+
+----------------------------------------------------------------
+【問題 1】(Question 1)
+油火災が発生した場合は、水で消火するとよい。
+(Abura kasai ga hassei shita baai wa, mizu de shouka suru to yoi.)
+
+[Word-by-Word]
+・油火災 (abura kasai) = Oil fire / Tel ki aag
+・発生した場合 (hassei shita baai) = Agar lag jaye / If occurs
+・水で (mizu de) = Pani se
+・消火する (shouka suru) = Aag bujhana
+・～とよい (~to yoi) = Acha rehta hai / Should do
+
+[Overall Meaning]
+Agar tel ki aag lag jaye, toh pani se bujhana acha hota hai.
+
+[Answer]
+B (間違っている - False)
+Explanation: Tel ki aag par pani dalne se aag aur zyada failti hai. Isliye powder ya foam wala fire extinguisher use karna chahiye.
+
+----------------------------------------------------------------
+【問題 2】(Question 2)
+日本産業規格（ＪＩＳ）に定められた下の図記号は「天井に注意」のマークである。
+(Nihon sangyou kikaku (JIS) ni sadamerareta shita no zukigou wa "tenjou ni chuui" no maaku de aru.)
+
+[Word-by-Word]
+・日本産業規格 (Nihon sangyou kikaku) = JIS (Japanese Industrial Standards)
+・定められた (sadamerareta) = Tay kiya gaya / Defined
+・図記号 (zukigou) = Symbol / Mark
+・天井 (tenjou) = Ceiling / Chhat
+・注意 (chuui) = Dhyan rakhein / Caution
+
+[Overall Meaning]
+JIS ke dwara tay kiya gaya neeche wala symbol "Chhat ka dhyan rakhein (Ceiling hazard)" ka mark hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Yeh symbol "頭上注意 (Zujou chuui - Watch your head)" ka hai, jiska matlab yahi hai ki upar (chhat ya latakti hui cheezon) se dhyan rakhein.
+
+----------------------------------------------------------------
+【問題 3】(Question 3)
+品質管理は、会社全体で進めるのがよい。
+(Hinshitsu kanri wa, kaisha zentai de susumeru no ga yoi.)
+
+[Word-by-Word]
+・品質管理 (hinshitsu kanri) = Quality Control (QC)
+・会社全体 (kaisha zentai) = Poori company
+・進める (susumeru) = Aage badhana / Carry out
+・～のがよい (~no ga yoi) = Acha hota hai
+
+[Overall Meaning]
+Quality Control ka kaam poori company ko milkar karna chahiye.
+
+[Answer]
+A (正しい - True)
+Explanation: QC sirf ek department ka kaam nahi hai, sabko milkar karna chahiye.
+
+----------------------------------------------------------------
+【問題 4】(Question 4)
+下の図は、度数分布図（ヒストグラム）である。
+(Shita no zu wa, dosuu bunpuzu (hisutoguramu) de aru.)
+
+[Word-by-Word]
+・下の図 (shita no zu) = Neeche diya gaya graph
+・度数分布図 (dosuu bunpuzu) = Frequency distribution chart
+・ヒストグラム (hisutoguramu) = Histogram
+
+[Overall Meaning]
+Neeche diya gaya graph ek Histogram hai.
+
+[Answer]
+B (間違っている - False)
+Explanation: Graph mein Bar graph (bars) aur Line graph (line) dono mix hain. Aise graph ko Pareto Chart (パレート図 - Pareeto zu) kehte hain, Histogram nahi.
+
+----------------------------------------------------------------
+【問題 5】(Question 5)
+４Ｓとは、「整理（ＳＥＩＲＩ）」、「整頓（ＳＥＩＴＯＮ）」、「清掃（ＳＥＩＳＯＵ）」、「清潔（ＳＥＩＫＥＴＳＵ）」の頭文字をとった安全衛生活動のことである。
+(Yon-Esu to wa, "Seiri", "Seiton", "Seisou", "Seiketsu" no kashiramoji wo totta anzen eisei katsudou no koto de aru.)
+
+[Word-by-Word]
+・頭文字 (kashiramoji) = First letter (S)
+・とった (totta) = Liya gaya
+・安全衛生活動 (anzen eisei katsudou) = Safety and hygiene activity
+
+[Overall Meaning]
+4S ka matlab hai "Seiri", "Seiton", "Seisou", aur "Seiketsu" ke pehle letters se bani ek safety activity.
+
+[Answer]
+A (正しい - True)
+Explanation: Yeh bilkul sahi hai. 5S mein 'Shitsuke' bhi jud jata hai.
+
+----------------------------------------------------------------
+【問題 6】(Question 6)
+ｐＨ７の水溶液は、酸性である。
+(Pi-eichi-nana no suiyoueki wa, sansei de aru.)
+
+[Word-by-Word]
+・水溶液 (suiyoueki) = Liquid solution
+・酸性 (sansei) = Acidic / Khatta
+
+[Overall Meaning]
+pH 7 wala liquid Acidic hota hai.
+
+[Answer]
+B (間違っている - False)
+Explanation: pH 7 Neutral (中性 - Chuusei) hota hai. 7 se kam (<7) Acidic hota hai.
+
+----------------------------------------------------------------
+【問題 7】(Question 7)
+水は、水素と酸素の化合物である。
+(Mizu wa, suiso to sanso no kagoubutsu de aru.) 
+
+[Word-by-Word]
+・水素 (suiso) = Hydrogen
+・酸素 (sanso) = Oxygen
+・化合物 (kagoubutsu) = Compound (milkar bani cheez)
+
+[Overall Meaning]
+Pani (Water) Hydrogen aur Oxygen ko milakar banta hai (H2O).
+
+[Answer]
+A (正しい - True)
+Explanation: Yeh fact bilkul sahi hai.
+
+----------------------------------------------------------------
+【問題 8】(Question 8)
+労働者は、労働災害を防止するために、安全衛生の決まりを守らなければならないと法令で定められている。
+(Roudousha wa, roudou saigai wo boushi suru tame ni, anzen eisei no kimari wo mamoranakereba naranai to hourei de sadamerarete iru.)
+
+[Word-by-Word]
+・労働者 (roudousha) = Workers
+・労働災害 (roudou saigai) = Work accidents
+・防止するため (boushi suru tame) = Rokne ke liye
+・決まり (kimari) = Rules
+・守らなければならない (mamoranakereba naranai) = Follow karna hi padega
+・法令 (hourei) = Law / Kanoon
+
+[Overall Meaning]
+Workers ko accidents rokne ke liye safety rules follow karne padenge, aesa kanoon mein tay hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Industrial Safety and Health Act (労働安全衛生法) ke mutabiq yeh zaroori hai.
+
+----------------------------------------------------------------
+【問題 9】(Question 9)
+日本産業規格（ＪＩＳ）に定められた下の図記号は、「禁煙」のマークである。
+(Nihon sangyou kikaku (JIS) ni sadamerareta shita no zukigou wa, "kin'en" no maaku de aru.)
+
+[Word-by-Word]
+・図記号 (zukigou) = Symbol
+・禁煙 (kin'en) = No Smoking
+
+[Overall Meaning]
+Neeche diya gaya symbol "No Smoking" ka hai. (Symbol mein ek maachis ki teeli aag ke sath dikhai gayi hai aur uspar red cut hai).
+
+[Answer]
+B (間違っている - False)
+Explanation: Yeh symbol "火気厳禁 (Kaki genkin - No Fires / Aag lagana mana hai)" ka hai. "No Smoking" wale symbol mein Cigarette bani hoti hai.
+
+----------------------------------------------------------------
+【問題 10】(Question 10)
+ＪＩＳマークが付いた測定器は、日本産業規格の品質を満たしている。
+(JIS maaku ga tsuita sokuteiki wa, Nihon sangyou kikaku no hinshitsu wo mitashite iru.)
+
+[Word-by-Word]
+・付いた (tsuita) = Laga hua
+・測定器 (sokuteiki) = Measuring tool
+・満たしている (mitashite iru) = Pura karta hai / Meets the standard
+
+[Overall Meaning]
+Jis measuring tool par JIS mark laga hota hai, woh Japanese Industrial Standards ki quality ko poora karta hai.
+
+[Answer]
+A (正しい - True)
+Explanation: JIS mark ka matlab hi yahi hai ki woh tool Japan ke high quality standards ko pass kar chuka hai.
+
+================================================================

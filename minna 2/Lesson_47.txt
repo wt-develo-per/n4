@@ -1,0 +1,251 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 47 (N4)
+   Topic: ~そうです (Hearsay) / ~ようです / ~によると / ~がします
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge:
+1. ~sou desu (hearsay): Sunne mein aaya ki... (Lesson 43 wale se ALAG!)
+2. ~you desu: Lagta hai... (apni reasoning se)
+3. ~ni yoru to: ...ke mutaabiq / ...ke anusar
+4. ~ga shimasu: Awaaz/khushbu/swaad mehsoos karna
+
+----------------------------------------------------------------
+[GRAMMAR 1] ~そうです (~sou desu) - HEARSAY
+   -> "Suna hai ki..." / "Kisi ne kaha ki..."
+   -> Doosre se information mili hai
+   -> Plain form ke saath aata hai (L43 wale se BILKUL ALAG!)
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (plain form) + sou desu
+  i-Adj (plain form) + sou desu
+  na-Adj + DA + sou desu
+  Noun + DA + sou desu
+
+EXAMPLES:
+  * Ashita ame ga FURU SOU desu.
+    -> Suna hai kal baarish hogi.
+
+  * Yamada-san wa byouki DA SOU desu.
+    -> Suna hai Yamada-san bimaar hain.
+
+  * Ano mise no ryouri wa OISHII SOU desu.
+    -> Suna hai us restaurant ka khana tasty hai.
+
+  * Kare wa Nihon ni IKU SOU desu.
+    -> Suna hai woh Japan jaayega.
+
+  * Kongetsu wa shiken ga ARU SOU desu.
+    -> Suna hai is mahine exam hai.
+
+PAST hearsay:
+  * Yamada-san wa Nihon ni ITTA SOU desu.
+    -> Suna hai Yamada-san Japan gaye.
+
+  * Mukashi, koko ni otera ga ATTA SOU desu.
+    -> Suna hai pehle yahan mandir tha.
+
+SOURCE batana: ~ni yoru to + sou desu
+  * Tenkiyohou NI YORU TO, ashita wa hareru SOU desu.
+    -> Mausam ki khabar ke anusar, kal dhoop niklegi.
+
+  * Nyuusu NI YORU TO, jishin ga atta SOU desu.
+    -> Khabar ke mutaabiq, bhookamp aaya.
+
+----------------------------------------------------------------
+[HEARSAY vs APPEARANCE - SABSE IMPORTANT COMPARISON!]
+----------------------------------------------------------------
+
+  SOU DESU (APPEARANCE - L43):
+  -> Adj/Verb STEM + sou
+  -> Khud dekh ke andaaza
+  -> "Oishi-SOU" = Tasty LAGTA HAI (I see it)
+
+  SOU DESU (HEARSAY - L47):
+  -> PLAIN FORM + sou
+  -> Doosre se suna
+  -> "Oishii SOU" = Tasty HAI, SUNA HAI (heard it)
+
+  QUICK TRICK:
+  "Ame ga furi-SOU" = Baarish wali lagti hai (clouds dekhe)
+  "Ame ga furu-SOU" = Suna hai baarish hogi (weather forecast)
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~ようです (~you desu)
+   -> "Lagta hai..." - Apni reasoning/inference se
+   -> Evidence dekh ke ya feel karke conclusion nikalna
+   -> Sou desu se zyada subjective
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (plain form) + you desu
+  i-Adj (plain form) + you desu
+  na-Adj + NA + you desu
+  Noun + NO + you desu
+
+EXAMPLES:
+  * Kare wa byouki NA YOU desu.
+    -> (Uski chehra/behavior dekh ke) lagta hai bimaar hai.
+
+  * Mou haru ni natta YOU desu.
+    -> Lagta hai ab basant aa gayi. (warmth feel ki)
+
+  * Dooko de aatta YOU na ki ga shimasu.
+    -> Lagta hai kabhi mile hain (kuch yaad sa aa raha hai).
+
+  * Kare wa okotte iru YOU desu.
+    -> Lagta hai woh gusse mein hai. (behavior dekha)
+
+  * Kono eki wa chiisai YOU desu ne.
+    -> Lagta hai yeh station chota hai. (dekh ke)
+
+YOUDESU with DOUMO:
+  * DOUMO kare wa konai YOU desu.
+    -> Kuch lagta hai woh nahi aayega. (uncertain feel)
+
+  * DOUMO netsu ga aru YOU desu.
+    -> Lagta hai bukhaar hai. (body feel kar ke)
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~によると (~ni yoru to)
+   -> "...ke mutaabiq / ...ke anusar"
+   -> Source of information batana
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Source] + ni yoru to + [Information] + sou desu / you desu
+
+SOURCES:
+  Tenkiyohou NI YORU TO = Mausam ki khabar ke anusar
+  Nyuusu NI YORU TO = Khabar ke mutaabiq
+  Kare NI YORU TO = Uske mutaabiq
+  Kono hon NI YORU TO = Is kitaab ke anusar
+  Chousa NI YORU TO = Survey ke anusar
+
+EXAMPLES:
+  * Tenkiyohou NI YORU TO, ashita wa samui sou desu.
+    -> Weather forecast ke mutaabiq kal thanda hoga.
+
+  * Nyuusu NI YORU TO, yuumei na haiyuu ga kekkon shita sou desu.
+    -> Khabar ke mutaabiq mashoor actor ki shaadi ho gayi.
+
+  * Kare NI YORU TO, sono mise wa yasui sou desu.
+    -> Uske mutaabiq woh dukaan sasti hai.
+
+----------------------------------------------------------------
+[GRAMMAR 4] ~がします (~ga shimasu)
+   -> Sensation describe karna - awaaz/khushbu/swaad
+   -> Naturally mehsoos hone wali cheez
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Sensation noun] + ga shimasu
+
+SENSATION NOUNS:
+  OTO ga shimasu     = Awaaz aa rahi hai
+  KOE ga shimasu     = Awaaz sun raha hoon (person ki)
+  NIOI ga shimasu    = Khushbu/Badbu aa rahi hai
+  AJI ga shimasu     = Swaad aa raha hai
+
+EXAMPLES:
+  * Hen na OTO ga shimasu.
+    -> Kuch ajeeb awaaz aa rahi hai.
+
+  * Ii NIOI ga shimasu ne!
+    -> Bahut achhi khushbu aa rahi hai!
+
+  * Nani ka kogeta NIOI ga shimasu.
+    -> Kuch jalane ki khushbu aa rahi hai.
+
+  * Amai AJI ga shimasu.
+    -> Meetha swaad aa raha hai.
+
+  * Dare ka no KOE ga shimasu.
+    -> Kisi ki awaaz aa rahi hai.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 47]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  集まります          | atsumarimasu      | Ikattha hona
+  別れます           | wakaremasu        | Alag hona / Part karna
+  長生きします        | nagaiki shimasu   | Lambi zindagi jeena
+  傘をさします        | kasa wo sashimasu | Chhatri lagana
+  ひどい            | hidoi             | Bhayankar / Severe
+  怖い              | kowai             | Daraauna / Frightening
+  天気予報           | tenkiyohou        | Mausam ki khabar
+  発表              | happyou           | Ghoshna / Announcement
+  実験              | jikken            | Prayog / Experiment
+  人口              | jinkou            | Aabadi / Population
+  におい            | nioi              | Khushbu / Badbu / Smell
+  科学              | kagaku            | Vigyan / Science
+  医学              | igaku             | Chikitsa vigyan / Medicine
+  文学              | bungaku           | Sahitya / Literature
+  パトカー           | patokaa           | Police car
+  救急車            | kyuukyuusha       | Ambulance
+  賛成              | sansei            | Sahmat / Agreement
+  反対              | hantai            | Asahmat / Opposition
+  男性              | dansei            | Purush / Male
+  女性              | josei             | Mahila / Female
+  どうも            | doumo             | Kuch lagta hai / Somehow
+  恋人              | koibito           | Premika/Premik
+  婚約します          | kon'yaku shimasu  | Sagai karna / Engage
+  相手              | aite              | Doosra shakhs / Partner
+  脳               | nou               | Dimaag / Brain
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES]
+----------------------------------------------------------------
+
+1. Suna hai kal baarish hogi.
+   -> _______________________________________________
+
+2. Mausam ki khabar ke mutaabiq kal thanda hoga.
+   -> _______________________________________________
+
+3. Lagta hai woh bimaar hai. (you desu)
+   -> _______________________________________________
+
+4. Kuch ajeeb awaaz aa rahi hai.
+   -> _______________________________________________
+
+5. Bahut achhi khushbu aa rahi hai!
+   -> _______________________________________________
+
+ANSWERS:
+1. Ashita ame ga furu sou desu.
+2. Tenkiyohou ni yoru to, ashita wa samui sou desu.
+3. Kare wa byouki na you desu.
+4. Hen na oto ga shimasu.
+5. Ii nioi ga shimasu ne!
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 47]
+----------------------------------------------------------------
+
+* SOU DESU - 2 bilkul alag uses yaad rakho:
+  L43: STEM + sou = Appearance (khud dekha)
+  L47: PLAIN FORM + sou = Hearsay (kisi ne kaha)
+
+  "Oishi-SOU" (stem) = Tasty LAGTA HAI (I see it)
+  "Oishii-SOU" (plain) = Tasty HAI, SUNA HAI (heard)
+
+  Ye JLPT ka sabse common confusion point hai!
+
+* YOU DESU = Personal inference/reasoning
+  SOU DESU (hearsay) = Information from outside source
+
+* ~ni yoru to = Source + sou desu pattern
+  Tenkiyohou ni yoru to + ... sou desu = Standard news reporting
+
+* ~ga shimasu = Sensation (oto/nioi/aji/koe)
+  Object wo senses se PERCEIVE karna
+  WO NAHI, GA use karo!
+
+================================================================
+                    LESSON 47 - COMPLETE
+              Next: Lesson 48 -> Causative Form (~saseru)
+================================================================

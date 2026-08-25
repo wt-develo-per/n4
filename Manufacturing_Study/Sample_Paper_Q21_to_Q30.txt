@@ -1,0 +1,182 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM - SAMPLE PAPER
+   QUESTIONS 21 TO 30 (Academic Test / 学科試験)
+================================================================
+
+Is file mein hum Academic test (Sahi/Galat wale questions) ka aakhiri hissa Q21 se Q30 tak solve karenge.
+
+----------------------------------------------------------------
+【問題 21】(Question 21)
+ドリルで穴あけ加工を行うとき、ガイドブシュを使うと加工精度が安定する。
+(Doriru de anaake kakou wo okonau toki, gaido bushu wo tsukau to kakou seido ga antei suru.)
+
+[Word-by-Word]
+・穴あけ加工 (anaake kakou) = Drilling holes / Ana karna
+・ガイドブシュ (gaido bushu) = Guide bush (drilling tool ko sidha rakhne ka jig)
+・加工精度 (kakou seido) = Machining accuracy (Kitna sahi aur perfect ana hoga)
+・安定する (antei suru) = Stable/pakka hota hai
+
+[Overall Meaning]
+Drill se hole karte waqt agar "Guide Bush" (tool ko hilne se bachane wala metal tube) ka use karein toh hole bilkul accurate (seido) banta hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Drill karte waqt drill bit hil sakti hai, "Guide bush" usko tight pakad kar theek direction mein hole karne mein madad karta hai.
+
+----------------------------------------------------------------
+【問題 22】(Question 22)
+材料の弾性係数の値が大きいほど、その材料はひずみ（変形）が出やすい。
+(Zairyou no dansei keisuu no atai ga ookii hodo, sono zairyou wa hizumi (henkei) ga de yasui.)
+
+[Word-by-Word]
+・弾性係数 (dansei keisuu) = Elastic modulus / Young's modulus (Stiffness / sakhti ka map)
+・ひずみ (hizumi) = Strain / Mudna / Deformation
+・出やすい (de yasui) = Aasani se aata hai
+
+[Overall Meaning]
+Jis material ka "Elastic Modulus" (Dansei keisuu) jitna ZYADA hota hai, woh material utni aasani se mud (deform) jata hai.
+
+[Answer]
+B (間違っている - False)
+Explanation: Elastic modulus (Young's modulus) ka matlab "Sakhti" (Stiffness) hota hai. Jis material ka Elastic modulus ZYADA hoga, wo utna hi HARD hoga aur aasani se nahi mudega (hizumi niku).
+
+----------------------------------------------------------------
+【問題 23】(Question 23)
+一般構造用圧延鋼材の種類を表すＳＳ４００の４００は、引張強さを表している。
+(Ippan kouzouyou atsuen kouzai no shurui wo arawasu SS400 no 400 wa, hippari tsuyosa wo arawashite iru.)
+
+[Word-by-Word]
+・一般構造用圧延鋼材 (ippan kouzouyou atsuen kouzai) = Rolled steel for general structure (Aam taur par use hone wala loha - SS)
+・引張強さ (hippari tsuyosa) = Tensile strength (Khinchne par sehne ki taqat)
+
+[Overall Meaning]
+Lohae ka ek type hota hai "SS400". Isme jo '400' likha hai, uska matlab uski Tensile Strength (khinchne par taqat) 400 MPa hai.
+
+[Answer]
+A (正しい - True)
+Explanation: JIS standard ke hisaab se SS400 mein 400 ka matlab minimum Tensile Strength hoti hai (jise Tensile Test / Hippari shiken se napte hain).
+
+----------------------------------------------------------------
+【問題 24】(Question 24)
+測定値の正確さを確認する「校正」には、決められた期間はない。
+(Sokuteichi no seikakusa wo kakunin suru "kousei" ni wa, kimerareta kikan wa nai.)
+
+[Word-by-Word]
+・正確さ (seikakusa) = Accuracy / Sahi hona
+・校正 (kousei) = Calibration (Check karna aur adjust karna)
+・決められた期間 (kimerareta kikan) = Fixed time period / Fixed duration
+・はない (wa nai) = Nahi hoti
+
+[Overall Meaning]
+Measuring tools ki accuracy check karne ke process jise "Kousei" (Calibration) kehte hain, usko karne ka koi fix time/period nahi hota (kabhi bhi kar sakte hain).
+
+[Answer]
+B (間違っている - False)
+Explanation: Calibration (Kousei) ka time fix hota hai (jaise har 6 mahine ya 1 saal mein ek baar zaroor karna hota hai) taki tool hamesha accurate rahe. Ise kanoon ya company rule se "Kimerareta kikan" (fixed period) par karna zaroori hai.
+
+----------------------------------------------------------------
+【問題 25】(Question 25)
+検査方法の一つに全数検査がある。
+(Kensa houhou no hitotsu ni zensuu kensa ga aru.)
+
+[Word-by-Word]
+・検査方法の一つ (kensa houhou no hitotsu) = Inspection method ka ek tarika
+・全数検査 (zensuu kensa) = 100% Inspection (Har ek piece check karna)
+
+[Overall Meaning]
+Product check karne ka ek tarika "100% Inspection" (Zensuu Kensa) bhi hota hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Inspection ke do main tarike hote hain: 全数検査 (Zensuu kensa - 100% check) aur 抜取検査 (Nukitori kensa - Sampling/Thoda check).
+
+----------------------------------------------------------------
+【問題 26】(Question 26)
+ノギスで、内径を測定することはできない。
+(Nogisu de, naikei wo sokutei suru koto wa dekinai.)
+
+[Word-by-Word]
+・ノギス (Nogisu) = Vernier Caliper
+・内径 (naikei) = Internal diameter / Andar ka size
+・できない (dekinai) = Nahi kar sakte
+
+[Overall Meaning]
+Nogisu se andar ka size (hole diameter) nahi napa ja sakta.
+
+[Answer]
+B (間違っている - False)
+Explanation: Nogisu se bahar ka size (Soto-gawa jaw), andar ka size (Uchi-gawa jaw se Naikei), aur gehrai (Depth bar se) teeno cheezein napi ja sakti hain.
+
+----------------------------------------------------------------
+【問題 27】(Question 27)
+測定誤差は、作業者の測定スキルアップで小さくできる。
+(Sokutei gosa wa, sagyousha no sokutei sukiru appu de chiisaku dekiru.)
+
+[Word-by-Word]
+・測定誤差 (sokutei gosa) = Measurement error (Napne mein galti)
+・作業者の測定スキル (sagyousha no sokutei sukiru) = Worker ki napne ki skill/training
+・小さくできる (chiisaku dekiru) = Kam (chota) kar sakte hain
+
+[Overall Meaning]
+Worker apni measuring skills ko theek karke (training se) napne ki galti (measurement error) ko kam kar sakta hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Measuring error bahut se karano se hoti hai (jaise tircha dekhna - Shisa). Agar worker trained hoga toh aisi galtiyan kam hongi.
+
+----------------------------------------------------------------
+【問題 28】(Question 28)
+一般的な副尺読取式のノギスの最小読取値は、0.05ｍｍである。
+(Ippanteki na fukushaku yomitorishiki no nogisu no saishou yomitorichi wa, rei ten rei go miri (0.05mm) de aru.)
+
+[Word-by-Word]
+・一般的な (ippanteki na) = Normal / Aam taur par
+・副尺 (fukushaku) = Vernier scale (chota wala scale)
+・最小読取値 (saishou yomitorichi) = Minimum reading (sabse chota size jo nap sakte hain)
+
+[Overall Meaning]
+Normal Vernier Caliper (Nogisu) se jo sabse choti reading napi ja sakti hai wo 0.05 mm hoti hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Aam taur par Nogisu ki accuracy 0.05mm (kabhi kabhi 0.02mm) hoti hai. Micrometer ki 0.01mm hoti hai.
+
+----------------------------------------------------------------
+【問題 29】(Question 29)
+機械製図で寸法数字の前に付くＣは、面取り角度４５°を表す記号である。
+(Kikai seizu de sunpou suuji no mae ni tsuku C wa, mentori kakudo yonjuugodo (45°) wo arawasu kigou de aru.)
+
+[Word-by-Word]
+・機械製図 (kikai seizu) = Mechanical drawing
+・寸法数字の前 (sunpou suuji no mae) = Size wale number se pehle
+・面取り角度 (mentori kakudo) = Chamfer angle (Kinara katne ka angle)
+
+[Overall Meaning]
+Drawing mein number ke aage jo 'C' likha hota hai, uska matlab 45 degree ka Chamfer (C) hota hai.
+
+[Answer]
+A (正しい - True)
+Explanation: Drawing symbols mein C = Chamfer (45°), R = Radius, φ = Diameter, t = Thickness hota hai. Yeh bilkul sahi hai.
+
+----------------------------------------------------------------
+【問題 30】(Question 30)
+図Ａに示す溶接記号の実形として、図Ｂは正しい。
+(Zu A ni shimesu yousetsu kigou no jikkei to shite, zu B wa tadashii.)
+
+[Word-by-Word]
+・図Ａ (Zu A) = Diagram A (Jisme drawing symbol hai)
+・溶接記号 (yousetsu kigou) = Welding symbol
+・実形 (jikkei) = Actual shape (Real mein kaisa dikhega)
+・図Ｂ (Zu B) = Diagram B
+
+[Overall Meaning]
+Diagram A mein jo welding symbol diya hai, real mein welding karne ke baad woh Diagram B jaisa dikhega. Yeh sahi hai.
+
+* (Is question mein PDF image dekhni padti hai. Diagram A mein Base line ke NEECHE (下) V-shape bani hai aur arrow neeche ishara kar raha hai).
+
+[Answer]
+B (間違っている - False)
+Explanation: Welding ka rule hai: Agar symbol Base line ke NEECHE hai, toh welding "TIR (Arrow) WALI SIDE" (samne) karni hoti hai.
+Lekin Diagram B mein welding ulte (peeche) side ki hui dikhayi gayi hai (dashed line). Isliye yeh GALAT (False) hai.
+
+================================================================

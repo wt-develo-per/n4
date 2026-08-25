@@ -1,0 +1,202 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 2: 安全衛生 (Anzen Eisei - Safety and Hygiene) - Part 1
+================================================================
+
+Is chapter mein hum padhenge factory mein safety aur hygiene (saaf-safai) maintain karne ke rules. Yeh exam ke liye bahut important chapter hai.
+
+----------------------------------------------------------------
+【２．１】 基本作業 (Kihon sagyou - Basic Operations)
+【２．１．１】 安全衛生の心得 (Anzen eisei no kokoroe - Safety & Hygiene Knowledge/Rules)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE 1]
+製造現場には高温、重量物、機械設備、化学物質など、多くの危険があります。
+(Seizou genba ni wa kouon, juuryoubutsu, kikai setsubi, kagaku busshitsu nado, ooku no kiken ga arimasu.)
+
+[Word-by-Word]
+・製造現場 (seizou genba) = Manufacturing site / Factory floor
+・高温 (kouon) = High temperature / Bahut zyada garmi
+・重量物 (juuryoubutsu) = Heavy objects / Bhaari saaman
+・機械設備 (kikai setsubi) = Machinery and equipment / Machinayein
+・化学物質 (kagaku busshitsu) = Chemical substances / Chemicals
+・多くの (ooku no) = Bahut saare
+・危険 (kiken) = Danger / Khatra
+
+[Overall Meaning]
+Factory floor par bahut zyada garmi, bhaari saaman, machines aur chemicals jaise bahut saare khatre hote hain.
+
+---
+
+[JAPANESE SENTENCE 2]
+これらの危険から、作業者の命と健康を守るための取組みが、安全衛生活動です。
+(Korera no kiken kara, sagyousha no inochi to kenkou wo mamoru tame no torikumi ga, anzen eisei katsudou desu.)
+
+[Word-by-Word]
+・これらの (korera no) = In sab
+・作業者 (sagyousha) = Workers / Kaam karne wale
+・命と健康 (inochi to kenkou) = Jaan aur Sehat
+・守るため (mamoru tame) = Bachane/Protect karne ke liye
+・取組み (torikumi) = Efforts / Initiatives
+・活動 (katsudou) = Activities
+
+[Overall Meaning]
+In sab khatron se workers ki jaan aur sehat ko bachane ke liye jo efforts kiye jaate hain, unhe "Safety and Hygiene Activities" (Anzen Eisei Katsudou) kehte hain.
+
+---
+
+[JAPANESE SENTENCE 3]
+作業者が仕事や通勤が原因で、負傷したり、病気にかかったりすることを労働災害といいます。
+(Sagyousha ga shigoto ya tsuukin ga gen'in de, fushou shitari, byouki ni kakattari suru koto wo roudou saigai to iimasu.)
+
+[Word-by-Word]
+・仕事 (shigoto) = Work / Kaam
+・通勤 (tsuukin) = Commute / Kaam par aana-jana
+・原因 (gen'in) = Cause / Wajah
+・負傷したり (fushou shitari) = Injured hona / Chot lagna
+・病気にかかったり (byouki ni kakattari) = Bimaar pad jana
+・労働災害 (roudou saigai) = Occupational accident / Work-related accident
+
+[Overall Meaning]
+Kaam karne ya kaam par aane-jaane ki wajah se agar kisi worker ko chot lag jaye ya woh bimaar pad jaye, toh use "Occupational Accident" (Roudou Saigai) kehte hain.
+
+---
+
+【安全のための重要な心得】(Anzen no tame no juuyou na kokoroe - Safety ke liye important rules)
+
+① 職場のルールを守ってください。作業者を守るためのものです。ルールを守らないと周りの人にも危険が及びます。
+(Shokuba no ruuru wo mamotte kudasai. Sagyousha wo mamoru tame no mono desu. Ruuru wo mamoranai to mawari no hito ni mo kiken ga oyobimasu.)
+Word-by-word meaning:
+・職場 (shokuba) = Workplace / Kaam ki jagah
+・守る (mamoru) = Follow karna
+・周りの人 (mawari no hito) = Aas-paas ke log
+・及ぶ (oyobu) = Puhanchta hai / Spreads
+Overall: Workplace ke rules follow karein. Yeh workers ko protect karne ke liye hain. Agar rules follow nahi karenge toh aas-paas ke logon ko bhi khatra hoga.
+
+② 知らない機械や道具には、勝手に触ってはいけません。必ず、上司に聞いてください。
+(Shiranai kikai ya dougu ni wa, katte ni sawatte wa ikemasen. Kanarazu, joushi ni kiite kudasai.)
+Word-by-word meaning:
+・知らない (shiranai) = Unknown / Jo pata na ho
+・道具 (dougu) = Tools / Auzaar
+・勝手に (katte ni) = Apni marzi se / Without permission
+・触る (sawaru) = Touch karna
+・必ず (kanarazu) = Zaroor / Without fail
+・上司 (joushi) = Boss / Manager
+Overall: Jin machines ya tools ke baare mein aap nahi jaante, unhe apni marzi se touch mat karein. Zaroor apne boss se puchein.
+
+③ 道具は丁寧に扱ってください。使った後は、正しい場所に保管してください。投げ渡したり、乱雑においたりしてはいけません。
+(Dougu wa teinei ni atsukatte kudasai. Tsukatta ato wa, tadashii basho ni hokan shite kudasai. Nagewatashitari, ranzatsu ni oitari shite wa ikemasen.)
+Word-by-word meaning:
+・丁寧に (teinei ni) = Carefully / Aaram se
+・扱う (atsukau) = Handle karna
+・保管する (hokan suru) = Store/Rakhna
+・投げ渡す (nagewatasu) = Fenk kar dena
+・乱雑に (ranzatsu ni) = Messy way mein / Bikhra kar
+Overall: Tools ko carefully handle karein. Use karne ke baad sahi jagah par rakhein. Unhe fenk kar na dein aur na hi bikhra kar rakhein.
+
+④ 危険がなくても、法律やルールを守ってください。日本の法律は、作業者一人ひとりを守るためにあります。
+(Kiken ga nakute mo, houritsu ya ruuru wo mamotte kudasai. Nihon no houritsu wa, sagyousha hitorihitori wo mamoru tame ni arimasu.)
+Word-by-word meaning:
+・法律 (houritsu) = Law / Kanoon
+・一人ひとり (hitorihitori) = Har ek insaan ko
+Overall: Agar khatra na bhi ho, tab bhi kanoon aur rules ko follow karein. Japan ke kanoon har ek worker ko protect karne ke liye hain.
+
+⑤ 何か異常（変な音、におい、振動など）に気づいたら、機械を止めて上司に報告し、その指示に従ってください。
+(Nanika ijou (hen na oto, nioi, shindou nado) ni kizuitara, kikai wo tomete joushi ni houkoku shi, sono shiji ni shitagatte kudasai.)
+Word-by-word meaning:
+・異常 (ijou) = Abnormality / Kuch ajeeb
+・変な音 (hen na oto) = Ajeeb awaaz
+・におい (nioi) = Smell / Badbu
+・振動 (shindou) = Vibration / Hilna
+・気づく (kizuku) = Notice karna
+・報告し (houkoku shi) = Report karna
+・指示 (shiji) = Instructions
+・従う (shitagau) = Follow karna / Maanna
+Overall: Agar aapko kuch bhi ajeeb lage (jaise ajeeb awaaz, smell, ya vibration), toh machine rok kar boss ko report karein aur unke instructions follow karein.
+
+----------------------------------------------------------------
+【２．１．２】 労働安全衛生法
+(Roudou anzen eisei hou - Industrial Safety and Health Act)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE]
+労働安全衛生法は、労働者の安全と健康を守るために定められた、日本の法律です。主な内容は、つぎの３つです。
+(Roudou anzen eiseihou wa, roudousha no anzen to kenkou wo mamoru tame ni sadamerareta, nihon no houritsu desu. Omo na naiyou wa, tsugi no mittsu desu.)
+
+[Word-by-Word]
+・労働安全衛生法 (roudou anzen eisei hou) = Work safety & health law
+・定められた (sadamerareta) = Banaya gaya / Decided
+・主な内容 (omo na naiyou) = Main contents
+・つぎの３つ (tsugi no mittsu) = Neeche diye gaye 3
+
+[Overall Meaning]
+"Industrial Safety and Health Act" workers ki safety aur health ko bachane ke liye banaya gaya Japan ka kanoon hai. Iske main 3 points hain:
+
+（１）労働災害防止のための危害防止基準の確立
+(Roudou saigai boushi no tame no kigai boushi kijun no kakuritsu)
+= Work accidents rokne ke liye hazard prevention standards banana. (Company aur worker dono ko rules follow karne hote hain).
+
+（２）責任体制の明確化
+(Sekinin taisei no meikakuka)
+= Responsibility system ko clear karna.
+(Company mein "Safety and Health Committee" (安全衛生委員会 - Anzen Eisei Iinkai) aur safety managers, company doctors hone chahiye jo safety check karein).
+
+（３）自主的活動の促進
+(Jishuteki katsudou no sokushin)
+= Voluntary activities ko badhava dena.
+(Har worker khud safety ke baare mein soche, khatra pehchane aur precautions le).
+
+
+----------------------------------------------------------------
+【２．１．３】 あいさつ
+(Aisatsu - Greetings)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE]
+事故を防ぐための取組みの中で、もっとも基本的で大切なことがあいさつです。
+(Jiko wo fusegu tame no torikumi no naka de, mottomo kihonteki de taisetsu na koto ga aisatsu desu.)
+
+[Word-by-Word]
+・事故 (jiko) = Accident
+・防ぐ (fusegu) = Rokna / Prevent
+・取組み (torikumi) = Efforts
+・もっとも (mottomo) = Sabse zyada
+・基本的 (kihonteki) = Basic
+・大切 (taisetsu) = Important
+・あいさつ (aisatsu) = Greetings
+
+[Overall Meaning]
+Accidents rokne ke efforts mein, sabse basic aur important cheez "Aisatsu" (greetings) hai.
+
+・おはようございます (Ohayou gozaimasu) = Good morning
+・おつかれさまです (Otsukaresama desu) = Thank you for your hard work (Jab koi mehnat kar raha ho)
+・ご安全に (Go-anzen ni) = Stay safe (Factory mein safety wish karne ke liye)
+
+Factory mein alag-alag kaam karne wale log jab ek doosre ko greet karte hain, toh ek team feeling banti hai aur kaam achha hota hai.
+
+
+----------------------------------------------------------------
+【２．１．４】 ほうれんそう (HOU-REN-SOU)
+----------------------------------------------------------------
+Japanese companies mein HOU-REN-SOU sabse important rule hai communication ke liye. Yeh Palak (Spinach - jise japanese mein hourensou kehte hain) ke naam par rakha gaya hai yaad rakhne ke liye.
+
+HOU = 報告 (Houkoku) = Report
+REN = 連絡 (Renraku) = Contact / Communicate
+SOU = 相談 (Soudan) = Consult / Advice lena
+
+（１）報告 (Houkoku - Report)
+仕事の進捗や結果などを先輩や上司に伝えることです。
+(Shigoto no shinchoku ya kekka nado wo senpai ya joushi ni tsutaeru koto desu.)
+Meaning: Apne kaam ka status (shinchoku) ya result apne seniors ya boss ko batana.
+
+（２）連絡 (Renraku - Contact/Info sharing)
+仕事に関する情報や、自分のスケジュールなどを先輩や上司に伝えることです。
+(Shigoto ni kansuru jouhou ya, jibun no sukejuuru nado wo senpai ya joushi ni tsutaeru koto desu.)
+Meaning: Kaam se judi information ya apna schedule seniors aur boss ko batana.
+
+（３）相談 (Soudan - Consult)
+トラブルが発生した場合や、わからないことを先輩や上司に伝えることです。
+(Toraburu ga hassei shita baai ya, wakaranai koto wo senpai ya joushi ni tsutaeru koto desu.)
+Meaning: Jab koi problem aaye ya kuch samajh na aaye, toh senior ya boss se salah (advice) lena.
+
+================================================================

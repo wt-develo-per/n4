@@ -1,0 +1,92 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 6: 測定 (Sokutei - Measurement) - Part 2
+================================================================
+
+Is part mein hum measurement ke baaki tools (Protractor, CMM) aur Comparative Measurement (Dial Gauge, Block Gauge) padhenge.
+
+----------------------------------------------------------------
+【６．２．３】 その他の測定器 (Sonota no sokuteiki - Other Direct Measuring Tools)
+----------------------------------------------------------------
+
+① 直尺 (Chokushaku - Straight Rule)
+長さを測定する測定器です。使い方は文房具のものさしと同じです。
+Meaning: Lambai napne ka normal scale (steel rule). Normal geometry wale scale jaisa hota hai.
+
+② プロトラクター (Purotorakutaa - Protractor / D / Chanda)
+角度を測定する測定器です。
+Meaning: Angle napne ka tool. Isme ek D (Bun-doki) aur ek scale (Sao) hota hai.
+
+③ ハイトゲージ (Haitogeeji - Height Gauge)
+高さなどの寸法を測定する測定器です。定盤の上で使う測定器です。
+(Takasa nado no sunpou wo sokutei suru sokuteiki desu. Jouban no ue de tsukau sokuteiki desu.)
+Meaning: Height (takasa) napne ka tool. Isko hamesha ek bilkul flat table "定盤 (Jouban - Surface plate)" par rakh kar use karte hain. Iski reading bhi Nogisu ki tarah hoti hai.
+
+④ デプスゲージ (Depusugeeji - Depth Gauge)
+深さを測定する測定器です。基準となる面に対して測定面が直角に動きます。
+Meaning: Gehrai (fukasa) napne ka tool.
+
+⑤ 三次元測定機 (Sanjigen sokuteiki - CMM: Coordinate Measuring Machine)
+長さと角度だけでなく、さまざまな幾何公差も測定することができる測定機です。プローブを測定物に接触させます。
+Meaning: 3D Measurement Machine. Yeh lambai, angle aur geometric tolerances (shape ki accuracy) nap sakti hai. Isme ek "Probe" hota hai jo product ko touch karke computer (PC) mein data bhejta hai.
+
+⑥ 表面粗さ測定機 (Hyoumen arosa sokuteiki - Surface Roughness Tester)
+触針（スタイラス）で表面をなぞり、表面の凸凹を拡大してパソコンに読み込んで測定を行います。
+Meaning: Surface kitni chikni ya khurduri (rough) hai, yeh napne ki machine. Isme ek needle (Stylus / 触針 - Shokushin) hoti hai jo surface par ghumti hai aur scratches/bumps measure karti hai.
+
+
+----------------------------------------------------------------
+【６．３】 比較測定 (Hikaku sokutei - Comparative Measurement)
+----------------------------------------------------------------
+Comparative measurement ka matlab hai pehle ek "Standard (Master) size" set karna, aur phir check karna ki product us standard se kitna alag (kam ya zyada) hai. Isme direct length nahi pata chalti, sirf "difference" pata chalta hai.
+
+【６．３．１】 ダイヤルゲージ (Daiyarugeeji - Dial Gauge)
+測定子の動きを機械的に拡大して、円形の目盛で移動量を表示する測定器です。
+(Sokuteishi no ugoki wo kikaiteki ni kakudai shite, enkei no memori de idouryou wo hyouji suru sokuteiki desu.)
+Meaning: Ek aesa tool jisme ek pin (Plunger/Spindle) upar-niche hoti hai aur uska movement ek gadi (clock) jaise gol scale par sui (needle) ke zariye dikhta hai. (Aam taur par 0.01mm ki accuracy).
+
+* ダイヤルゲージの使い方の注意 (Dial gauge use karne ke rules):
+- Ise hamesha ek Stand par fix karke use karte hain.
+- Measure karte waqt Plunger (pin) ko surface ke bilkul 90 degree (Shuichoku/Perpendicular) par rakhna chahiye, warna error aayega.
+
+【６．３．２】 その他の比較測定器 (Other Comparative Tools)
+① てこ式ダイヤルゲージ (Teko-shiki dial gauge - Lever-type Dial Gauge)
+Meaning: Isme pin upar-niche hone ki bajaye, ek lever (teko) aage-piche hota hai. Ise wahan use karte hain jahan normal dial gauge nahi ja sakta.
+
+② シリンダゲージ (Shirindageeji - Cylinder Gauge)
+内径を測るためのダイヤルゲージ。
+Meaning: Andar ka diameter (Hole ka size) napne ka dial gauge.
+
+---
+【６．３．３】 基準ゲージ・限界ゲージ (Kijun Gauge & Genkai Gauge)
+
+（１）ブロックゲージ (Burokkugeeji - Block Gauge)
+長さの比較測定の基準として使う測定器です。
+Meaning: Yeh alag-alag size ke steel blocks hote hain jo bilkul exact size ke hote hain. Inhe "Standard Size" (Master) ke roop mein use kiya jata hai Dial gauge wagera set karne ke liye.
+* リンギング (Ringing / Wringing): Block gauge ki surface itni smooth hoti hai ki agar do blocks ko aapas mein ragad kar (slide karke) joda jaye, toh wo bina kisi glue ke ek dusre se chipak jate hain. Ise "密着 (Mitchaku - Wringing/Ringing)" kehte hain.
+
+（２）リングゲージ (Ringugeeji - Ring Gauge)
+内径の比較測定の基準として使う測定器です。
+Meaning: Hole (internal diameter) napne ke liye gol ring jaisa standard gauge.
+
+（３）限界ゲージ (Genkaigeeji - Limit Gauge)
+製品の穴や軸の寸法が公差内であるかどうかを検査する測定器です。「通り側」と「止り側」がセットで使われます。
+(Seihin no ana ya jiku no sunpou ga kousanai de aru ka douka wo kensa suru sokuteiki desu. "Toorigawa" to "Tomarigawa" ga setto de tsukawaremasu.)
+Meaning: Yeh check karne ka fast tarika hai ki product ka size sahi range (tolerance) mein hai ya nahi.
+Isme 2 sides hoti hain:
+- 通り側 (Toorigawa - "GO" side): Yeh side product mein aaram se PASS (ghusni) honi chahiye.
+- 止り側 (Tomarigawa - "NO GO" side): Yeh side product mein PASS NAHI honi chahiye (atakni chahiye).
+Agar "Go" pass ho aur "No go" atak jaye, toh product "PASS" hai!
+
+[Limit Gauge ke Types]
+・穴用 (Ana-you - For Holes): プラグゲージ (Puragugeeji - Plug gauge). (Andar dal kar check karte hain).
+・軸用 (Jiku-you - For Shafts): 挟みゲージ (Hasamigeeji - Snap gauge) ya Ring gauge. (Bahar se pehna kar check karte hain).
+
+（４）ねじゲージ (Nejigeeji - Thread Gauge)
+ねじの有効径を検査するための限界ゲージです。
+Meaning: Screw (Neji) ka size check karne ka Limit Gauge. Isme bhi Go aur No-go side hoti hai.
+
+
+================================================================
+CHAPTER 6 COMPLETE!
+================================================================

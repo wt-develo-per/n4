@@ -1,0 +1,227 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 28 (N4)
+   Topic: ~ながら / ~し、~し / Habitual Actions
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein teen cheezein seekhenge:
+1. Ek saath do kaam karna: ~ながら
+2. Multiple reasons dena: ~し、~し
+3. Purani aadatein batana: ~ていました
+
+----------------------------------------------------------------
+[GRAMMAR 1] Verb Stem + ながら (~nagara)
+   -> Do kaam EK SAATH karna (same subject ke liye)
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb1 (masu-stem) + nagara + Verb2 (main action)
+
+  NOTE: Verb2 = MAIN action hoti hai
+        Verb1 = Saath saath hone wali secondary action
+
+MASU-STEM kaise banate hain?
+  kikimasu  -> kiki  (listen)
+  tabemasu  -> tabe  (eat)
+  mimasu    -> mi    (watch)
+  hanashimasu -> hanashi (speak)
+  arukimasu -> aruki (walk)
+
+EXAMPLES:
+  * Ongaku wo kikinagara shokuji shimasu.
+    -> Main music sunate sunate khaana khata/khati hoon.
+
+  * Terebi wo minagara benkyou shimasu.
+    -> Main TV dekhate dekhate padhai karta/karti hoon.
+
+  * Aruki nagara hanashimasu.
+    -> Main chalte chalte baat karta/karti hoon.
+
+  * Hatarakinagara Nihongo wo benkyou shite imasu.
+    -> Main kaam karte karte Japanese seekh raha/rahi hoon.
+
+  * Uta wo utainagara, ryouri shimasu.
+    -> Main gaana gate gate khaana banata/banati hoon.
+
+IMPORTANT RULES:
+  1. DONO subject ek hi hona chahiye (Main hi dono kaam kar raha hoon)
+     X: Watashi ga neru nagara, kare ga benkyou shimasu -> GALAT
+     (Do alag log = nagara nahi chalega)
+
+  2. Jo kaam ZYADA important ho, woh Verb 2 mein aata hai
+
+NEGATIVE MEANING (without doing):
+  * Nani mo tabenai nagara, hataraite imasu.
+    -> Kuch bhi nahi khaate (hue) kaam kar raha hoon.
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~し、~し (~shi, ~shi)
+   -> Multiple REASONS ya qualities batana
+   -> "Bhi... aur bhi..." wali feeling
+----------------------------------------------------------------
+
+STRUCTURE:
+  [Plain form] + shi, [Plain form] + shi, [Conclusion]
+
+FORMATION:
+  Verb     : taberu shi, nomu shi
+  i-Adj    : ookii shi, yasui shi
+  na-Adj   : kirei da shi, shizuka da shi
+  Noun     : gakusei da shi, Nihonjin da shi
+
+EXAMPLES:
+  * Kono mise wa yasui shi, oishii shi, yoku kimasu.
+    -> Yeh dukaan sasti bhi hai, swadisht bhi hai, isliye aksar aata/aati hoon.
+
+  * Kare wa se ga takai shi, hansamu da shi, ninki ga arimasu.
+    -> Woh lamba bhi hai, handsome bhi hai, isliye popular hai.
+
+  * Shigoto wa omoshiroi shi, kyuuryou mo ii shi, manzoku shite imasu.
+    -> Kaam interesting bhi hai, talab bhi achhi hai, isliye santusht hoon.
+
+  * Nihongo wa muzukashii shi, kanji mo ooi shi, taihen desu.
+    -> Japanese mushkil bhi hai, kanji bhi zyada hain, bohot mushkil hai.
+
+USING ~shi to give reasons:
+  Q: Doushite sono mise ga suki desu ka?
+     -> Woh dukaan kyun pasand hai?
+
+  A: Yasui shi, shizuka da shi, ii n desu.
+     -> Sasti bhi hai, shant bhi hai, isliye achhi hai.
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~ていました (~te imashita)
+   -> Purani AADAT batana: "Pahle... kiya karta/karti tha/thi"
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (te-form) + imashita
+
+EXAMPLES:
+
+  * Kodomo no toki, mainichi anime wo mite imashita.
+    -> Bachpan mein, main roz anime dekhta/dekhti tha/thi.
+
+  * Maiban hachiji ni nete imashita.
+    -> Raat ko 8 baje sota/soti tha/thi (pahle).
+
+  * Daigaku no toki, mainichi jogingu shite imashita.
+    -> College ke waqt, roz jogging karta/karti tha/thi.
+
+  * Mukashi wa tabako wo sutte imashita.
+    -> Pehle cigarette peeta/peeti tha/thi. (ab nahi peeta)
+
+COMPARISON:
+  ~te imasu   = Abhi bhi karta hoon (current habit)
+  ~te imashita = Pehle karta tha (past habit, ab nahi)
+
+----------------------------------------------------------------
+[GRAMMAR 4] それに (Sore ni) & それで (Sore de)
+   -> Connecting sentences
+----------------------------------------------------------------
+
+  それに (Sore ni) = Moreover / Aur bhi / Upar se
+    -> Aur ek reason ya info add karna
+
+  それで (Sore de) = Therefore / So / Isliye
+    -> Cause -> Result connect karna
+
+EXAMPLES:
+  * Kono resutoran wa yasui desu. Sorenni, oishii desu.
+    -> Yeh restaurant sasta hai. Aur bhi, swadisht bhi hai.
+
+  * Ame ga futte imashita. Sorede, gakkou wo yasumimashita.
+    -> Baarish ho rahi thi. Isliye school nahi gaya/gayi.
+
+  * Netsu ga arimashita. Sorede, hayaku nete imashita.
+    -> Bukhaar tha. Isliye jaldi so gaya/gayi.
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 28]
+----------------------------------------------------------------
+
+  Japanese        | Romaji          | Hindi Meaning
+  ----------------|----------------|----------------------
+  売れます         | uremasu         | Bikna / Sell hona
+  踊ります         | odorimasu       | Nachna
+  かみます         | kamimasu        | Chabaana / Kaatna
+  選びます         | erabimasu       | Chunna / Select karna
+  違います         | chigaimasu      | Alag hona / Galat hona
+  通います         | kayoimasu       | Aana-jaana / Commute karna
+  メモします        | memo shimasu    | Note banana / Likhna
+  まじめ（な）      | majime (na)     | Imaandaar / Serious
+  熱心（な）        | nesshin (na)    | Mehnat kash / Earnest
+  偉い            | erai            | Mahaan / Qabil
+  ちょうどいい      | choudo ii       | Bilkul theek / Just right
+  習慣            | shuukan         | Aadat / Custom
+  経験            | keiken          | Anubhav / Experience
+  人気            | ninki           | Popularity / Lokpriyata
+  形              | katachi         | Aakar / Shape
+  色              | iro             | Rang / Color
+  味              | aji             | Swaad / Taste
+  息子            | musuko          | Beta (apna)
+  息子さん         | musuko-san      | Beta (doosre ka)
+  娘              | musume          | Beti (apni)
+  娘さん           | musume-san      | Beti (doosre ki)
+  自分            | jibun           | Khud / Oneself
+  小説家          | shousetsuka     | Upanyaas lekhak / Novelist
+  歌手            | kashu           | Gaayak / Singer
+  将来            | shourai         | Bhavishya / Future
+  しばらく         | shibaraku       | Thodi der / A while
+  たいてい         | taitei          | Aam tor par / Usually
+  値段            | nedan           | Daam / Price
+  給料            | kyuuryou        | Talab / Salary
+  番組            | bangumi         | Program (TV/radio)
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES - KHUD BANAO]
+----------------------------------------------------------------
+
+1. Main coffee peete peete newspaper padhta/padhti hoon.
+   -> _______________________________________________
+
+2. Yeh restaurant sasta bhi hai, swadisht bhi hai.
+   -> _______________________________________________
+
+3. Bachpan mein, main roz 9 baje sota/soti tha/thi.
+   -> _______________________________________________
+
+4. Bukhaar tha. Isliye school nahi gaya/gayi.
+   -> _______________________________________________
+
+5. Woh mehnat kash bhi hai, honest bhi hai, bahut achha/achhi hai.
+   -> _______________________________________________
+
+ANSWERS:
+1. Koohii wo nominagara, shinbun wo yomimasu.
+2. Kono resutoran wa yasui shi, oishii shi, ii desu ne.
+3. Kodomo no toki, mainichi kuji ni nete imashita.
+4. Netsu ga arimashita. Sorede, gakkou wo yasumimashita.
+5. Majime da shi, nesshin da shi, totemo ii desu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 28]
+----------------------------------------------------------------
+
+* NAGARA ke saath ek hi subject hona ZAROORI hai!
+  "Watashi ga aruki nagara..." = SAHI
+  "Kare ga..." aur "Watashi ga..." = GALAT (2 alag log)
+
+* ~shi ke saath Plain Form aata hai (masu form NAHI!)
+  X: tabemasu shi -> GALAT
+  OK: taberu shi -> SAHI
+
+* ~shi mein na-adj/noun ke baad "da shi" aata hai:
+  kirei da shi / gakusei da shi
+
+* ~te imashita = Past Habitual ("used to do")
+  ~te imasu = Present Habitual/Ongoing ("do/am doing")
+
+* Sore ni vs Sore de:
+  Sore ni = Additional info (Moreover)
+  Sore de = Result/Consequence (Therefore)
+
+================================================================
+                    LESSON 28 - COMPLETE
+     Next: Lesson 29 -> State of things (Intransitive + te imasu)
+================================================================

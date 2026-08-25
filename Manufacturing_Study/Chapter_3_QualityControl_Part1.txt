@@ -1,0 +1,112 @@
+﻿================================================================
+   SSW MANUFACTURING EXAM STUDY GUIDE
+   CHAPTER 3: 品質管理 (Hinshitsu Kanri - Quality Control) - Part 1
+================================================================
+
+Is chapter mein hum Quality Control (QC) ke baare mein padhenge. Japanese manufacturing apni high quality ke liye puri duniya mein famous hai. Is chapter se QCDS, 4M, aur PDCA cycle par asaan aur direct questions aate hain.
+
+----------------------------------------------------------------
+【３．１】 品質管理の基本 (Hinshitsu kanri no kihon - Basics of Quality Control)
+【３．１．１】 品質とは (Hinshitsu to wa - Quality kya hai?)
+----------------------------------------------------------------
+
+[JAPANESE SENTENCE]
+品質とは、製品やサービスが、顧客や利用者の期待や要求をどれだけ満たしているかを示すものです。
+(Hinshitsu to wa, seihin ya saabisu ga, kokyaku ya riyousha no kitai ya youkyuu wo doredake mitashite iru ka wo shimesu mono desu.)
+
+[Word-by-Word]
+・品質 (hinshitsu) = Quality / Gunwatta
+・製品やサービス (seihin ya saabisu) = Products aur services
+・顧客や利用者 (kokyaku ya riyousha) = Customers aur users
+・期待や要求 (kitai ya youkyuu) = Umeed aur Demand
+・満たしているか (mitashite iru ka) = Pura kar raha hai ya nahi
+・示す (shimesu) = Dikhana / Show karna
+
+[Overall Meaning]
+Quality ka matlab yeh hai ki koi product ya service apne customers aur users ki umeedon (expectations) aur demands ko kitna pura karti hai. (Quality ka matlab sirf "acha ya bura" nahi hota, balki customer ki satisfaction hota hai).
+
+---
+【Quality ke 3 Types】(In teeno ka matlab samajhna zaroori hai)
+
+① 設計品質（ねらいの品質） - Sekkei Hinshitsu (Design Quality)
+製品を企画・設計する段階で定めた、顧客の意図を満たす品質のことです。
+(Seihin wo kikaku-sekkei suru dankai de sadameta, kokyaku no ito wo mitasu hinshitsu no koto desu.)
+Meaning: Product ki planning aur design ke waqt jo quality target ki jati hai (target quality).
+
+② 製造品質（できばえの品質） - Seizou Hinshitsu (Manufacturing Quality)
+製造を通して製品として実現した品質です。設計通りの性能や特性を、安定して実現する能力を指します。
+(Seizou wo tooshite seihin to shite jitsugen shita hinshitsu desu. Sekkeidoori no seinou ya tokusei wo, antei shite jitsugen suru nouryoku wo sashimasu.)
+Meaning: Manufacturing ke baad product mein asli mein jo quality aayi hai (actual quality). Yeh batata hai ki company kitne ache se design ke according product bana sakti hai.
+
+③ 物流品質 - Butsuryuu Hinshitsu (Logistics Quality)
+製品が顧客に届くまでの物流プロセスにおいて、顧客の要求や期待を満たす程度のことです。
+(Seihin ga kokyaku ni todoku made no butsuryuu purosesu ni oite, kokyaku no youkyuu ya kitai wo mitasu teido no koto desu.)
+Meaning: Product ban-ne ke baad customer tak pahunchne ki quality (delivery, right quantity, no damage).
+
+
+----------------------------------------------------------------
+【３．１．２】 品質管理の考え方 (Hinshitsu kanri no kangaekata - Concepts of Quality Control)
+----------------------------------------------------------------
+
+（１）品質管理の３つの要素 QCD + S
+(Hinshitsu kanri no mittsu no youso QCD)
+Meaning: Quality Control ke 3 main pillars (Q, C, D) aur ek extra pillar (S). Yeh sabse important exam topic hai!
+
+・Q = 品質 (Quality): Product acha hona chahiye.
+・C = コスト (Cost): Product ko banane ka kharcha kam aur price sahi hona chahiye (Raw materials, labor cost).
+・D = 納期 (Delivery): Product ko customer tak time par pahunchana chahiye.
+
+* Aur in teeno se upar ek sabse basic cheez hoti hai S = 安全 (Safety). 
+Agar product safe nahi hai ya workers safe nahi hain, toh Q, C, aur D ka koi fayda nahi. Isliye isko mila kar QCDS bhi kehte hain.
+
+---
+（２）製造の４M (Seizou no Yon-Emu - The 4Ms of Manufacturing)
+(Seizougyou ni okeru seisan katsudou no kihon youso - Basic elements of production)
+
+Koi bhi product banane ke liye in 4 M ki zaroorat hoti hai. Agar inme se ek mein bhi gadbadi hui, toh quality kharab ho jati hai.
+1. Man (作業者 - Sagyousha) = Insaan / Worker. Unki skills, knowledge, aur training.
+2. Machine (機械/設備 - Kikai/Setsubi) = Machine aur equipment. Machine ki condition aur performance.
+3. Material (材料/部品 - Zairyou/Buhin) = Raw material aur parts. Material ka acha hona.
+4. Method (方法 - Houhou) = Tarika. Kaam karne ka procedure (Sahi tools aur sahi steps use karna).
+
+---
+（３）三現主義 (Sangen Shugi - The 3 "Gen" Principle)
+(Shitsu kanri ya mondai kaiketsu wo okonau tame no shisei - Problem solving ki approach)
+Jab bhi factory mein koi problem aaye, toh in 3 "Gen" (현) ko follow karna chahiye:
+
+1. 現場 (Genba - Actual Place)
+問題が発生している現場に足を運ぶこと。
+(Mondai ga hassei shite iru genba ni ashi wo hakobu koto.)
+Meaning: Jis jagah (Genba) par problem hui hai, wahan khud chalkar jana. Sirf office mein baith kar report na padhna.
+
+2. 現物 (Genbutsu - Actual Thing)
+問題を引き起こしているものや製品を観察すること。
+(Mondai wo hikiokoshite iru mono ya seihin wo kansatsu suru koto.)
+Meaning: Jis cheez (Genbutsu) mein problem (defects/furyouhin) aayi hai, use khud apni aankhon se dekhna aur haath mein lekar check karna.
+
+3. 現実 (Genjitsu - Actual Facts/Reality)
+現場と現物から得られた事実に基づいて判断すること。
+(Genba to genbutsu kara erareta jijitsu ni motozuite handan suru koto.)
+Meaning: Genba aur Genbutsu ko dekhne ke baad jo sachai (Genjitsu) mili hai, uske base par hi decision lena aur real cause pata lagana.
+
+---
+（４）管理のサイクル PDCA (Kanri no Saikuru PDCA - The PDCA Cycle)
+Problem solve karne aur quality improve karne ke liye ek cycle (process) follow kiya jata hai jise PDCA kehte hain. Yeh cycle lagatar ghoomti rehti hai.
+
+・P = Plan (計画 - Keikaku)
+達成すべき目標を設定し、具体的な計画を立てる。
+Meaning: Sabse pehle goal set karna aur use poora karne ka "Plan" (keikaku) banana.
+
+・D = Do (実行 - Jikkou)
+計画に基づいて具体的な行動を実行する。
+Meaning: Us plan ke hisaab se action lena aur kaam ko karna "Do" (jikkou).
+
+・C = Check (評価 - Hyouka)
+実行した行動の結果を、目標と比較して評価する。
+Meaning: Jo kaam kiya gaya, uske result ko goal se compare karna aur check karna ki sab sahi hai ya nahi "Check" (hyouka).
+
+・A = Act (改善 - Kaizen)
+評価結果をもとに、つぎのサイクルで改善策を検討する。
+Meaning: Jo result mila, usko sudharne ke liye naya plan banana aur pichle process ko improve karna "Act" (kaizen).
+
+================================================================

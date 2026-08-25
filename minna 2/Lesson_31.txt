@@ -1,0 +1,243 @@
+﻿================================================================
+   MINNA NO NIHONGO 2 - LESSON 31 (N4)
+   Topic: Volitional Form + ~つもりです / ~よていです
+================================================================
+
+[LESSON KA FOCUS]
+Is lesson mein seekhenge ki apni NIYAT aur PLANS kaise batate hain:
+1. Volitional Form (ikoukei) - "Chalo karte hain / karne ka sochta hoon"
+2. ~tsumori desu - Pakka iraada
+3. ~yotei desu - Scheduled plan / Tay shuda program
+
+----------------------------------------------------------------
+[GRAMMAR 1] VOLITIONAL FORM (意向形 - Ikoukei)
+   -> "Let's do..." ya "I think I'll do..."
+   -> Casual ~mashou ka equivalent
+----------------------------------------------------------------
+
+CONJUGATION RULES:
+
+GROUP 1 (u-verbs): Last -u -> -ou
+  kaku   -> kakou    (likhna -> chaliye likhen)
+  nomu   -> nomou    (peena -> chaliye peeyen)
+  hanasu -> hanasou  (bolna -> chaliye bolen)
+  matsu  -> matou    (intezaar karna -> chaliye intezaar karen)
+  iku    -> ikou     (jaana -> chaliye jayen)
+  yomu   -> yomou    (padhna -> chaliye padhen)
+  oyogu  -> oyogou   (tairna -> chaliye tairen)
+  kaeru  -> kaerou   (waapis jaana -> chaliye waapis jayen)
+
+GROUP 2 (ru-verbs): -ru -> -you
+  taberu -> tabeyou  (khaana -> chaliye khayen)
+  miru   -> miyou    (dekhna -> chaliye dekhen)
+  okiru  -> okiyou   (uthna -> chaliye uthen)
+  neru   -> neyou    (sona -> chaliye soyen)
+
+GROUP 3 (Irregular):
+  suru   -> shiyou   (karna -> chaliye karen)
+  kuru   -> koyou    (aana -> chaliye aayen)
+
+USE 1 - "Let's do..." (Casual mashou)
+  * Ikou! -> Chalo jayen!
+  * Tabeyou! -> Chalo khayen!
+  * Benkyou shiyou! -> Chalo padhen!
+
+USE 2 - ~と思っています (~to omotte imasu)
+  -> "Main ... karne ka soch raha/rahi hoon"
+  -> Pehle se sochi hui niyat jo abhi bhi hai
+
+STRUCTURE:
+  Volitional Form + to omotte imasu
+
+  * Ginkou ni ikou to omotte imasu.
+    -> Bank jaane ka soch raha/rahi hoon.
+
+  * Nihon ni ryokou shiyou to omotte imasu.
+    -> Japan trip karne ka plan soch raha/rahi hoon.
+
+  * Atarasshii shigoto wo sagasou to omotte imasu.
+    -> Nayi naukri dhundne ka soch raha/rahi hoon.
+
+  * Uchi wo tateyou to omotte imashita ga, okane ga arimasen.
+    -> Ghar banana chahta/chahti tha/thi lekin paisa nahi hai.
+
+IMPORTANT: ~to omotte imasu vs ~to omoimasu
+  ~to omoimasu      = Abhi soch raha/rahi hoon (sudden thought)
+  ~to omotte imasu  = Kuch waqt se soch raha/rahi hoon (ongoing plan)
+
+----------------------------------------------------------------
+[GRAMMAR 2] ~つもりです (~tsumori desu)
+   -> PAKKA IRAADA - "...karne ka irada hai"
+   -> Firm personal intention
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (Dictionary form) + tsumori desu
+  Verb (Nai form) + tsumori desu  [negative intention]
+
+POSITIVE EXAMPLES:
+  * Daigakuin ni hairu tsumori desu.
+    -> Graduate school mein jaane ka irada hai.
+
+  * Nihon ni zutto sumu tsumori desu.
+    -> Japan mein hamesha rehne ka irada hai.
+
+  * Rainen kekkon suru tsumori desu.
+    -> Agle saal shaadi karne ka irada hai.
+
+NEGATIVE EXAMPLES (Nai form + tsumori desu):
+  * Tabako wa suu tsumori wa arimasen.
+    -> Cigarette peene ka bilkul irada nahi.
+
+  * Kuni e kaeranai tsumori desu.
+    -> Apne desh waapis jaane ka irada nahi.
+
+  * Uchi wo uru tsumori wa arimasen.
+    -> Ghar bechne ka koi irada nahi.
+
+DIFFERENCE: tsumori vs to omotte imasu
+  ~tsumori desu     = Pakka decision (strong intention)
+  ~to omotte imasu  = Abhi soch raha hoon (still considering)
+
+  "Kekkon suru tsumori desu" = Shaadi karni hai (decided)
+  "Kekkon shiyou to omotte imasu" = Shaadi karne ka soch raha hoon
+
+----------------------------------------------------------------
+[GRAMMAR 3] ~よていです (~yotei desu)
+   -> SCHEDULED PLAN - Koi tay shuda / confirm program
+   -> Bahari ya official schedule
+----------------------------------------------------------------
+
+STRUCTURE:
+  Verb (Dictionary form) + yotei desu
+  Noun + no yotei desu
+
+EXAMPLES:
+  * Hachigatsu ni Nihon e ryokou suru yotei desu.
+    -> August mein Japan trip ka plan hai.
+
+  * Ashita kaigi ga aru yotei desu.
+    -> Kal meeting hai (scheduled).
+
+  * Rainen sotsugyou suru yotei desu.
+    -> Agle saal graduation ka plan hai.
+
+  * San-ji ni kuru yotei desu.
+    -> 3 baje aane wala/wali hai (confirmed).
+
+DIFFERENCE: tsumori vs yotei
+  ~tsumori desu = Personal iraada (I intend to...)
+  ~yotei desu   = Schedule/Plan (It is planned that...)
+
+  "Tokyo ni iku tsumori desu" = Main Tokyo jaane ka soch raha hoon
+  "Tokyo ni iku yotei desu"   = Tokyo jaana tay hai (plan confirm)
+
+----------------------------------------------------------------
+[KEY VOCABULARY - LESSON 31]
+----------------------------------------------------------------
+
+  Japanese          | Romaji            | Hindi Meaning
+  ------------------|-------------------|----------------------
+  続けます           | tsuzukemasu       | Jaari rakhna / Continue
+  見つけます          | mitsukemasu       | Dhundh lena / Find karna
+  受けます           | ukemasu           | Lena (exam lena)
+  入学します          | nyuugaku shimasu  | Dakhila lena (school)
+  卒業します          | sotsugyou shimasu | Graduation karna
+  休憩します          | kyuukei shimasu   | Aaraam karna / Break lena
+  集まります          | atsumarimasu      | Ikattha hona / Gather
+  残ります           | nokorimasu        | Bacha rehna / Remain
+  気が付きます        | ki ga tsukimasu   | Pata chalna / Notice karna
+  連休              | renkyuu           | Lagaataar chhutti
+  作文              | sakubun           | Nibandh / Essay
+  展覧会            | tenrankai         | Numaish / Exhibition
+  結婚式            | kekkonshiki       | Shaadi ka function
+  葬式              | soushiki          | Janaza / Funeral
+  本社              | honsha            | Mukhyalay / HQ
+  支店              | shiten            | Shaakha / Branch office
+  教会              | kyoukai           | Girja-ghar / Church
+  大学院            | daigakuin         | Ucch shiksha / Grad school
+  動物園            | doubutsuen        | Chidiyaghar / Zoo
+  温泉              | onsen             | Garam paani ka chashma
+  お客さん           | okyakusan         | Mehmaan / Guest
+  村               | mura              | Gaon / Village
+  映画館            | eigakan           | Cinema / Movie theater
+  空               | sora              | Aasman / Sky
+  自然              | shizen            | Kudrat / Nature
+  都会              | tokai             | Sheher / City
+  自由に            | jiyuu ni          | Azaadi se / Freely
+  世界中            | sekaijuu          | Poori duniya mein
+  美しい            | utsukushii        | Khoobsurat / Beautiful
+  ずっと            | zutto             | Hamesha se / All along
+  ふつうの           | futsuu no         | Aam / Ordinary
+
+----------------------------------------------------------------
+[VOLITIONAL FORM - QUICK REFERENCE]
+----------------------------------------------------------------
+
+  Dictionary | Volitional | Meaning
+  -----------|-----------|------------------
+  kaku       | kakou      | Likhen
+  nomu       | nomou      | Peeyen
+  hanasu     | hanasou    | Bolen
+  iku        | ikou       | Jayen
+  yomu       | yomou      | Padhen
+  taberu     | tabeyou    | Khayen
+  miru       | miyou      | Dekhen
+  neru       | neyou      | Soyen
+  okiru      | okiyou     | Uthen
+  suru       | shiyou     | Karen
+  kuru       | koyou      | Aayen
+
+----------------------------------------------------------------
+[PRACTICE SENTENCES - KHUD BANAO]
+----------------------------------------------------------------
+
+1. Main Japan mein Japanese padhne ka plan soch raha hoon.
+   -> _______________________________________________
+
+2. Mujhe cigarette peeni hi nahi hai. (firm intention)
+   -> _______________________________________________
+
+3. Kal 3 baje meeting scheduled hai.
+   -> _______________________________________________
+
+4. Chalo coffee peeyen!
+   -> _______________________________________________
+
+5. Agle saal graduation karni hai. (tsumori)
+   -> _______________________________________________
+
+ANSWERS:
+1. Nihon de Nihongo wo benkyou shiyou to omotte imasu.
+2. Tabako wa suwanai tsumori desu.
+3. Ashita sanji ni kaigi ga aru yotei desu.
+4. Koohii wo nomou!
+5. Rainen sotsugyou suru tsumori desu.
+
+----------------------------------------------------------------
+[N4 EXAM TIPS - LESSON 31]
+----------------------------------------------------------------
+
+* Teen alag expressions yaad rakho:
+  ~to omotte imasu = Soch raha hoon (flexible, thinking)
+  ~tsumori desu    = Pakka irada (decided, personal)
+  ~yotei desu      = Confirm plan/schedule (external/official)
+
+* Volitional + to omotte imasu -> common N4 pattern!
+  "Ikou to omotte imasu" = Jaane ka soch raha/rahi hoon
+
+* Negative tsumori:
+  NAI form + tsumori desu (dictionary form NAHI!)
+  X: ikanai tsumori desu -> actually this is CORRECT (nai form)
+  X: iku tsumori wa arimasen -> also correct (stronger negative)
+
+* Volitional form = plain casual "mashou":
+  Ikou = Chalo jayen (casual)
+  Ikimashou = Chalo jayen (polite)
+
+* Yotei = schedule/appointment - external confirmation wali baat
+
+================================================================
+                    LESSON 31 - COMPLETE
+     Next: Lesson 32 -> ~ほうがいいです / でしょう / かもしれません
+================================================================
